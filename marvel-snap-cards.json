@@ -1,0 +1,1976 @@
+[
+  {
+    "name":"Abomination",
+    "ability":"Foolish rabble! You are beneath me!",
+    "url":"https:\/\/snap.fan\/cards\/Abomination\/",
+    "energy":5,
+    "power":9
+  },
+  {
+    "name":"Absorbing Man",
+    "ability":"On Reveal: If the last card you played has an On Reveal, copy its text. (if it's in play)",
+    "url":"https:\/\/snap.fan\/cards\/AbsorbingMan\/",
+    "energy":4,
+    "power":4
+  },
+  {
+    "name":"Adam Warlock",
+    "ability":"After each turn, draw a card if you're winning here.",
+    "url":"https:\/\/snap.fan\/cards\/AdamWarlock\/",
+    "energy":5,
+    "power":5
+  },
+  {
+    "name":"Aero",
+    "ability":"On Reveal: Move the last enemy card played anywhere to this location.",
+    "url":"https:\/\/snap.fan\/cards\/Aero\/",
+    "energy":5,
+    "power":9
+  },
+  {
+    "name":"Agatha Harkness",
+    "ability":"Agatha starts in your hand and plays your cards for you.",
+    "url":"https:\/\/snap.fan\/cards\/AgathaHarkness\/",
+    "energy":6,
+    "power":14
+  },
+  {
+    "name":"Agent 13",
+    "ability":"On Reveal: Add a random card to your hand.",
+    "url":"https:\/\/snap.fan\/cards\/Agent13\/",
+    "energy":1,
+    "power":2
+  },
+  {
+    "name":"Agent Coulson",
+    "ability":"On Reveal: Add a random 4-Cost and 5-Cost card to your hand.",
+    "url":"https:\/\/snap.fan\/cards\/AgentCoulson\/",
+    "energy":3,
+    "power":4
+  },
+  {
+    "name":"Alioth",
+    "ability":"On Reveal: Remove the text from all unrevealed enemy cards here.",
+    "url":"https:\/\/snap.fan\/cards\/Alioth\/",
+    "energy":6,
+    "power":10
+  },
+  {
+    "name":"America Chavez",
+    "ability":"On Reveal: Give the top card of your deck +2 Power.",
+    "url":"https:\/\/snap.fan\/cards\/AmericaChavez\/",
+    "energy":1,
+    "power":2
+  },
+  {
+    "name":"Angel",
+    "ability":"When one of your cards is destroyed, this flies out of your hand or deck to replace it.",
+    "url":"https:\/\/snap.fan\/cards\/Angel\/",
+    "energy":1,
+    "power":2
+  },
+  {
+    "name":"Angela",
+    "ability":"After you play a card here,+1 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Angela\/",
+    "energy":2,
+    "power":3
+  },
+  {
+    "name":"Annihilus",
+    "ability":"On Reveal: Your cards with Power below 0 switch sides. Destroythose that can't.",
+    "url":"https:\/\/snap.fan\/cards\/Annihilus\/",
+    "energy":5,
+    "power":6
+  },
+  {
+    "name":"Ant Man",
+    "ability":"Ongoing: If your side of this location is full, +4 Power.",
+    "url":"https:\/\/snap.fan\/cards\/AntMan\/",
+    "energy":1,
+    "power":1
+  },
+  {
+    "name":"Apocalypse",
+    "ability":"When you discard this, put it back with +4 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Apocalypse\/",
+    "energy":6,
+    "power":6
+  },
+  {
+    "name":"Arishem",
+    "ability":"At the start of the game, +1 Max Energy. Shuffle 12 random cards into your deck.",
+    "url":"https:\/\/snap.fan\/cards\/Arishem\/",
+    "energy":7,
+    "power":7
+  },
+  {
+    "name":"Armor",
+    "ability":"Ongoing: Cards here can'tbe destroyed.",
+    "url":"https:\/\/snap.fan\/cards\/Armor\/",
+    "energy":2,
+    "power":3
+  },
+  {
+    "name":"Arnim Zola",
+    "ability":"On Reveal: Destroy one of yourother cards here to copy itat the other locations.",
+    "url":"https:\/\/snap.fan\/cards\/ArnimZola\/",
+    "energy":6,
+    "power":0
+  },
+  {
+    "name":"Attuma",
+    "ability":"After each turn, destroy this if you have another card here.",
+    "url":"https:\/\/snap.fan\/cards\/Attuma\/",
+    "energy":4,
+    "power":10
+  },
+  {
+    "name":"Baron Mordo",
+    "ability":"On Reveal: The top card of your opponent's deck costs 6 until turn 6.",
+    "url":"https:\/\/snap.fan\/cards\/BaronMordo\/",
+    "energy":2,
+    "power":3
+  },
+  {
+    "name":"Baron Zemo",
+    "ability":"On Reveal: Recruit the lowest-Cost card from your opponent's deck to your side of this location.",
+    "url":"https:\/\/snap.fan\/cards\/BaronZemo\/",
+    "energy":3,
+    "power":5
+  },
+  {
+    "name":"Bast",
+    "ability":"On Reveal: Set the Power of all cards in your hand to 3.",
+    "url":"https:\/\/snap.fan\/cards\/Bast\/",
+    "energy":1,
+    "power":1
+  },
+  {
+    "name":"Beast",
+    "ability":"On Reveal: Return your other cards here to your hand. They cost 1 less next turn.",
+    "url":"https:\/\/snap.fan\/cards\/Beast\/",
+    "energy":2,
+    "power":2
+  },
+  {
+    "name":"Beta Ray Bill",
+    "ability":"On Reveal: Shuffle Stormbreaker into your deck.",
+    "url":"https:\/\/snap.fan\/cards\/BetaRayBill\/",
+    "energy":5,
+    "power":6
+  },
+  {
+    "name":"Bishop",
+    "ability":"After you play a card, this gains +1 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Bishop\/",
+    "energy":3,
+    "power":1
+  },
+  {
+    "name":"Black Bolt",
+    "ability":"On Reveal: Discard the lowest-cost card from your opponent's hand.",
+    "url":"https:\/\/snap.fan\/cards\/BlackBolt\/",
+    "energy":5,
+    "power":7
+  },
+  {
+    "name":"Black Cat",
+    "ability":"If this is in your hand after the turn, discard it.",
+    "url":"https:\/\/snap.fan\/cards\/BlackCat\/",
+    "energy":4,
+    "power":9
+  },
+  {
+    "name":"Black Knight",
+    "ability":"After you discard a card, add the Ebony Blade to your hand with that card's Power. (once per game)",
+    "url":"https:\/\/snap.fan\/cards\/BlackKnight\/",
+    "energy":1,
+    "power":2
+  },
+  {
+    "name":"Black Panther",
+    "ability":"On Reveal: Double thiscard's Power.",
+    "url":"https:\/\/snap.fan\/cards\/BlackPanther\/",
+    "energy":5,
+    "power":4
+  },
+  {
+    "name":"Black Swan",
+    "ability":"On Reveal: Until the end of next turn, your 1-Cost cards cost 0.",
+    "url":"https:\/\/snap.fan\/cards\/BlackSwan\/",
+    "energy":3,
+    "power":5
+  },
+  {
+    "name":"Black Widow",
+    "ability":"On Reveal: Add a Widow's Bite to your opponent's hand.",
+    "url":"https:\/\/snap.fan\/cards\/BlackWidow\/",
+    "energy":3,
+    "power":3
+  },
+  {
+    "name":"Blade",
+    "ability":"On Reveal: Discard the rightmost card from your hand.",
+    "url":"https:\/\/snap.fan\/cards\/Blade\/",
+    "energy":1,
+    "power":3
+  },
+  {
+    "name":"Blink",
+    "ability":"On Reveal: Swap the last card you played with a higher-Cost cardfrom your deck.",
+    "url":"https:\/\/snap.fan\/cards\/Blink\/",
+    "energy":5,
+    "power":7
+  },
+  {
+    "name":"Blob",
+    "ability":"On Reveal: Merge cards from your deck into this until it gains 15 or more Power.Ongoing: Can't be moved.",
+    "url":"https:\/\/snap.fan\/cards\/Blob\/",
+    "energy":6,
+    "power":0
+  },
+  {
+    "name":"Blue Marvel",
+    "ability":"Ongoing: Your other cards have +1 Power.",
+    "url":"https:\/\/snap.fan\/cards\/BlueMarvel\/",
+    "energy":5,
+    "power":3
+  },
+  {
+    "name":"Brood",
+    "ability":"On Reveal: Add 2 Broodlings here with the same Power.",
+    "url":"https:\/\/snap.fan\/cards\/Brood\/",
+    "energy":3,
+    "power":2
+  },
+  {
+    "name":"Bucky Barnes",
+    "ability":"When this is destroyed, replace it with the Winter Soldier.",
+    "url":"https:\/\/snap.fan\/cards\/BuckyBarnes\/",
+    "energy":2,
+    "power":1
+  },
+  {
+    "name":"Cable",
+    "ability":"On Reveal: Draw a card from your opponent's deck.",
+    "url":"https:\/\/snap.fan\/cards\/Cable\/",
+    "energy":2,
+    "power":3
+  },
+  {
+    "name":"Caiera",
+    "ability":"Ongoing: Your 1 and 6-Cost cards can't be destroyed.",
+    "url":"https:\/\/snap.fan\/cards\/Caiera\/",
+    "energy":3,
+    "power":4
+  },
+  {
+    "name":"Cannonball",
+    "ability":"On Reveal: Move the highest-Power enemy card here away. If you can't, destroy it with a Rock.",
+    "url":"https:\/\/snap.fan\/cards\/Cannonball\/",
+    "energy":5,
+    "power":7
+  },
+  {
+    "name":"Captain America",
+    "ability":"Ongoing: Your other Ongoing cards here have +2 Power.",
+    "url":"https:\/\/snap.fan\/cards\/CaptainAmerica\/",
+    "energy":3,
+    "power":3
+  },
+  {
+    "name":"Captain Marvel",
+    "ability":"At the end of the game, move to a location that wins you thegame. (If possible)",
+    "url":"https:\/\/snap.fan\/cards\/CaptainMarvel\/",
+    "energy":4,
+    "power":5
+  },
+  {
+    "name":"Carnage",
+    "ability":"On Reveal: Destroy your other cards here. +2 Power for each destroyed.",
+    "url":"https:\/\/snap.fan\/cards\/Carnage\/",
+    "energy":2,
+    "power":2
+  },
+  {
+    "name":"Cerebro",
+    "ability":"Ongoing: Your highest-Power cards have +2 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Cerebro\/",
+    "energy":3,
+    "power":0
+  },
+  {
+    "name":"Cloak",
+    "ability":"On Reveal: Next turn, both players can move cards to this location.",
+    "url":"https:\/\/snap.fan\/cards\/Cloak\/",
+    "energy":2,
+    "power":4
+  },
+  {
+    "name":"Colleen Wing",
+    "ability":"On Reveal: Discard the lowest-cost card from your hand.",
+    "url":"https:\/\/snap.fan\/cards\/ColleenWing\/",
+    "energy":2,
+    "power":4
+  },
+  {
+    "name":"Colossus",
+    "ability":"Ongoing: Can't be destroyed, moved, or have its Power reduced.",
+    "url":"https:\/\/snap.fan\/cards\/Colossus\/",
+    "energy":2,
+    "power":3
+  },
+  {
+    "name":"Corvus Glaive",
+    "ability":"On Reveal: Discard 2 cards from your hand to get +1 Max Energy.",
+    "url":"https:\/\/snap.fan\/cards\/CorvusGlaive\/",
+    "energy":3,
+    "power":5
+  },
+  {
+    "name":"Cosmo",
+    "ability":"Ongoing: On Reveal abilities won't happen here.",
+    "url":"https:\/\/snap.fan\/cards\/Cosmo\/",
+    "energy":3,
+    "power":3
+  },
+  {
+    "name":"Crossbones",
+    "ability":"You can only play this at locations where you are winning.",
+    "url":"https:\/\/snap.fan\/cards\/Crossbones\/",
+    "energy":4,
+    "power":10
+  },
+  {
+    "name":"Crystal",
+    "ability":"On Reveal: Each playerdraws a card.",
+    "url":"https:\/\/snap.fan\/cards\/Crystal\/",
+    "energy":3,
+    "power":3
+  },
+  {
+    "name":"Cull Obsidian",
+    "ability":"You can only play this where you have a 1-Cost card.",
+    "url":"https:\/\/snap.fan\/cards\/CullObsidian\/",
+    "energy":4,
+    "power":10
+  },
+  {
+    "name":"Cyclops",
+    "ability":"Let's move, X-Men.",
+    "url":"https:\/\/snap.fan\/cards\/Cyclops\/",
+    "energy":3,
+    "power":4
+  },
+  {
+    "name":"Dagger",
+    "ability":"When this moves to a location,+3 Power for each enemy card there.",
+    "url":"https:\/\/snap.fan\/cards\/Dagger\/",
+    "energy":2,
+    "power":0
+  },
+  {
+    "name":"Daken",
+    "ability":"On Reveal: Add the Muramasa Shard to your hand.",
+    "url":"https:\/\/snap.fan\/cards\/Daken\/",
+    "energy":3,
+    "power":4
+  },
+  {
+    "name":"Daredevil",
+    "ability":"On turn 5, you get to see your opponent's plays before youmake your own.",
+    "url":"https:\/\/snap.fan\/cards\/Daredevil\/",
+    "energy":2,
+    "power":2
+  },
+  {
+    "name":"Darkhawk",
+    "ability":"Ongoing: +2 Power for each card in your opponent's deck.",
+    "url":"https:\/\/snap.fan\/cards\/Darkhawk\/",
+    "energy":4,
+    "power":3
+  },
+  {
+    "name":"Dazzler",
+    "ability":"Ongoing: +2 Power for each location that's full on your side.",
+    "url":"https:\/\/snap.fan\/cards\/Dazzler\/",
+    "energy":2,
+    "power":2
+  },
+  {
+    "name":"Deadpool",
+    "ability":"When this is destroyed, return it to your hand with double the Power.",
+    "url":"https:\/\/snap.fan\/cards\/Deadpool\/",
+    "energy":1,
+    "power":1
+  },
+  {
+    "name":"Death",
+    "ability":"Costs 1 less for each card destroyed this game.",
+    "url":"https:\/\/snap.fan\/cards\/Death\/",
+    "energy":8,
+    "power":12
+  },
+  {
+    "name":"Deathlok",
+    "ability":"On Reveal: Destroy yourother cards here.",
+    "url":"https:\/\/snap.fan\/cards\/Deathlok\/",
+    "energy":5,
+    "power":5
+  },
+  {
+    "name":"Debrii",
+    "ability":"On Reveal: Add a Rock to each other location, for both players.",
+    "url":"https:\/\/snap.fan\/cards\/Debrii\/",
+    "energy":3,
+    "power":3
+  },
+  {
+    "name":"Destroyer",
+    "ability":"On Reveal: Destroy yourother cards.",
+    "url":"https:\/\/snap.fan\/cards\/Destroyer\/",
+    "energy":6,
+    "power":16
+  },
+  {
+    "name":"Devil Dinosaur",
+    "ability":"Ongoing: +2 Power for each card in your hand.",
+    "url":"https:\/\/snap.fan\/cards\/DevilDinosaur\/",
+    "energy":5,
+    "power":3
+  },
+  {
+    "name":"Doctor Doom",
+    "ability":"On Reveal: Add a 5-Power DoomBot to each other location.",
+    "url":"https:\/\/snap.fan\/cards\/DrDoom\/",
+    "energy":6,
+    "power":5
+  },
+  {
+    "name":"Doctor Octopus",
+    "ability":"On Reveal: Pull 4 cards from your opponent's hand to their sideof this location.",
+    "url":"https:\/\/snap.fan\/cards\/DoctorOctopus\/",
+    "energy":5,
+    "power":10
+  },
+  {
+    "name":"Doctor Strange",
+    "ability":"On Reveal: Move your highest-Power card(s) to this location.",
+    "url":"https:\/\/snap.fan\/cards\/DoctorStrange\/",
+    "energy":2,
+    "power":3
+  },
+  {
+    "name":"Domino",
+    "ability":"You always draw this card on turn 2, and not before.",
+    "url":"https:\/\/snap.fan\/cards\/Domino\/",
+    "energy":2,
+    "power":3
+  },
+  {
+    "name":"Dracula",
+    "ability":"At the end of the game, discard a card from your hand to gain its Power.",
+    "url":"https:\/\/snap.fan\/cards\/Dracula\/",
+    "energy":4,
+    "power":1
+  },
+  {
+    "name":"Drax",
+    "ability":"On Reveal: If your opponent played a card here this turn, +4 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Drax\/",
+    "energy":4,
+    "power":5
+  },
+  {
+    "name":"Ebony Maw",
+    "ability":"You can't play this after turn 3.Ongoing: You can't play cards here.",
+    "url":"https:\/\/snap.fan\/cards\/EbonyMaw\/",
+    "energy":1,
+    "power":7
+  },
+  {
+    "name":"Echo",
+    "ability":"After your opponent plays an Ongoing card here, remove its abilities.",
+    "url":"https:\/\/snap.fan\/cards\/Echo\/",
+    "energy":1,
+    "power":2
+  },
+  {
+    "name":"Electro",
+    "ability":"On Reveal: +1 Max Energy. Ongoing: You can only play1 card a turn.",
+    "url":"https:\/\/snap.fan\/cards\/Electro\/",
+    "energy":3,
+    "power":2
+  },
+  {
+    "name":"Elektra",
+    "ability":"On Reveal: Destroy an enemy 1-Cost card here.",
+    "url":"https:\/\/snap.fan\/cards\/Elektra\/",
+    "energy":1,
+    "power":2
+  },
+  {
+    "name":"Elsa Bloodstone",
+    "ability":"Each card you play to fill your side of a location gains +2 Power.",
+    "url":"https:\/\/snap.fan\/cards\/ElsaBloodstone\/",
+    "energy":3,
+    "power":3
+  },
+  {
+    "name":"Enchantress",
+    "ability":"On Reveal: Remove the abilities from all Ongoing cards here.",
+    "url":"https:\/\/snap.fan\/cards\/Enchantress\/",
+    "energy":4,
+    "power":5
+  },
+  {
+    "name":"Falcon",
+    "ability":"On Reveal: Return your 1-Cost cards to your hand.",
+    "url":"https:\/\/snap.fan\/cards\/Falcon\/",
+    "energy":2,
+    "power":3
+  },
+  {
+    "name":"Forge",
+    "ability":"On Reveal: Give the next card you play +2 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Forge\/",
+    "energy":2,
+    "power":2
+  },
+  {
+    "name":"Galactus",
+    "ability":"On Reveal: If you're winning this location and this is your only card here, destroy all other locations.",
+    "url":"https:\/\/snap.fan\/cards\/Galactus\/",
+    "energy":6,
+    "power":5
+  },
+  {
+    "name":"Gambit",
+    "ability":"On Reveal: Discard a card from your hand to destroy a random enemy card.",
+    "url":"https:\/\/snap.fan\/cards\/Gambit\/",
+    "energy":3,
+    "power":3
+  },
+  {
+    "name":"Gamora",
+    "ability":"On Reveal: If your opponent played a card here this turn, +4 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Gamora\/",
+    "energy":5,
+    "power":8
+  },
+  {
+    "name":"Ghost",
+    "ability":"Ongoing: Your cards are always revealed last. (Their On Reveal abilities happen last.)",
+    "url":"https:\/\/snap.fan\/cards\/Ghost\/",
+    "energy":3,
+    "power":5
+  },
+  {
+    "name":"Ghost Rider",
+    "ability":"On Reveal: Bring back one of your discarded cards to this location.",
+    "url":"https:\/\/snap.fan\/cards\/GhostRider\/",
+    "energy":4,
+    "power":3
+  },
+  {
+    "name":"Ghost-Spider",
+    "ability":"On Reveal: The last card you played moves here.",
+    "url":"https:\/\/snap.fan\/cards\/GhostSpider\/",
+    "energy":1,
+    "power":2
+  },
+  {
+    "name":"Giganto",
+    "ability":"You can only play this at the left location.",
+    "url":"https:\/\/snap.fan\/cards\/Giganto\/",
+    "energy":6,
+    "power":14
+  },
+  {
+    "name":"Gilgamesh",
+    "ability":"On Reveal: +1 Power for each of your other cards in play with increased Power.",
+    "url":"https:\/\/snap.fan\/cards\/Gilgamesh\/",
+    "energy":5,
+    "power":9
+  },
+  {
+    "name":"Gladiator",
+    "ability":"On Reveal: Add a card from your opponent's deck to their side of this location. If it has less Power, destroy it.",
+    "url":"https:\/\/snap.fan\/cards\/Gladiator\/",
+    "energy":3,
+    "power":8
+  },
+  {
+    "name":"Goose",
+    "ability":"Ongoing: Nobody can play cards that cost 4, 5, or 6 here.",
+    "url":"https:\/\/snap.fan\/cards\/Goose\/",
+    "energy":2,
+    "power":2
+  },
+  {
+    "name":"Grand Master",
+    "ability":"On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again.",
+    "url":"https:\/\/snap.fan\/cards\/GrandMaster\/",
+    "energy":2,
+    "power":2
+  },
+  {
+    "name":"Green Goblin",
+    "ability":"On Reveal: Switch sides.",
+    "url":"https:\/\/snap.fan\/cards\/GreenGoblin\/",
+    "energy":3,
+    "power":-3
+  },
+  {
+    "name":"Groot",
+    "ability":"On Reveal: If your opponent played a card here this turn, +4 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Groot\/",
+    "energy":3,
+    "power":3
+  },
+  {
+    "name":"Gwenpool",
+    "ability":"On Reveal: Pick a random card in your hand 3 times. Give +2 Power each time.",
+    "url":"https:\/\/snap.fan\/cards\/Gwenpool\/",
+    "energy":4,
+    "power":6
+  },
+  {
+    "name":"Havok",
+    "ability":"After each turn, you lose 1 Max Energy and this gains +4 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Havok\/",
+    "energy":2,
+    "power":0
+  },
+  {
+    "name":"Hawkeye",
+    "ability":"On Reveal: If you play a card at this location next turn, +3 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Hawkeye\/",
+    "energy":1,
+    "power":1
+  },
+  {
+    "name":"Hazmat",
+    "ability":"On Reveal: Afflict all other cards with -1 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Hazmat\/",
+    "energy":2,
+    "power":2
+  },
+  {
+    "name":"Heimdall",
+    "ability":"On Reveal: Move your other cards one location to the left.",
+    "url":"https:\/\/snap.fan\/cards\/Heimdall\/",
+    "energy":6,
+    "power":9
+  },
+  {
+    "name":"Hela",
+    "ability":"On Reveal: Resurrect all cards you discarded to random locationswith -2 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Hela\/",
+    "energy":6,
+    "power":6
+  },
+  {
+    "name":"Helicarrier",
+    "ability":"When you discard this, fill your hand with random cards.",
+    "url":"https:\/\/snap.fan\/cards\/Helicarrier\/",
+    "energy":6,
+    "power":10
+  },
+  {
+    "name":"Hellcow",
+    "ability":"On Reveal: Discard 2 cards from your hand.",
+    "url":"https:\/\/snap.fan\/cards\/Hellcow\/",
+    "energy":4,
+    "power":8
+  },
+  {
+    "name":"Hercules",
+    "ability":"The first time another card moves here each turn, move it to another location.",
+    "url":"https:\/\/snap.fan\/cards\/Hercules\/",
+    "energy":3,
+    "power":4
+  },
+  {
+    "name":"High Evolutionary",
+    "ability":"At the start of the game, unlock the potential of your cards with no abilities.",
+    "url":"https:\/\/snap.fan\/cards\/HighEvolutionary\/",
+    "energy":4,
+    "power":6
+  },
+  {
+    "name":"Hit-Monkey",
+    "ability":"On Reveal: Gain +2 Power for each other card you played this turn.",
+    "url":"https:\/\/snap.fan\/cards\/HitMonkey\/",
+    "energy":3,
+    "power":2
+  },
+  {
+    "name":"Hobgoblin",
+    "ability":"On Reveal: Switch sides.",
+    "url":"https:\/\/snap.fan\/cards\/Hobgoblin\/",
+    "energy":5,
+    "power":-8
+  },
+  {
+    "name":"Hope Summers",
+    "ability":"After you play a card here, you get +1 Energy next turn.",
+    "url":"https:\/\/snap.fan\/cards\/HopeSummers\/",
+    "energy":3,
+    "power":4
+  },
+  {
+    "name":"Howard the Duck",
+    "ability":"Ongoing: Tap this to see the top card of your deck.",
+    "url":"https:\/\/snap.fan\/cards\/HowardTheDuck\/",
+    "energy":1,
+    "power":2
+  },
+  {
+    "name":"Hulk",
+    "ability":"HULK SMASH!",
+    "url":"https:\/\/snap.fan\/cards\/Hulk\/",
+    "energy":6,
+    "power":12
+  },
+  {
+    "name":"Hulkbuster",
+    "ability":"On Reveal: Merge this with one of your cards here.",
+    "url":"https:\/\/snap.fan\/cards\/Hulkbuster\/",
+    "energy":2,
+    "power":3
+  },
+  {
+    "name":"Human Torch",
+    "ability":"When this moves, doubleits Power.",
+    "url":"https:\/\/snap.fan\/cards\/HumanTorch\/",
+    "energy":1,
+    "power":2
+  },
+  {
+    "name":"Hydra Bob",
+    "ability":"After each turn, this moves if a player Snapped.",
+    "url":"https:\/\/snap.fan\/cards\/HydraBob\/",
+    "energy":1,
+    "power":4
+  },
+  {
+    "name":"Iceman",
+    "ability":"On Reveal: Give a card in your opponent's hand +1 Cost.(maximum 6)",
+    "url":"https:\/\/snap.fan\/cards\/Iceman\/",
+    "energy":1,
+    "power":2
+  },
+  {
+    "name":"Invisible Woman",
+    "ability":"Ongoing: Cards you play here are not revealed until the game ends.",
+    "url":"https:\/\/snap.fan\/cards\/InvisibleWoman\/",
+    "energy":2,
+    "power":3
+  },
+  {
+    "name":"Iron Fist",
+    "ability":"On Reveal: After you play your next card, move it one location to the left.",
+    "url":"https:\/\/snap.fan\/cards\/IronFist\/",
+    "energy":1,
+    "power":2
+  },
+  {
+    "name":"Iron Lad",
+    "ability":"On Reveal: Copy the text of your deck's top card.",
+    "url":"https:\/\/snap.fan\/cards\/IronLad\/",
+    "energy":4,
+    "power":6
+  },
+  {
+    "name":"Iron Man",
+    "ability":"Ongoing: Your total Poweris doubled here.",
+    "url":"https:\/\/snap.fan\/cards\/IronMan\/",
+    "energy":5,
+    "power":0
+  },
+  {
+    "name":"Ironheart",
+    "ability":"On Reveal: Give 3 of your other cards +2 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Ironheart\/",
+    "energy":3,
+    "power":0
+  },
+  {
+    "name":"Jane Foster Mighty Thor",
+    "ability":"On Reveal: Draw all cards that Cost 0 from your deck.",
+    "url":"https:\/\/snap.fan\/cards\/JaneFoster\/",
+    "energy":5,
+    "power":9
+  },
+  {
+    "name":"Jean Grey",
+    "ability":"Ongoing: Players must play their first card here each turn. (if possible)",
+    "url":"https:\/\/snap.fan\/cards\/JeanGrey\/",
+    "energy":3,
+    "power":4
+  },
+  {
+    "name":"Jeff the Baby Land Shark",
+    "ability":"You can move this once. Nothing can stop you from moving or playing this to any location.",
+    "url":"https:\/\/snap.fan\/cards\/JeffTheBabyLandShark\/",
+    "energy":2,
+    "power":3
+  },
+  {
+    "name":"Jessica Jones",
+    "ability":"On Reveal: If you don't play a card at this location next turn, +4 Power.",
+    "url":"https:\/\/snap.fan\/cards\/JessicaJones\/",
+    "energy":4,
+    "power":5
+  },
+  {
+    "name":"Jubilee",
+    "ability":"On Reveal: Add the top card of your deck to this location.",
+    "url":"https:\/\/snap.fan\/cards\/Jubilee\/",
+    "energy":4,
+    "power":1
+  },
+  {
+    "name":"Juggernaut",
+    "ability":"On Reveal: Move away all enemy cards played here this turn. (including unrevealed cards)",
+    "url":"https:\/\/snap.fan\/cards\/Juggernaut\/",
+    "energy":3,
+    "power":3
+  },
+  {
+    "name":"Ka-Zar",
+    "ability":"Ongoing: Your 1-Cost cards have +1 Power.",
+    "url":"https:\/\/snap.fan\/cards\/KaZar\/",
+    "energy":4,
+    "power":4
+  },
+  {
+    "name":"Kang",
+    "ability":"On Reveal: Look at what your opponent did, then restart the turn. (without this)",
+    "url":"https:\/\/snap.fan\/cards\/Kang\/",
+    "energy":6,
+    "power":0
+  },
+  {
+    "name":"Killmonger",
+    "ability":"On Reveal: Destroy ALL1-Cost cards.",
+    "url":"https:\/\/snap.fan\/cards\/Killmonger\/",
+    "energy":3,
+    "power":3
+  },
+  {
+    "name":"Kingpin",
+    "ability":"When an enemy card moves here, afflict it with -2 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Kingpin\/",
+    "energy":1,
+    "power":2
+  },
+  {
+    "name":"Kitty Pryde",
+    "ability":"When this returns to your hand,+1 Power. Returns at the startof each turn.",
+    "url":"https:\/\/snap.fan\/cards\/KittyPryde\/",
+    "energy":1,
+    "power":1
+  },
+  {
+    "name":"Klaw",
+    "ability":"Ongoing: The location to the right has +8 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Klaw\/",
+    "energy":5,
+    "power":4
+  },
+  {
+    "name":"Knull",
+    "ability":"Ongoing: Has the combined Power of all cards destroyed this game.",
+    "url":"https:\/\/snap.fan\/cards\/Knull\/",
+    "energy":6,
+    "power":0
+  },
+  {
+    "name":"Korg",
+    "ability":"On Reveal: Shuffle a Rock into your opponent's deck.",
+    "url":"https:\/\/snap.fan\/cards\/Korg\/",
+    "energy":1,
+    "power":2
+  },
+  {
+    "name":"Kraven",
+    "ability":"When a card moves here, this gains +2 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Kraven\/",
+    "energy":2,
+    "power":2
+  },
+  {
+    "name":"Lady Deathstrike",
+    "ability":"On Reveal: Destroy each card here with 3 or less Power.",
+    "url":"https:\/\/snap.fan\/cards\/LadyDeathstrike\/",
+    "energy":5,
+    "power":6
+  },
+  {
+    "name":"Lady Sif",
+    "ability":"On Reveal: Discard the highest-cost card from your hand.",
+    "url":"https:\/\/snap.fan\/cards\/LadySif\/",
+    "energy":3,
+    "power":5
+  },
+  {
+    "name":"Leader",
+    "ability":"On Reveal: Copy the enemy card(s) with the highest Power played this turn, but on your side.",
+    "url":"https:\/\/snap.fan\/cards\/Leader\/",
+    "energy":6,
+    "power":3
+  },
+  {
+    "name":"Leech",
+    "ability":"On Reveal: Remove the text from cards with On Reveal abilities inyour opponent's hand.",
+    "url":"https:\/\/snap.fan\/cards\/Leech\/",
+    "energy":5,
+    "power":5
+  },
+  {
+    "name":"Legion",
+    "ability":"On Reveal: Replace each other location with this one.",
+    "url":"https:\/\/snap.fan\/cards\/Legion\/",
+    "energy":5,
+    "power":7
+  },
+  {
+    "name":"Lizard",
+    "ability":"Ongoing: -4 Power if your opponent has 4 cards here.",
+    "url":"https:\/\/snap.fan\/cards\/Lizard\/",
+    "energy":2,
+    "power":5
+  },
+  {
+    "name":"Lockjaw",
+    "ability":"After you play a card here, swap it with a card in your deck.(once per turn)",
+    "url":"https:\/\/snap.fan\/cards\/Lockjaw\/",
+    "energy":4,
+    "power":5
+  },
+  {
+    "name":"Loki",
+    "ability":"On Reveal: Transform your hand into cards from your opponent's starting deck and give them -1 Cost.",
+    "url":"https:\/\/snap.fan\/cards\/Loki\/",
+    "energy":4,
+    "power":5
+  },
+  {
+    "name":"Luke Cage",
+    "ability":"Ongoing: Your cards can't have their Power reduced.",
+    "url":"https:\/\/snap.fan\/cards\/LukeCage\/",
+    "energy":3,
+    "power":3
+  },
+  {
+    "name":"M'Baku",
+    "ability":"At the end of the game, this jumps from your deck to your lowest-Power location. (that isn't full)",
+    "url":"https:\/\/snap.fan\/cards\/MBaku\/",
+    "energy":1,
+    "power":2
+  },
+  {
+    "name":"M.O.D.O.K.",
+    "ability":"On Reveal: Discard your hand.",
+    "url":"https:\/\/snap.fan\/cards\/Modok\/",
+    "energy":5,
+    "power":8
+  },
+  {
+    "name":"Magik",
+    "ability":"On Reveal: Replace this location with 'Limbo'. Doesn't workafter turn 5.",
+    "url":"https:\/\/snap.fan\/cards\/Magik\/",
+    "energy":3,
+    "power":2
+  },
+  {
+    "name":"Magneto",
+    "ability":"On Reveal: Move all enemy3 and 4-Cost cards to this location.",
+    "url":"https:\/\/snap.fan\/cards\/Magneto\/",
+    "energy":6,
+    "power":12
+  },
+  {
+    "name":"Makkari",
+    "ability":"After the turn, runs from your hand to a random location. (if possible)",
+    "url":"https:\/\/snap.fan\/cards\/Makkari\/",
+    "energy":3,
+    "power":4
+  },
+  {
+    "name":"Man-Thing",
+    "ability":"Ongoing: 1, 2, and 3-Cost cards here have -2 Power.",
+    "url":"https:\/\/snap.fan\/cards\/ManThing\/",
+    "energy":4,
+    "power":5
+  },
+  {
+    "name":"Mantis",
+    "ability":"On Reveal: If your opponent played any cards here this turn, copy one of them into your hand.",
+    "url":"https:\/\/snap.fan\/cards\/Mantis\/",
+    "energy":2,
+    "power":2
+  },
+  {
+    "name":"Maria Hill",
+    "ability":"On Reveal: Add a random 2-Cost card to your hand.",
+    "url":"https:\/\/snap.fan\/cards\/MariaHill\/",
+    "energy":2,
+    "power":2
+  },
+  {
+    "name":"Martyr",
+    "ability":"At the end of the game, move to a location that LOSES you thegame. (if possible)",
+    "url":"https:\/\/snap.fan\/cards\/Martyr\/",
+    "energy":1,
+    "power":5
+  },
+  {
+    "name":"Master Mold",
+    "ability":"On Reveal: Add 2 Sentinel to your opponent's hand.",
+    "url":"https:\/\/snap.fan\/cards\/MasterMold\/",
+    "energy":2,
+    "power":2
+  },
+  {
+    "name":"Maximus",
+    "ability":"On Reveal: Your opponentdraws 2 cards.",
+    "url":"https:\/\/snap.fan\/cards\/Maximus\/",
+    "energy":2,
+    "power":6
+  },
+  {
+    "name":"Medusa",
+    "ability":"On Reveal: If this is at the middle location, +3 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Medusa\/",
+    "energy":2,
+    "power":2
+  },
+  {
+    "name":"Miek",
+    "ability":"When you discard a card, this gains +1 Power and can move next turn.",
+    "url":"https:\/\/snap.fan\/cards\/Miek\/",
+    "energy":1,
+    "power":0
+  },
+  {
+    "name":"Miles Morales",
+    "ability":"If a card moved last turn, this costs 1.",
+    "url":"https:\/\/snap.fan\/cards\/MilesMorales\/",
+    "energy":4,
+    "power":6
+  },
+  {
+    "name":"Mirage",
+    "ability":"On Reveal: Copy the lowest-Cost card in your opponent's hand into your hand. Give it +2 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Mirage\/",
+    "energy":2,
+    "power":2
+  },
+  {
+    "name":"Mister Fantastic",
+    "ability":"Ongoing: Adjacent locations have +2 Power.",
+    "url":"https:\/\/snap.fan\/cards\/MrFantastic\/",
+    "energy":3,
+    "power":2
+  },
+  {
+    "name":"Mister Negative",
+    "ability":"On Reveal: Swap the Power and Cost of all cards in your deck.",
+    "url":"https:\/\/snap.fan\/cards\/MrNegative\/",
+    "energy":3,
+    "power":-1
+  },
+  {
+    "name":"Mister Sinister",
+    "ability":"On Reveal: Add a Sinister Clone here with the same Power.",
+    "url":"https:\/\/snap.fan\/cards\/MrSinister\/",
+    "energy":2,
+    "power":2
+  },
+  {
+    "name":"Misty Knight",
+    "ability":"We've got to save this city.",
+    "url":"https:\/\/snap.fan\/cards\/MistyKnight\/",
+    "energy":1,
+    "power":2
+  },
+  {
+    "name":"Mobius M. Mobius",
+    "ability":"Ongoing: Your Costs can't be increased. Your opponent's Costs can't be reduced.",
+    "url":"https:\/\/snap.fan\/cards\/MobiusMMobius\/",
+    "energy":3,
+    "power":3
+  },
+  {
+    "name":"Mockingbird",
+    "ability":"Costs 1 less for each of your cards in play that didn't start in your deck.",
+    "url":"https:\/\/snap.fan\/cards\/Mockingbird\/",
+    "energy":5,
+    "power":9
+  },
+  {
+    "name":"Mojo",
+    "ability":"Ongoing: If both sides here are full, +6 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Mojo\/",
+    "energy":2,
+    "power":2
+  },
+  {
+    "name":"Moon Girl",
+    "ability":"On Reveal: Duplicateyour hand.",
+    "url":"https:\/\/snap.fan\/cards\/MoonGirl\/",
+    "energy":4,
+    "power":4
+  },
+  {
+    "name":"Moon Knight",
+    "ability":"On Reveal: Discard a card from each player's hand.",
+    "url":"https:\/\/snap.fan\/cards\/MoonKnight\/",
+    "energy":3,
+    "power":3
+  },
+  {
+    "name":"Morbius",
+    "ability":"Ongoing: +2 Power for each time you discarded a card this game.",
+    "url":"https:\/\/snap.fan\/cards\/Morbius\/",
+    "energy":2,
+    "power":0
+  },
+  {
+    "name":"Morph",
+    "ability":"On Reveal: Become a copy of a card in your opponent's hand.",
+    "url":"https:\/\/snap.fan\/cards\/Morph\/",
+    "energy":3,
+    "power":0
+  },
+  {
+    "name":"Ms. Marvel",
+    "ability":"Ongoing: Your adjacent locations with 2+ cards and no repeated Costs have +5 Power.",
+    "url":"https:\/\/snap.fan\/cards\/MsMarvel\/",
+    "energy":4,
+    "power":4
+  },
+  {
+    "name":"Multiple Man",
+    "ability":"When this moves, add a copy to the old location.",
+    "url":"https:\/\/snap.fan\/cards\/MultipleMan\/",
+    "energy":2,
+    "power":3
+  },
+  {
+    "name":"Mysterio",
+    "ability":"As you play this, play Illusions to other locations. Disguise this as an Illusion until the game ends.",
+    "url":"https:\/\/snap.fan\/cards\/Mysterio\/",
+    "energy":2,
+    "power":4
+  },
+  {
+    "name":"Mystique",
+    "ability":"On Reveal: If the last card you played has an Ongoing, copy its text. (if it's in play)",
+    "url":"https:\/\/snap.fan\/cards\/Mystique\/",
+    "energy":3,
+    "power":0
+  },
+  {
+    "name":"Nakia",
+    "ability":"On Reveal: Give all cards in your hand +1 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Nakia\/",
+    "energy":3,
+    "power":3
+  },
+  {
+    "name":"Namor",
+    "ability":"Ongoing: +5 Power if this is your only card here.",
+    "url":"https:\/\/snap.fan\/cards\/Namor\/",
+    "energy":4,
+    "power":6
+  },
+  {
+    "name":"Namora",
+    "ability":"On Reveal: Give +5 Power to each of your cards alone at another location.",
+    "url":"https:\/\/snap.fan\/cards\/Namora\/",
+    "energy":5,
+    "power":6
+  },
+  {
+    "name":"Nebula",
+    "ability":"Each turn your opponent doesn't play a card here, +2 Power. (except the turn you play this)",
+    "url":"https:\/\/snap.fan\/cards\/Nebula\/",
+    "energy":1,
+    "power":1
+  },
+  {
+    "name":"Negasonic Teenage Warhead",
+    "ability":"After an enemy card is played here, destroy it. (once per game)",
+    "url":"https:\/\/snap.fan\/cards\/NegasonicTeenageWarhead\/",
+    "energy":3,
+    "power":2
+  },
+  {
+    "name":"Nick Fury",
+    "ability":"On Reveal: Add 3 random6-Cost cards to your hand.",
+    "url":"https:\/\/snap.fan\/cards\/NickFury\/",
+    "energy":4,
+    "power":6
+  },
+  {
+    "name":"Nico Minoru",
+    "ability":"On Reveal: After you play your next card, cast a spell. (The spellchanges each turn.)",
+    "url":"https:\/\/snap.fan\/cards\/NicoMinoru\/",
+    "energy":1,
+    "power":2
+  },
+  {
+    "name":"Nightcrawler",
+    "ability":"You can move this once.",
+    "url":"https:\/\/snap.fan\/cards\/Nightcrawler\/",
+    "energy":1,
+    "power":2
+  },
+  {
+    "name":"Nimrod",
+    "ability":"When this is destroyed, add a copy to each other location.",
+    "url":"https:\/\/snap.fan\/cards\/Nimrod\/",
+    "energy":5,
+    "power":6
+  },
+  {
+    "name":"Nocturne",
+    "ability":"You can move this once. When this moves, replace its location with a random new one.",
+    "url":"https:\/\/snap.fan\/cards\/Nocturne\/",
+    "energy":3,
+    "power":5
+  },
+  {
+    "name":"Nova",
+    "ability":"When this is destroyed, give your cards +1 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Nova\/",
+    "energy":1,
+    "power":1
+  },
+  {
+    "name":"Odin",
+    "ability":"On Reveal: Repeat the On Reveal abilities of your other cards here.",
+    "url":"https:\/\/snap.fan\/cards\/Odin\/",
+    "energy":6,
+    "power":8
+  },
+  {
+    "name":"Okoye",
+    "ability":"On Reveal: Give every card in your deck +1 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Okoye\/",
+    "energy":2,
+    "power":2
+  },
+  {
+    "name":"Omega Red",
+    "ability":"Ongoing: If you're winning here, +3 Power to other locations.",
+    "url":"https:\/\/snap.fan\/cards\/OmegaRed\/",
+    "energy":4,
+    "power":5
+  },
+  {
+    "name":"Onslaught",
+    "ability":"Ongoing: Double your other Ongoing effects here.",
+    "url":"https:\/\/snap.fan\/cards\/Onslaught\/",
+    "energy":6,
+    "power":7
+  },
+  {
+    "name":"Orka",
+    "ability":"Ongoing: +5 Power if this is your only card here.",
+    "url":"https:\/\/snap.fan\/cards\/Orka\/",
+    "energy":6,
+    "power":11
+  },
+  {
+    "name":"Patriot",
+    "ability":"Ongoing: Your cards with no abilities have +2 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Patriot\/",
+    "energy":3,
+    "power":1
+  },
+  {
+    "name":"Phastos",
+    "ability":"On Reveal: Give each card in your deck -1 Cost or +2 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Phastos\/",
+    "energy":3,
+    "power":3
+  },
+  {
+    "name":"Phoenix Force",
+    "ability":"On Reveal: Revive one of your destroyed cards and merge with it. That card can move each turn.",
+    "url":"https:\/\/snap.fan\/cards\/ThePhoenixForce\/",
+    "energy":4,
+    "power":5
+  },
+  {
+    "name":"Pixie",
+    "ability":"On Reveal: Shuffle the base Costsof all cards in your deckthat started there.",
+    "url":"https:\/\/snap.fan\/cards\/Pixie\/",
+    "energy":2,
+    "power":1
+  },
+  {
+    "name":"Polaris",
+    "ability":"On Reveal: Move an enemy1 or 2-Cost card to this location.",
+    "url":"https:\/\/snap.fan\/cards\/Polaris\/",
+    "energy":3,
+    "power":5
+  },
+  {
+    "name":"Professor X",
+    "ability":"Ongoing: Moving is the only way to add or remove a card from here.",
+    "url":"https:\/\/snap.fan\/cards\/ProfessorX\/",
+    "energy":5,
+    "power":2
+  },
+  {
+    "name":"Proxima Midnight",
+    "ability":"When this is discarded, jumps to your lowest-Power location. (that isn't full)",
+    "url":"https:\/\/snap.fan\/cards\/ProximaMidnight\/",
+    "energy":4,
+    "power":7
+  },
+  {
+    "name":"Psylocke",
+    "ability":"On Reveal: Next turn, you get +1 Energy.",
+    "url":"https:\/\/snap.fan\/cards\/Psylocke\/",
+    "energy":2,
+    "power":2
+  },
+  {
+    "name":"Punisher",
+    "ability":"Ongoing: +1 Power for each enemy card here.",
+    "url":"https:\/\/snap.fan\/cards\/Punisher\/",
+    "energy":3,
+    "power":3
+  },
+  {
+    "name":"Quake",
+    "ability":"On Reveal: Swap the positions of the other two locations.",
+    "url":"https:\/\/snap.fan\/cards\/Quake\/",
+    "energy":2,
+    "power":3
+  },
+  {
+    "name":"Quicksilver",
+    "ability":"Starts in your opening hand.",
+    "url":"https:\/\/snap.fan\/cards\/Quicksilver\/",
+    "energy":1,
+    "power":2
+  },
+  {
+    "name":"Quinjet",
+    "ability":"Ongoing: Cards that didn't start in your deck cost 1 less. (minimum 1)",
+    "url":"https:\/\/snap.fan\/cards\/Quinjet\/",
+    "energy":1,
+    "power":2
+  },
+  {
+    "name":"Ravonna Renslayer",
+    "ability":"Ongoing: Your cards with 1 or less Power cost 1 less. (minimum 1)",
+    "url":"https:\/\/snap.fan\/cards\/RavonnaRenslayer\/",
+    "energy":2,
+    "power":3
+  },
+  {
+    "name":"Red Guardian",
+    "ability":"On Reveal: Afflict the lowest-Power enemy card here with -2 Power and remove its text.",
+    "url":"https:\/\/snap.fan\/cards\/RedGuardian\/",
+    "energy":3,
+    "power":3
+  },
+  {
+    "name":"Red Hulk",
+    "ability":"When your opponent ends a turn with unspent Energy, +3 Power.(if in hand or in play)",
+    "url":"https:\/\/snap.fan\/cards\/RedHulk\/",
+    "energy":6,
+    "power":10
+  },
+  {
+    "name":"Red Skull",
+    "ability":"Ongoing: Enemy cards here have +2 Power.",
+    "url":"https:\/\/snap.fan\/cards\/RedSkull\/",
+    "energy":5,
+    "power":14
+  },
+  {
+    "name":"Rescue",
+    "ability":"On Reveal: If you play a card at this location next turn, +5 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Rescue\/",
+    "energy":4,
+    "power":4
+  },
+  {
+    "name":"Rhino",
+    "ability":"On Reveal: Ruin this location. (remove its ability)",
+    "url":"https:\/\/snap.fan\/cards\/Rhino\/",
+    "energy":3,
+    "power":3
+  },
+  {
+    "name":"Rocket Raccoon",
+    "ability":"On Reveal: If your opponent played a card here this turn, +4 Power.",
+    "url":"https:\/\/snap.fan\/cards\/RocketRaccoon\/",
+    "energy":1,
+    "power":1
+  },
+  {
+    "name":"Rockslide",
+    "ability":"On Reveal: Shuffle 2 Rocks into your opponent's deck.",
+    "url":"https:\/\/snap.fan\/cards\/Rockslide\/",
+    "energy":3,
+    "power":3
+  },
+  {
+    "name":"Rogue",
+    "ability":"On Reveal: Steal the text from an enemy Ongoing card here.",
+    "url":"https:\/\/snap.fan\/cards\/Rogue\/",
+    "energy":3,
+    "power":2
+  },
+  {
+    "name":"Ronan the Accuser",
+    "ability":"Ongoing: +2 Power for each card in your opponent's hand.",
+    "url":"https:\/\/snap.fan\/cards\/Ronan\/",
+    "energy":5,
+    "power":5
+  },
+  {
+    "name":"Sabretooth",
+    "ability":"When this is destroyed, return it to your hand. It costs 0.",
+    "url":"https:\/\/snap.fan\/cards\/Sabretooth\/",
+    "energy":3,
+    "power":5
+  },
+  {
+    "name":"Sage",
+    "ability":"On Reveal: +2 Power for each different Power among allother cards here.",
+    "url":"https:\/\/snap.fan\/cards\/Sage\/",
+    "energy":3,
+    "power":0
+  },
+  {
+    "name":"Sandman",
+    "ability":"On Reveal: Players can only play 1 card next turn.",
+    "url":"https:\/\/snap.fan\/cards\/Sandman\/",
+    "energy":5,
+    "power":7
+  },
+  {
+    "name":"Sasquatch",
+    "ability":"Costs 1 less for each card you played last turn.",
+    "url":"https:\/\/snap.fan\/cards\/Sasquatch\/",
+    "energy":6,
+    "power":10
+  },
+  {
+    "name":"Sauron",
+    "ability":"On Reveal: Remove the abilities from all Ongoing cards in yourhand and deck.",
+    "url":"https:\/\/snap.fan\/cards\/Sauron\/",
+    "energy":3,
+    "power":3
+  },
+  {
+    "name":"Scarlet Witch",
+    "ability":"On Reveal: Replace this location with a new one.",
+    "url":"https:\/\/snap.fan\/cards\/ScarletWitch\/",
+    "energy":2,
+    "power":3
+  },
+  {
+    "name":"Scorpion",
+    "ability":"On Reveal: Afflict cards in your opponent's hand with -1 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Scorpion\/",
+    "energy":2,
+    "power":2
+  },
+  {
+    "name":"Sebastian Shaw",
+    "ability":"When this card permanently gains Power, gain +2 more Power. (wherever this is)",
+    "url":"https:\/\/snap.fan\/cards\/SebastianShaw\/",
+    "energy":3,
+    "power":4
+  },
+  {
+    "name":"Selene",
+    "ability":"On Reveal: Afflict the lowest-Power card in each player's handwith -3 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Selene\/",
+    "energy":1,
+    "power":2
+  },
+  {
+    "name":"Sentinel",
+    "ability":"On Reveal: Add another Sentinel to your hand.",
+    "url":"https:\/\/snap.fan\/cards\/Sentinel\/",
+    "energy":2,
+    "power":3
+  },
+  {
+    "name":"Sentry",
+    "ability":"You can't play this at the right location.On Reveal: Add a -8 Power Void to the right location.",
+    "url":"https:\/\/snap.fan\/cards\/Sentry\/",
+    "energy":4,
+    "power":8
+  },
+  {
+    "name":"Sera",
+    "ability":"Ongoing: Cards in your hand cost 1 less. (minimum 1)",
+    "url":"https:\/\/snap.fan\/cards\/Sera\/",
+    "energy":5,
+    "power":4
+  },
+  {
+    "name":"Sersi",
+    "ability":"On Reveal: Transform your other cards here into random cards thatcost 1 more. (if possible)",
+    "url":"https:\/\/snap.fan\/cards\/Sersi\/",
+    "energy":5,
+    "power":7
+  },
+  {
+    "name":"Shadow King",
+    "ability":"On Reveal: Set all cards here to their base Power.",
+    "url":"https:\/\/snap.fan\/cards\/ShadowKing\/",
+    "energy":2,
+    "power":2
+  },
+  {
+    "name":"Shang-Chi",
+    "ability":"On Reveal: Destroy all enemy cards here that have 10 or more Power.",
+    "url":"https:\/\/snap.fan\/cards\/ShangChi\/",
+    "energy":4,
+    "power":3
+  },
+  {
+    "name":"Shanna",
+    "ability":"On Reveal: Add a random1-Cost card to each location.",
+    "url":"https:\/\/snap.fan\/cards\/Shanna\/",
+    "energy":3,
+    "power":4
+  },
+  {
+    "name":"She-Hulk",
+    "ability":"Costs 1 less for each unspent Energy last turn.",
+    "url":"https:\/\/snap.fan\/cards\/SheHulk\/",
+    "energy":6,
+    "power":10
+  },
+  {
+    "name":"Shocker",
+    "ability":"I'm gonna blast you!",
+    "url":"https:\/\/snap.fan\/cards\/Shocker\/",
+    "energy":2,
+    "power":3
+  },
+  {
+    "name":"Shuri",
+    "ability":"On Reveal: If you play your next card at this location, double its Power.",
+    "url":"https:\/\/snap.fan\/cards\/Shuri\/",
+    "energy":4,
+    "power":1
+  },
+  {
+    "name":"Silk",
+    "ability":"After ANY card is played here, this moves to another location.",
+    "url":"https:\/\/snap.fan\/cards\/Silk\/",
+    "energy":2,
+    "power":5
+  },
+  {
+    "name":"Silver Samurai",
+    "ability":"On Reveal: Each player discards the lowest-Power card from their hand.",
+    "url":"https:\/\/snap.fan\/cards\/SilverSamurai\/",
+    "energy":4,
+    "power":5
+  },
+  {
+    "name":"Silver Surfer",
+    "ability":"On Reveal: Give your other3-Cost cards +2 Power.",
+    "url":"https:\/\/snap.fan\/cards\/SilverSurfer\/",
+    "energy":3,
+    "power":2
+  },
+  {
+    "name":"Skaar",
+    "ability":"Costs 2 less for each of your cards that has 10 or more Power.",
+    "url":"https:\/\/snap.fan\/cards\/Skaar\/",
+    "energy":6,
+    "power":11
+  },
+  {
+    "name":"Snowguard",
+    "ability":"On Reveal: Add the Hawk and Bear auroras to your hand.",
+    "url":"https:\/\/snap.fan\/cards\/Snowguard\/",
+    "energy":1,
+    "power":2
+  },
+  {
+    "name":"Spectrum",
+    "ability":"On Reveal: Give your Ongoing cards +2 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Spectrum\/",
+    "energy":6,
+    "power":6
+  },
+  {
+    "name":"Spider-Ham",
+    "ability":"On Reveal: Transform the leftmost card in your opponent's hand into a Pig, keeping its Power and Cost.",
+    "url":"https:\/\/snap.fan\/cards\/SpiderHam\/",
+    "energy":1,
+    "power":1
+  },
+  {
+    "name":"Spider-Man",
+    "ability":"On Reveal: Move to another location and pull an enemy card fromhere to there.",
+    "url":"https:\/\/snap.fan\/cards\/SpiderMan\/",
+    "energy":3,
+    "power":5
+  },
+  {
+    "name":"Spider-Man 2099",
+    "ability":"The first time this moves to any location, destroy an enemy card there.",
+    "url":"https:\/\/snap.fan\/cards\/SpiderMan2099\/",
+    "energy":5,
+    "power":9
+  },
+  {
+    "name":"Spider-Woman",
+    "ability":"On Reveal: Afflict all enemy cards here with -1 Power.",
+    "url":"https:\/\/snap.fan\/cards\/SpiderWoman\/",
+    "energy":5,
+    "power":8
+  },
+  {
+    "name":"Squirrel Girl",
+    "ability":"On Reveal: Add a 1-Power Squirrel to each other location.",
+    "url":"https:\/\/snap.fan\/cards\/SquirrelGirl\/",
+    "energy":1,
+    "power":2
+  },
+  {
+    "name":"Star-Lord",
+    "ability":"On Reveal: If your opponent played a card here this turn, +4 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Starlord\/",
+    "energy":2,
+    "power":2
+  },
+  {
+    "name":"Stature",
+    "ability":"Costs 1 if your opponent discarded a card this game.",
+    "url":"https:\/\/snap.fan\/cards\/Stature\/",
+    "energy":5,
+    "power":7
+  },
+  {
+    "name":"Stegron",
+    "ability":"On Reveal: Move an enemy card here one location to the right.",
+    "url":"https:\/\/snap.fan\/cards\/Stegron\/",
+    "energy":4,
+    "power":7
+  },
+  {
+    "name":"Storm",
+    "ability":"On Reveal: Flood this location. Next turn is the last turn cards canbe played here.",
+    "url":"https:\/\/snap.fan\/cards\/Storm\/",
+    "energy":3,
+    "power":2
+  },
+  {
+    "name":"Strong Guy",
+    "ability":"Ongoing: +6 Power if your hand has 1 or fewer cards.",
+    "url":"https:\/\/snap.fan\/cards\/StrongGuy\/",
+    "energy":3,
+    "power":3
+  },
+  {
+    "name":"Sunspot",
+    "ability":"After each turn, gain +1 Power for each unspent Energy.",
+    "url":"https:\/\/snap.fan\/cards\/Sunspot\/",
+    "energy":1,
+    "power":0
+  },
+  {
+    "name":"Super-Skrull",
+    "ability":"Ongoing: Has the Ongoing effects of all enemy cards.",
+    "url":"https:\/\/snap.fan\/cards\/SuperSkrull\/",
+    "energy":4,
+    "power":2
+  },
+  {
+    "name":"Supergiant",
+    "ability":"On Reveal: All cards played next turn don't reveal until the game ends.",
+    "url":"https:\/\/snap.fan\/cards\/Supergiant\/",
+    "energy":4,
+    "power":5
+  },
+  {
+    "name":"Swarm",
+    "ability":"When you discard this, add two copies that cost 0 to your hand.",
+    "url":"https:\/\/snap.fan\/cards\/Swarm\/",
+    "energy":2,
+    "power":3
+  },
+  {
+    "name":"Sword Master",
+    "ability":"On Reveal: Discard a card from your hand.",
+    "url":"https:\/\/snap.fan\/cards\/SwordMaster\/",
+    "energy":3,
+    "power":7
+  },
+  {
+    "name":"Taskmaster",
+    "ability":"On Reveal: Set this card\u00e2\u20ac\u2122s Power equal to that of the last card you played. (if that card's in play)",
+    "url":"https:\/\/snap.fan\/cards\/Taskmaster\/",
+    "energy":5,
+    "power":0
+  },
+  {
+    "name":"Thanos",
+    "ability":"Starts in your opening hand and shuffles the six Infinity Stonesinto your deck.",
+    "url":"https:\/\/snap.fan\/cards\/Thanos\/",
+    "energy":6,
+    "power":10
+  },
+  {
+    "name":"The Collector",
+    "ability":"When a card enters your hand from anywhere (except your deck),+1 Power.",
+    "url":"https:\/\/snap.fan\/cards\/TheCollector\/",
+    "energy":2,
+    "power":2
+  },
+  {
+    "name":"The Hood",
+    "ability":"On Reveal: Add a Demon to your hand.",
+    "url":"https:\/\/snap.fan\/cards\/Hood\/",
+    "energy":1,
+    "power":-3
+  },
+  {
+    "name":"The Infinaut",
+    "ability":"If you played a card last turn, you can't play this.",
+    "url":"https:\/\/snap.fan\/cards\/Infinaut\/",
+    "energy":6,
+    "power":20
+  },
+  {
+    "name":"The Living Tribunal",
+    "ability":"Ongoing: Split your total Power evenly among all locations.",
+    "url":"https:\/\/snap.fan\/cards\/LivingTribunal\/",
+    "energy":6,
+    "power":9
+  },
+  {
+    "name":"The Thing",
+    "ability":"It's clobberin' time!",
+    "url":"https:\/\/snap.fan\/cards\/TheThing\/",
+    "energy":4,
+    "power":8
+  },
+  {
+    "name":"Thena",
+    "ability":"After each turn, +3 Power if you played (exactly) 2 cards.",
+    "url":"https:\/\/snap.fan\/cards\/Thena\/",
+    "energy":2,
+    "power":1
+  },
+  {
+    "name":"Thor",
+    "ability":"On Reveal: Shuffle Mjolnir into your deck.",
+    "url":"https:\/\/snap.fan\/cards\/Thor\/",
+    "energy":3,
+    "power":4
+  },
+  {
+    "name":"Titania",
+    "ability":"After ANY card is played here, this card switches sides.",
+    "url":"https:\/\/snap.fan\/cards\/Titania\/",
+    "energy":1,
+    "power":5
+  },
+  {
+    "name":"Typhoid Mary",
+    "ability":"Ongoing: Your other cardshave -1 Power.",
+    "url":"https:\/\/snap.fan\/cards\/TyphoidMary\/",
+    "energy":4,
+    "power":10
+  },
+  {
+    "name":"U.S. Agent",
+    "ability":"Ongoing: 4, 5, and 6-Cost cards here have -4 Power.",
+    "url":"https:\/\/snap.fan\/cards\/USAgent\/",
+    "energy":2,
+    "power":3
+  },
+  {
+    "name":"Uatu the Watcher",
+    "ability":"At the start of the game, shows the right location to you.",
+    "url":"https:\/\/snap.fan\/cards\/Uatu\/",
+    "energy":1,
+    "power":2
+  },
+  {
+    "name":"Ultron",
+    "ability":"On Reveal: Deploy four 2-Power Drones to each other location.",
+    "url":"https:\/\/snap.fan\/cards\/Ultron\/",
+    "energy":6,
+    "power":8
+  },
+  {
+    "name":"Valentina",
+    "ability":"On Reveal: Add a random 6-Cost card to your hand. Give it -2 Costand -3 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Valentina\/",
+    "energy":2,
+    "power":3
+  },
+  {
+    "name":"Valkyrie",
+    "ability":"On Reveal: Set ALL cards here to 3 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Valkyrie\/",
+    "energy":5,
+    "power":3
+  },
+  {
+    "name":"Venom",
+    "ability":"On Reveal: Destroy your other cards here. Add their Power to this card.",
+    "url":"https:\/\/snap.fan\/cards\/Venom\/",
+    "energy":3,
+    "power":3
+  },
+  {
+    "name":"Viper",
+    "ability":"On Reveal: One of your other cards here switches sides.",
+    "url":"https:\/\/snap.fan\/cards\/Viper\/",
+    "energy":3,
+    "power":5
+  },
+  {
+    "name":"Vision",
+    "ability":"You can move this each turn.",
+    "url":"https:\/\/snap.fan\/cards\/Vision\/",
+    "energy":5,
+    "power":8
+  },
+  {
+    "name":"Vulture",
+    "ability":"When this card moves,+6 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Vulture\/",
+    "energy":3,
+    "power":3
+  },
+  {
+    "name":"War Machine",
+    "ability":"On Reveal: Until the end of next turn, nothing can stop you from playing cards anywhere.",
+    "url":"https:\/\/snap.fan\/cards\/WarMachine\/",
+    "energy":4,
+    "power":6
+  },
+  {
+    "name":"Warpath",
+    "ability":"Ongoing: If any of your locations are empty, +5 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Warpath\/",
+    "energy":4,
+    "power":5
+  },
+  {
+    "name":"Wasp",
+    "ability":"My secret power is that I get things done.",
+    "url":"https:\/\/snap.fan\/cards\/Wasp\/",
+    "energy":0,
+    "power":1
+  },
+  {
+    "name":"Wave",
+    "ability":"On Reveal: All cards cost a maximum of 4 until the endof next turn.",
+    "url":"https:\/\/snap.fan\/cards\/Wave\/",
+    "energy":3,
+    "power":5
+  },
+  {
+    "name":"Werewolf By Night",
+    "ability":"After you play a card, move there to gain +2 Power if it has an On Reveal.",
+    "url":"https:\/\/snap.fan\/cards\/WerewolfByNight\/",
+    "energy":3,
+    "power":1
+  },
+  {
+    "name":"White Queen",
+    "ability":"On Reveal: Copy the highest-Cost card in your opponent's handinto your hand.",
+    "url":"https:\/\/snap.fan\/cards\/WhiteQueen\/",
+    "energy":4,
+    "power":6
+  },
+  {
+    "name":"White Tiger",
+    "ability":"On Reveal: Add a 8-Power Tiger to another location.",
+    "url":"https:\/\/snap.fan\/cards\/WhiteTiger\/",
+    "energy":5,
+    "power":1
+  },
+  {
+    "name":"White Widow",
+    "ability":"On Reveal: Add a Widow's Kiss to your opponent's side of this location.",
+    "url":"https:\/\/snap.fan\/cards\/WhiteWidow\/",
+    "energy":2,
+    "power":2
+  },
+  {
+    "name":"Wolfsbane",
+    "ability":"On Reveal: +2 Power for each other card you have here.",
+    "url":"https:\/\/snap.fan\/cards\/Wolfsbane\/",
+    "energy":3,
+    "power":1
+  },
+  {
+    "name":"Wolverine",
+    "ability":"When this is discarded or destroyed, regenerate it with +2 Power at a random location.",
+    "url":"https:\/\/snap.fan\/cards\/Wolverine\/",
+    "energy":2,
+    "power":2
+  },
+  {
+    "name":"Wong",
+    "ability":"Ongoing: Your On Reveal abilities here happen twice.",
+    "url":"https:\/\/snap.fan\/cards\/Wong\/",
+    "energy":4,
+    "power":2
+  },
+  {
+    "name":"X-23",
+    "ability":"When this is discarded or destroyed, regenerate it at a random location and you get +1 Energy next turn.",
+    "url":"https:\/\/snap.fan\/cards\/X23\/",
+    "energy":1,
+    "power":2
+  },
+  {
+    "name":"Yellowjacket",
+    "ability":"On Reveal: Afflict your other cards here with -1 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Yellowjacket\/",
+    "energy":0,
+    "power":2
+  },
+  {
+    "name":"Yondu",
+    "ability":"On Reveal: Destroy the lowest-Cost card in your opponent's deck.",
+    "url":"https:\/\/snap.fan\/cards\/Yondu\/",
+    "energy":1,
+    "power":2
+  },
+  {
+    "name":"Zabu",
+    "ability":"On Reveal: Until the end of next turn, your 4-Cost cards cost 1 less.",
+    "url":"https:\/\/snap.fan\/cards\/Zabu\/",
+    "energy":2,
+    "power":3
+  },
+  {
+    "name":"Zero",
+    "ability":"On Reveal: Remove the abilities on the next card you play.",
+    "url":"https:\/\/snap.fan\/cards\/Zero\/",
+    "energy":1,
+    "power":3
+  }
+]
