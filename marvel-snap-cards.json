@@ -56,6 +56,14 @@
     "series":"3"
   },
   {
+    "name":"Ajax",
+    "ability":"Ongoing: +1 Power for each card in play afflicted with negative Power.",
+    "url":"https:\/\/snap.fan\/cards\/Ajax\/",
+    "energy":5,
+    "power":7,
+    "series":"5"
+  },
+  {
     "name":"Alioth",
     "ability":"On Reveal: Remove the text from all unrevealed enemy cards here.",
     "url":"https:\/\/snap.fan\/cards\/Alioth\/",
