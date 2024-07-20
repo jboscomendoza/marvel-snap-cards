@@ -1,0 +1,148 @@
+{
+    "$schema": "https://json-schema.org/draft/2019-09/schema",
+    "$id": "https://github.com/jboscomendoza/marvel-snap-cards/marvel-snap-cards.schema.json",
+    "type": "array",
+    "default": [],
+    "title": "Marvel Snap Cards",
+    "items": {
+        "type": "object",
+        "title": "Card data",
+        "required": [
+            "name",
+            "ability",
+            "url",
+            "energy",
+            "power",
+            "series"
+        ],
+        "properties": {
+            "name": {
+                "type": "string",
+                "title": "Name",
+                "description": "Card name, as it appears in game",
+                "examples": [
+                    "Abomination",
+                    "Absorbing Man",
+                    "Adam Warlock",
+                    "Aero"
+                ]
+            },
+            "ability": {
+                "type": "string",
+                "title": "Abilities",
+                "description": "Card abilities, if a card has no abilities, its flavor text",
+                "examples": [
+                    "Foolish rabble! You are beneath me!",
+                    "On Reveal: If the last card you played has an On Reveal, copy its text. (if it's in play)",
+                    "After each turn, draw a card if you're winning here.",
+                    "On Reveal: Move the last enemy card played anywhere to this location."
+                ]
+            },
+            "url": {
+                "type": "string",
+                "title": "URL",
+                "description": "Card url in snap.fan.",
+                "examples": [
+                    "https://snap.fan/cards/Abomination/",
+                    "https://snap.fan/cards/AbsorbingMan/",
+                    "https://snap.fan/cards/AdamWarlock/",
+                    "https://snap.fan/cards/Aero/"
+                ]
+            },
+            "energy": {
+                "type": "integer",
+                "title": "Energy",
+                "description": "Card base energy cost",
+                "examples": [
+                    5,
+                    4
+                ]
+            },
+            "power": {
+                "type": "integer",
+                "title": "Power",
+                "description": "Card base power",
+                "examples": [
+                    9,
+                    4,
+                    5
+                ]
+            },
+            "series": {
+                "type": "string",
+                "title": "Series",
+                "description": "Card series, includes Starter and Recruit series",
+                "examples": [
+                    "Starter",
+                    "3"
+                ]
+            }
+        },
+        "examples": [{
+            "name": "Abomination",
+            "ability": "Foolish rabble! You are beneath me!",
+            "url": "https://snap.fan/cards/Abomination/",
+            "energy": 5,
+            "power": 9,
+            "series": "Starter"
+        },
+        {
+            "name": "Absorbing Man",
+            "ability": "On Reveal: If the last card you played has an On Reveal, copy its text. (if it's in play)",
+            "url": "https://snap.fan/cards/AbsorbingMan/",
+            "energy": 4,
+            "power": 4,
+            "series": "3"
+        },
+        {
+            "name": "Adam Warlock",
+            "ability": "After each turn, draw a card if you're winning here.",
+            "url": "https://snap.fan/cards/AdamWarlock/",
+            "energy": 5,
+            "power": 5,
+            "series": "3"
+        },
+        {
+            "name": "Aero",
+            "ability": "On Reveal: Move the last enemy card played anywhere to this location.",
+            "url": "https://snap.fan/cards/Aero/",
+            "energy": 5,
+            "power": 9,
+            "series": "3"
+        }]
+    },
+    "examples": [
+        [{
+            "name": "Abomination",
+            "ability": "Foolish rabble! You are beneath me!",
+            "url": "https://snap.fan/cards/Abomination/",
+            "energy": 5,
+            "power": 9,
+            "series": "Starter"
+        },
+        {
+            "name": "Absorbing Man",
+            "ability": "On Reveal: If the last card you played has an On Reveal, copy its text. (if it's in play)",
+            "url": "https://snap.fan/cards/AbsorbingMan/",
+            "energy": 4,
+            "power": 4,
+            "series": "3"
+        },
+        {
+            "name": "Adam Warlock",
+            "ability": "After each turn, draw a card if you're winning here.",
+            "url": "https://snap.fan/cards/AdamWarlock/",
+            "energy": 5,
+            "power": 5,
+            "series": "3"
+        },
+        {
+            "name": "Aero",
+            "ability": "On Reveal: Move the last enemy card played anywhere to this location.",
+            "url": "https://snap.fan/cards/Aero/",
+            "energy": 5,
+            "power": 9,
+            "series": "3"
+        }]
+    ]
+}
