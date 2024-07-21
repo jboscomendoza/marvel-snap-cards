@@ -10,5 +10,6 @@ The json file has the following fields, further detailed in the included schema:
 * **energy**: Base energy cost
 * **power**: Base power
 * **series**: Series, including Starter and Recruit
+* **released**: Release status, false for scheduled and datamined cards
 
 Not affiliated with Nuverse, Second Dinner, Marvel or snap.fan.

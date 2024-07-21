@@ -76,6 +76,15 @@
                     "Starter",
                     "3"
                 ]
+            },
+            "released": {
+                "type": "boolean",
+                "title": "Released",
+                "description": "Release status for the card, false if scheduled or datamined",
+                "examples": [
+                    true,
+                    false
+                ]
             }
         },
         "examples": [{
@@ -84,7 +93,8 @@
             "url": "https://snap.fan/cards/Abomination/",
             "energy": 5,
             "power": 9,
-            "series": "Starter"
+            "series": "Starter",
+            "released": true
         },
         {
             "name": "Absorbing Man",
@@ -92,7 +102,8 @@
             "url": "https://snap.fan/cards/AbsorbingMan/",
             "energy": 4,
             "power": 4,
-            "series": "3"
+            "series": "3",
+            "released": true
         },
         {
             "name": "Adam Warlock",
@@ -100,7 +111,8 @@
             "url": "https://snap.fan/cards/AdamWarlock/",
             "energy": 5,
             "power": 5,
-            "series": "3"
+            "series": "3",
+            "released": true
         },
         {
             "name": "Aero",
@@ -108,7 +120,8 @@
             "url": "https://snap.fan/cards/Aero/",
             "energy": 5,
             "power": 9,
-            "series": "3"
+            "series": "3",
+            "released": true
         }]
     },
     "examples": [
@@ -118,7 +131,8 @@
             "url": "https://snap.fan/cards/Abomination/",
             "energy": 5,
             "power": 9,
-            "series": "Starter"
+            "series": "Starter",
+            "released": true
         },
         {
             "name": "Absorbing Man",
@@ -126,7 +140,8 @@
             "url": "https://snap.fan/cards/AbsorbingMan/",
             "energy": 4,
             "power": 4,
-            "series": "3"
+            "series": "3",
+            "released": true
         },
         {
             "name": "Adam Warlock",
@@ -134,7 +149,8 @@
             "url": "https://snap.fan/cards/AdamWarlock/",
             "energy": 5,
             "power": 5,
-            "series": "3"
+            "series": "3",
+            "released": true
         },
         {
             "name": "Aero",
@@ -142,7 +158,8 @@
             "url": "https://snap.fan/cards/Aero/",
             "energy": 5,
             "power": 9,
-            "series": "3"
+            "series": "3",
+            "released": true
         }]
     ]
 }

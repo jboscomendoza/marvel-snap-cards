@@ -5,7 +5,8 @@
     "url":"https:\/\/snap.fan\/cards\/Abomination\/",
     "energy":5,
     "power":9,
-    "series":"Starter"
+    "series":"Starter",
+    "released":true
   },
   {
     "name":"Absorbing Man",
@@ -13,7 +14,8 @@
     "url":"https:\/\/snap.fan\/cards\/AbsorbingMan\/",
     "energy":4,
     "power":4,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Adam Warlock",
@@ -21,7 +23,8 @@
     "url":"https:\/\/snap.fan\/cards\/AdamWarlock\/",
     "energy":5,
     "power":5,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Aero",
@@ -29,7 +32,8 @@
     "url":"https:\/\/snap.fan\/cards\/Aero\/",
     "energy":5,
     "power":9,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Agatha Harkness",
@@ -37,7 +41,8 @@
     "url":"https:\/\/snap.fan\/cards\/AgathaHarkness\/",
     "energy":6,
     "power":14,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Agent 13",
@@ -45,7 +50,8 @@
     "url":"https:\/\/snap.fan\/cards\/Agent13\/",
     "energy":1,
     "power":2,
-    "series":"2"
+    "series":"2",
+    "released":true
   },
   {
     "name":"Agent Coulson",
@@ -53,7 +59,8 @@
     "url":"https:\/\/snap.fan\/cards\/AgentCoulson\/",
     "energy":3,
     "power":4,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Ajax",
@@ -61,7 +68,8 @@
     "url":"https:\/\/snap.fan\/cards\/Ajax\/",
     "energy":5,
     "power":7,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Alioth",
@@ -69,7 +77,8 @@
     "url":"https:\/\/snap.fan\/cards\/Alioth\/",
     "energy":6,
     "power":10,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"America Chavez",
@@ -77,7 +86,8 @@
     "url":"https:\/\/snap.fan\/cards\/AmericaChavez\/",
     "energy":1,
     "power":2,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Angel",
@@ -85,7 +95,8 @@
     "url":"https:\/\/snap.fan\/cards\/Angel\/",
     "energy":1,
     "power":2,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Angela",
@@ -93,7 +104,8 @@
     "url":"https:\/\/snap.fan\/cards\/Angela\/",
     "energy":2,
     "power":3,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Annihilus",
@@ -101,7 +113,8 @@
     "url":"https:\/\/snap.fan\/cards\/Annihilus\/",
     "energy":5,
     "power":6,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Ant Man",
@@ -109,7 +122,8 @@
     "url":"https:\/\/snap.fan\/cards\/AntMan\/",
     "energy":1,
     "power":1,
-    "series":"Recruit"
+    "series":"Recruit",
+    "released":true
   },
   {
     "name":"Apocalypse",
@@ -117,7 +131,17 @@
     "url":"https:\/\/snap.fan\/cards\/Apocalypse\/",
     "energy":6,
     "power":6,
-    "series":"1"
+    "series":"1",
+    "released":true
+  },
+  {
+    "name":"Ara\u00f1a",
+    "ability":"Activate: Give the last card you played +2 Power and move it to the right.",
+    "url":"https:\/\/snap.fan\/cards\/Arana\/",
+    "energy":2,
+    "power":2,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Arishem",
@@ -125,7 +149,8 @@
     "url":"https:\/\/snap.fan\/cards\/Arishem\/",
     "energy":7,
     "power":7,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Armor",
@@ -133,7 +158,8 @@
     "url":"https:\/\/snap.fan\/cards\/Armor\/",
     "energy":2,
     "power":3,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Arnim Zola",
@@ -141,7 +167,8 @@
     "url":"https:\/\/snap.fan\/cards\/ArnimZola\/",
     "energy":6,
     "power":0,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Attuma",
@@ -149,7 +176,8 @@
     "url":"https:\/\/snap.fan\/cards\/Attuma\/",
     "energy":4,
     "power":10,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Baron Mordo",
@@ -157,7 +185,8 @@
     "url":"https:\/\/snap.fan\/cards\/BaronMordo\/",
     "energy":2,
     "power":3,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Baron Zemo",
@@ -165,7 +194,8 @@
     "url":"https:\/\/snap.fan\/cards\/BaronZemo\/",
     "energy":3,
     "power":5,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Bast",
@@ -173,7 +203,8 @@
     "url":"https:\/\/snap.fan\/cards\/Bast\/",
     "energy":1,
     "power":1,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Beast",
@@ -181,7 +212,8 @@
     "url":"https:\/\/snap.fan\/cards\/Beast\/",
     "energy":2,
     "power":2,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Beta Ray Bill",
@@ -189,7 +221,8 @@
     "url":"https:\/\/snap.fan\/cards\/BetaRayBill\/",
     "energy":5,
     "power":6,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Bishop",
@@ -197,7 +230,8 @@
     "url":"https:\/\/snap.fan\/cards\/Bishop\/",
     "energy":3,
     "power":1,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Black Bolt",
@@ -205,7 +239,8 @@
     "url":"https:\/\/snap.fan\/cards\/BlackBolt\/",
     "energy":5,
     "power":7,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Black Cat",
@@ -213,7 +248,8 @@
     "url":"https:\/\/snap.fan\/cards\/BlackCat\/",
     "energy":4,
     "power":9,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Black Knight",
@@ -221,7 +257,8 @@
     "url":"https:\/\/snap.fan\/cards\/BlackKnight\/",
     "energy":1,
     "power":2,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Black Panther",
@@ -229,7 +266,8 @@
     "url":"https:\/\/snap.fan\/cards\/BlackPanther\/",
     "energy":5,
     "power":4,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Black Swan",
@@ -237,7 +275,8 @@
     "url":"https:\/\/snap.fan\/cards\/BlackSwan\/",
     "energy":3,
     "power":5,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Black Widow",
@@ -245,7 +284,8 @@
     "url":"https:\/\/snap.fan\/cards\/BlackWidow\/",
     "energy":3,
     "power":3,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Blade",
@@ -253,7 +293,8 @@
     "url":"https:\/\/snap.fan\/cards\/Blade\/",
     "energy":1,
     "power":3,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Blink",
@@ -261,7 +302,8 @@
     "url":"https:\/\/snap.fan\/cards\/Blink\/",
     "energy":5,
     "power":7,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Blob",
@@ -269,7 +311,8 @@
     "url":"https:\/\/snap.fan\/cards\/Blob\/",
     "energy":6,
     "power":0,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Blue Marvel",
@@ -277,7 +320,8 @@
     "url":"https:\/\/snap.fan\/cards\/BlueMarvel\/",
     "energy":5,
     "power":3,
-    "series":"Recruit"
+    "series":"Recruit",
+    "released":true
   },
   {
     "name":"Brood",
@@ -285,7 +329,8 @@
     "url":"https:\/\/snap.fan\/cards\/Brood\/",
     "energy":3,
     "power":2,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Bucky Barnes",
@@ -293,7 +338,8 @@
     "url":"https:\/\/snap.fan\/cards\/BuckyBarnes\/",
     "energy":2,
     "power":1,
-    "series":"2"
+    "series":"2",
+    "released":true
   },
   {
     "name":"Cable",
@@ -301,7 +347,8 @@
     "url":"https:\/\/snap.fan\/cards\/Cable\/",
     "energy":2,
     "power":3,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Caiera",
@@ -309,7 +356,8 @@
     "url":"https:\/\/snap.fan\/cards\/Caiera\/",
     "energy":3,
     "power":4,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Cannonball",
@@ -317,7 +365,8 @@
     "url":"https:\/\/snap.fan\/cards\/Cannonball\/",
     "energy":5,
     "power":7,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Captain America",
@@ -325,7 +374,8 @@
     "url":"https:\/\/snap.fan\/cards\/CaptainAmerica\/",
     "energy":3,
     "power":3,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Captain Marvel",
@@ -333,7 +383,8 @@
     "url":"https:\/\/snap.fan\/cards\/CaptainMarvel\/",
     "energy":4,
     "power":5,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Carnage",
@@ -341,7 +392,17 @@
     "url":"https:\/\/snap.fan\/cards\/Carnage\/",
     "energy":2,
     "power":2,
-    "series":"1"
+    "series":"1",
+    "released":true
+  },
+  {
+    "name":"Cassandra Nova",
+    "ability":"On Reveal: Steal 1 Power from each card in your opponent's deck.",
+    "url":"https:\/\/snap.fan\/cards\/CassandraNova\/",
+    "energy":3,
+    "power":1,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Cerebro",
@@ -349,7 +410,8 @@
     "url":"https:\/\/snap.fan\/cards\/Cerebro\/",
     "energy":3,
     "power":0,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Cloak",
@@ -357,7 +419,8 @@
     "url":"https:\/\/snap.fan\/cards\/Cloak\/",
     "energy":2,
     "power":4,
-    "series":"2"
+    "series":"2",
+    "released":true
   },
   {
     "name":"Colleen Wing",
@@ -365,7 +428,8 @@
     "url":"https:\/\/snap.fan\/cards\/ColleenWing\/",
     "energy":2,
     "power":4,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Colossus",
@@ -373,7 +437,17 @@
     "url":"https:\/\/snap.fan\/cards\/Colossus\/",
     "energy":2,
     "power":3,
-    "series":"Recruit"
+    "series":"Recruit",
+    "released":true
+  },
+  {
+    "name":"Copycat",
+    "ability":"When you draw this, steal the text from the bottom card of your opponent's deck.",
+    "url":"https:\/\/snap.fan\/cards\/Copycat\/",
+    "energy":3,
+    "power":5,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Corvus Glaive",
@@ -381,7 +455,8 @@
     "url":"https:\/\/snap.fan\/cards\/CorvusGlaive\/",
     "energy":3,
     "power":5,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Cosmo",
@@ -389,7 +464,8 @@
     "url":"https:\/\/snap.fan\/cards\/Cosmo\/",
     "energy":3,
     "power":3,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Crossbones",
@@ -397,7 +473,8 @@
     "url":"https:\/\/snap.fan\/cards\/Crossbones\/",
     "energy":4,
     "power":10,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Crystal",
@@ -405,7 +482,8 @@
     "url":"https:\/\/snap.fan\/cards\/Crystal\/",
     "energy":3,
     "power":3,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Cull Obsidian",
@@ -413,7 +491,8 @@
     "url":"https:\/\/snap.fan\/cards\/CullObsidian\/",
     "energy":4,
     "power":10,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Cyclops",
@@ -421,7 +500,8 @@
     "url":"https:\/\/snap.fan\/cards\/Cyclops\/",
     "energy":3,
     "power":4,
-    "series":"Starter"
+    "series":"Starter",
+    "released":true
   },
   {
     "name":"Dagger",
@@ -429,7 +509,8 @@
     "url":"https:\/\/snap.fan\/cards\/Dagger\/",
     "energy":2,
     "power":0,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Daken",
@@ -437,7 +518,8 @@
     "url":"https:\/\/snap.fan\/cards\/Daken\/",
     "energy":3,
     "power":4,
-    "series":"4"
+    "series":"4",
+    "released":true
   },
   {
     "name":"Daredevil",
@@ -445,7 +527,8 @@
     "url":"https:\/\/snap.fan\/cards\/Daredevil\/",
     "energy":2,
     "power":2,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Darkhawk",
@@ -453,7 +536,8 @@
     "url":"https:\/\/snap.fan\/cards\/Darkhawk\/",
     "energy":4,
     "power":3,
-    "series":"4"
+    "series":"4",
+    "released":true
   },
   {
     "name":"Dazzler",
@@ -461,7 +545,8 @@
     "url":"https:\/\/snap.fan\/cards\/Dazzler\/",
     "energy":2,
     "power":2,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Deadpool",
@@ -469,7 +554,8 @@
     "url":"https:\/\/snap.fan\/cards\/Deadpool\/",
     "energy":1,
     "power":1,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Death",
@@ -477,7 +563,8 @@
     "url":"https:\/\/snap.fan\/cards\/Death\/",
     "energy":8,
     "power":12,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Deathlok",
@@ -485,7 +572,8 @@
     "url":"https:\/\/snap.fan\/cards\/Deathlok\/",
     "energy":5,
     "power":5,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Debrii",
@@ -493,7 +581,8 @@
     "url":"https:\/\/snap.fan\/cards\/Debrii\/",
     "energy":3,
     "power":3,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Destroyer",
@@ -501,7 +590,8 @@
     "url":"https:\/\/snap.fan\/cards\/Destroyer\/",
     "energy":6,
     "power":16,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Devil Dinosaur",
@@ -509,7 +599,8 @@
     "url":"https:\/\/snap.fan\/cards\/DevilDinosaur\/",
     "energy":5,
     "power":3,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Doctor Doom",
@@ -517,7 +608,8 @@
     "url":"https:\/\/snap.fan\/cards\/DrDoom\/",
     "energy":6,
     "power":5,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Doctor Octopus",
@@ -525,7 +617,8 @@
     "url":"https:\/\/snap.fan\/cards\/DoctorOctopus\/",
     "energy":5,
     "power":10,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Doctor Strange",
@@ -533,7 +626,8 @@
     "url":"https:\/\/snap.fan\/cards\/DoctorStrange\/",
     "energy":2,
     "power":3,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Domino",
@@ -541,7 +635,8 @@
     "url":"https:\/\/snap.fan\/cards\/Domino\/",
     "energy":2,
     "power":3,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Dracula",
@@ -549,7 +644,8 @@
     "url":"https:\/\/snap.fan\/cards\/Dracula\/",
     "energy":4,
     "power":1,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Drax",
@@ -557,7 +653,8 @@
     "url":"https:\/\/snap.fan\/cards\/Drax\/",
     "energy":4,
     "power":5,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Ebony Maw",
@@ -565,7 +662,8 @@
     "url":"https:\/\/snap.fan\/cards\/EbonyMaw\/",
     "energy":1,
     "power":7,
-    "series":"2"
+    "series":"2",
+    "released":true
   },
   {
     "name":"Echo",
@@ -573,7 +671,8 @@
     "url":"https:\/\/snap.fan\/cards\/Echo\/",
     "energy":1,
     "power":2,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Electro",
@@ -581,7 +680,8 @@
     "url":"https:\/\/snap.fan\/cards\/Electro\/",
     "energy":3,
     "power":2,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Elektra",
@@ -589,7 +689,8 @@
     "url":"https:\/\/snap.fan\/cards\/Elektra\/",
     "energy":1,
     "power":2,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Elsa Bloodstone",
@@ -597,7 +698,17 @@
     "url":"https:\/\/snap.fan\/cards\/ElsaBloodstone\/",
     "energy":3,
     "power":3,
-    "series":"5"
+    "series":"5",
+    "released":true
+  },
+  {
+    "name":"Emperor Hulkling",
+    "ability":"At the start of the game, copy the text of a random 6-Cost card.",
+    "url":"https:\/\/snap.fan\/cards\/Hulking\/",
+    "energy":6,
+    "power":11,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Enchantress",
@@ -605,7 +716,8 @@
     "url":"https:\/\/snap.fan\/cards\/Enchantress\/",
     "energy":4,
     "power":5,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Falcon",
@@ -613,7 +725,8 @@
     "url":"https:\/\/snap.fan\/cards\/Falcon\/",
     "energy":2,
     "power":3,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Forge",
@@ -621,7 +734,8 @@
     "url":"https:\/\/snap.fan\/cards\/Forge\/",
     "energy":2,
     "power":2,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Galactus",
@@ -629,7 +743,8 @@
     "url":"https:\/\/snap.fan\/cards\/Galactus\/",
     "energy":6,
     "power":5,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Gambit",
@@ -637,7 +752,8 @@
     "url":"https:\/\/snap.fan\/cards\/Gambit\/",
     "energy":3,
     "power":3,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Gamora",
@@ -645,7 +761,8 @@
     "url":"https:\/\/snap.fan\/cards\/Gamora\/",
     "energy":5,
     "power":8,
-    "series":"Recruit"
+    "series":"Recruit",
+    "released":true
   },
   {
     "name":"Ghost",
@@ -653,7 +770,8 @@
     "url":"https:\/\/snap.fan\/cards\/Ghost\/",
     "energy":3,
     "power":5,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Ghost Rider",
@@ -661,7 +779,8 @@
     "url":"https:\/\/snap.fan\/cards\/GhostRider\/",
     "energy":4,
     "power":3,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Ghost-Spider",
@@ -669,7 +788,8 @@
     "url":"https:\/\/snap.fan\/cards\/GhostSpider\/",
     "energy":1,
     "power":2,
-    "series":"4"
+    "series":"4",
+    "released":true
   },
   {
     "name":"Giganto",
@@ -677,7 +797,8 @@
     "url":"https:\/\/snap.fan\/cards\/Giganto\/",
     "energy":6,
     "power":14,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Gilgamesh",
@@ -685,7 +806,8 @@
     "url":"https:\/\/snap.fan\/cards\/Gilgamesh\/",
     "energy":5,
     "power":9,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Gladiator",
@@ -693,7 +815,8 @@
     "url":"https:\/\/snap.fan\/cards\/Gladiator\/",
     "energy":3,
     "power":8,
-    "series":"4"
+    "series":"4",
+    "released":true
   },
   {
     "name":"Goose",
@@ -701,7 +824,8 @@
     "url":"https:\/\/snap.fan\/cards\/Goose\/",
     "energy":2,
     "power":2,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Grand Master",
@@ -709,7 +833,8 @@
     "url":"https:\/\/snap.fan\/cards\/GrandMaster\/",
     "energy":2,
     "power":2,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Green Goblin",
@@ -717,7 +842,8 @@
     "url":"https:\/\/snap.fan\/cards\/GreenGoblin\/",
     "energy":3,
     "power":-3,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Groot",
@@ -725,7 +851,8 @@
     "url":"https:\/\/snap.fan\/cards\/Groot\/",
     "energy":3,
     "power":3,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Gwenpool",
@@ -733,7 +860,8 @@
     "url":"https:\/\/snap.fan\/cards\/Gwenpool\/",
     "energy":4,
     "power":6,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Havok",
@@ -741,7 +869,8 @@
     "url":"https:\/\/snap.fan\/cards\/Havok\/",
     "energy":2,
     "power":0,
-    "series":"4"
+    "series":"4",
+    "released":true
   },
   {
     "name":"Hawkeye",
@@ -749,7 +878,17 @@
     "url":"https:\/\/snap.fan\/cards\/Hawkeye\/",
     "energy":1,
     "power":1,
-    "series":"Starter"
+    "series":"Starter",
+    "released":true
+  },
+  {
+    "name":"Hawkeye Kate Bishop",
+    "ability":"On Reveal: Add 2 Arrows to your hand.",
+    "url":"https:\/\/snap.fan\/cards\/KateBishop\/",
+    "energy":2,
+    "power":3,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Hazmat",
@@ -757,7 +896,8 @@
     "url":"https:\/\/snap.fan\/cards\/Hazmat\/",
     "energy":2,
     "power":2,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Heimdall",
@@ -765,7 +905,8 @@
     "url":"https:\/\/snap.fan\/cards\/Heimdall\/",
     "energy":6,
     "power":9,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Hela",
@@ -773,7 +914,8 @@
     "url":"https:\/\/snap.fan\/cards\/Hela\/",
     "energy":6,
     "power":6,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Helicarrier",
@@ -781,7 +923,8 @@
     "url":"https:\/\/snap.fan\/cards\/Helicarrier\/",
     "energy":6,
     "power":10,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Hellcow",
@@ -789,7 +932,8 @@
     "url":"https:\/\/snap.fan\/cards\/Hellcow\/",
     "energy":4,
     "power":8,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Hercules",
@@ -797,7 +941,8 @@
     "url":"https:\/\/snap.fan\/cards\/Hercules\/",
     "energy":3,
     "power":4,
-    "series":"4"
+    "series":"4",
+    "released":true
   },
   {
     "name":"High Evolutionary",
@@ -805,7 +950,8 @@
     "url":"https:\/\/snap.fan\/cards\/HighEvolutionary\/",
     "energy":4,
     "power":6,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Hit-Monkey",
@@ -813,7 +959,8 @@
     "url":"https:\/\/snap.fan\/cards\/HitMonkey\/",
     "energy":3,
     "power":2,
-    "series":"4"
+    "series":"4",
+    "released":true
   },
   {
     "name":"Hobgoblin",
@@ -821,7 +968,8 @@
     "url":"https:\/\/snap.fan\/cards\/Hobgoblin\/",
     "energy":5,
     "power":-8,
-    "series":"2"
+    "series":"2",
+    "released":true
   },
   {
     "name":"Hope Summers",
@@ -829,7 +977,8 @@
     "url":"https:\/\/snap.fan\/cards\/HopeSummers\/",
     "energy":3,
     "power":4,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Howard the Duck",
@@ -837,7 +986,8 @@
     "url":"https:\/\/snap.fan\/cards\/HowardTheDuck\/",
     "energy":1,
     "power":2,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Hulk",
@@ -845,7 +995,8 @@
     "url":"https:\/\/snap.fan\/cards\/Hulk\/",
     "energy":6,
     "power":12,
-    "series":"Starter"
+    "series":"Starter",
+    "released":true
   },
   {
     "name":"Hulkbuster",
@@ -853,7 +1004,8 @@
     "url":"https:\/\/snap.fan\/cards\/Hulkbuster\/",
     "energy":2,
     "power":3,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Human Torch",
@@ -861,7 +1013,8 @@
     "url":"https:\/\/snap.fan\/cards\/HumanTorch\/",
     "energy":1,
     "power":2,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Hydra Bob",
@@ -869,7 +1022,8 @@
     "url":"https:\/\/snap.fan\/cards\/HydraBob\/",
     "energy":1,
     "power":4,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Iceman",
@@ -877,7 +1031,8 @@
     "url":"https:\/\/snap.fan\/cards\/Iceman\/",
     "energy":1,
     "power":2,
-    "series":"2"
+    "series":"2",
+    "released":true
   },
   {
     "name":"Invisible Woman",
@@ -885,7 +1040,8 @@
     "url":"https:\/\/snap.fan\/cards\/InvisibleWoman\/",
     "energy":2,
     "power":3,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Iron Fist",
@@ -893,7 +1049,8 @@
     "url":"https:\/\/snap.fan\/cards\/IronFist\/",
     "energy":1,
     "power":2,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Iron Lad",
@@ -901,7 +1058,8 @@
     "url":"https:\/\/snap.fan\/cards\/IronLad\/",
     "energy":4,
     "power":6,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Iron Man",
@@ -909,7 +1067,8 @@
     "url":"https:\/\/snap.fan\/cards\/IronMan\/",
     "energy":5,
     "power":0,
-    "series":"Starter"
+    "series":"Starter",
+    "released":true
   },
   {
     "name":"Ironheart",
@@ -917,7 +1076,8 @@
     "url":"https:\/\/snap.fan\/cards\/Ironheart\/",
     "energy":3,
     "power":0,
-    "series":"Recruit"
+    "series":"Recruit",
+    "released":true
   },
   {
     "name":"Jane Foster Mighty Thor",
@@ -925,7 +1085,8 @@
     "url":"https:\/\/snap.fan\/cards\/JaneFoster\/",
     "energy":5,
     "power":9,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Jean Grey",
@@ -933,7 +1094,8 @@
     "url":"https:\/\/snap.fan\/cards\/JeanGrey\/",
     "energy":3,
     "power":4,
-    "series":"4"
+    "series":"4",
+    "released":true
   },
   {
     "name":"Jeff the Baby Land Shark",
@@ -941,7 +1103,8 @@
     "url":"https:\/\/snap.fan\/cards\/JeffTheBabyLandShark\/",
     "energy":2,
     "power":3,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Jessica Jones",
@@ -949,7 +1112,8 @@
     "url":"https:\/\/snap.fan\/cards\/JessicaJones\/",
     "energy":4,
     "power":5,
-    "series":"0"
+    "series":"0",
+    "released":true
   },
   {
     "name":"Jubilee",
@@ -957,7 +1121,8 @@
     "url":"https:\/\/snap.fan\/cards\/Jubilee\/",
     "energy":4,
     "power":1,
-    "series":"2"
+    "series":"2",
+    "released":true
   },
   {
     "name":"Juggernaut",
@@ -965,7 +1130,8 @@
     "url":"https:\/\/snap.fan\/cards\/Juggernaut\/",
     "energy":3,
     "power":3,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Ka-Zar",
@@ -973,7 +1139,8 @@
     "url":"https:\/\/snap.fan\/cards\/KaZar\/",
     "energy":4,
     "power":4,
-    "series":"0"
+    "series":"0",
+    "released":true
   },
   {
     "name":"Kang",
@@ -981,7 +1148,8 @@
     "url":"https:\/\/snap.fan\/cards\/Kang\/",
     "energy":6,
     "power":0,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Killmonger",
@@ -989,7 +1157,8 @@
     "url":"https:\/\/snap.fan\/cards\/Killmonger\/",
     "energy":3,
     "power":3,
-    "series":"2"
+    "series":"2",
+    "released":true
   },
   {
     "name":"Kingpin",
@@ -997,7 +1166,8 @@
     "url":"https:\/\/snap.fan\/cards\/Kingpin\/",
     "energy":1,
     "power":2,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Kitty Pryde",
@@ -1005,7 +1175,8 @@
     "url":"https:\/\/snap.fan\/cards\/KittyPryde\/",
     "energy":1,
     "power":1,
-    "series":"4"
+    "series":"4",
+    "released":true
   },
   {
     "name":"Klaw",
@@ -1013,7 +1184,8 @@
     "url":"https:\/\/snap.fan\/cards\/Klaw\/",
     "energy":5,
     "power":4,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Knull",
@@ -1021,7 +1193,8 @@
     "url":"https:\/\/snap.fan\/cards\/Knull\/",
     "energy":6,
     "power":0,
-    "series":"4"
+    "series":"4",
+    "released":true
   },
   {
     "name":"Korg",
@@ -1029,7 +1202,8 @@
     "url":"https:\/\/snap.fan\/cards\/Korg\/",
     "energy":1,
     "power":2,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Kraven",
@@ -1037,7 +1211,8 @@
     "url":"https:\/\/snap.fan\/cards\/Kraven\/",
     "energy":2,
     "power":2,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Lady Deathstrike",
@@ -1045,7 +1220,8 @@
     "url":"https:\/\/snap.fan\/cards\/LadyDeathstrike\/",
     "energy":5,
     "power":6,
-    "series":"4"
+    "series":"4",
+    "released":true
   },
   {
     "name":"Lady Sif",
@@ -1053,7 +1229,8 @@
     "url":"https:\/\/snap.fan\/cards\/LadySif\/",
     "energy":3,
     "power":5,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Leader",
@@ -1061,7 +1238,8 @@
     "url":"https:\/\/snap.fan\/cards\/Leader\/",
     "energy":6,
     "power":3,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Leech",
@@ -1069,7 +1247,8 @@
     "url":"https:\/\/snap.fan\/cards\/Leech\/",
     "energy":5,
     "power":5,
-    "series":"2"
+    "series":"2",
+    "released":true
   },
   {
     "name":"Legion",
@@ -1077,7 +1256,8 @@
     "url":"https:\/\/snap.fan\/cards\/Legion\/",
     "energy":5,
     "power":7,
-    "series":"4"
+    "series":"4",
+    "released":true
   },
   {
     "name":"Lizard",
@@ -1085,7 +1265,8 @@
     "url":"https:\/\/snap.fan\/cards\/Lizard\/",
     "energy":2,
     "power":5,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Lockjaw",
@@ -1093,7 +1274,8 @@
     "url":"https:\/\/snap.fan\/cards\/Lockjaw\/",
     "energy":4,
     "power":5,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Loki",
@@ -1101,7 +1283,8 @@
     "url":"https:\/\/snap.fan\/cards\/Loki\/",
     "energy":4,
     "power":5,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Luke Cage",
@@ -1109,7 +1292,8 @@
     "url":"https:\/\/snap.fan\/cards\/LukeCage\/",
     "energy":3,
     "power":3,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"M'Baku",
@@ -1117,7 +1301,8 @@
     "url":"https:\/\/snap.fan\/cards\/MBaku\/",
     "energy":1,
     "power":2,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"M.O.D.O.K.",
@@ -1125,7 +1310,17 @@
     "url":"https:\/\/snap.fan\/cards\/Modok\/",
     "energy":5,
     "power":8,
-    "series":"4"
+    "series":"4",
+    "released":true
+  },
+  {
+    "name":"Madame Web",
+    "ability":"Ongoing: You can move one of your other cards away from here each turn.",
+    "url":"https:\/\/snap.fan\/cards\/MadameWeb\/",
+    "energy":2,
+    "power":3,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Magik",
@@ -1133,7 +1328,8 @@
     "url":"https:\/\/snap.fan\/cards\/Magik\/",
     "energy":3,
     "power":2,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Magneto",
@@ -1141,7 +1337,8 @@
     "url":"https:\/\/snap.fan\/cards\/Magneto\/",
     "energy":6,
     "power":12,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Makkari",
@@ -1149,7 +1346,8 @@
     "url":"https:\/\/snap.fan\/cards\/Makkari\/",
     "energy":3,
     "power":4,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Man-Thing",
@@ -1157,7 +1355,8 @@
     "url":"https:\/\/snap.fan\/cards\/ManThing\/",
     "energy":4,
     "power":5,
-    "series":"4"
+    "series":"4",
+    "released":true
   },
   {
     "name":"Mantis",
@@ -1165,7 +1364,8 @@
     "url":"https:\/\/snap.fan\/cards\/Mantis\/",
     "energy":2,
     "power":2,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Maria Hill",
@@ -1173,7 +1373,8 @@
     "url":"https:\/\/snap.fan\/cards\/MariaHill\/",
     "energy":2,
     "power":2,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Martyr",
@@ -1181,7 +1382,17 @@
     "url":"https:\/\/snap.fan\/cards\/Martyr\/",
     "energy":1,
     "power":5,
-    "series":"3"
+    "series":"3",
+    "released":true
+  },
+  {
+    "name":"Marvel Boy",
+    "ability":"After each turn, give 3 of your 1-Cost cards +1 Power.",
+    "url":"https:\/\/snap.fan\/cards\/MarvelBoy\/",
+    "energy":3,
+    "power":2,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Master Mold",
@@ -1189,7 +1400,8 @@
     "url":"https:\/\/snap.fan\/cards\/MasterMold\/",
     "energy":2,
     "power":2,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Maximus",
@@ -1197,7 +1409,8 @@
     "url":"https:\/\/snap.fan\/cards\/Maximus\/",
     "energy":2,
     "power":6,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Medusa",
@@ -1205,7 +1418,8 @@
     "url":"https:\/\/snap.fan\/cards\/Medusa\/",
     "energy":2,
     "power":2,
-    "series":"Starter"
+    "series":"Starter",
+    "released":true
   },
   {
     "name":"Miek",
@@ -1213,7 +1427,8 @@
     "url":"https:\/\/snap.fan\/cards\/Miek\/",
     "energy":1,
     "power":0,
-    "series":"4"
+    "series":"4",
+    "released":true
   },
   {
     "name":"Miles Morales",
@@ -1221,7 +1436,8 @@
     "url":"https:\/\/snap.fan\/cards\/MilesMorales\/",
     "energy":4,
     "power":6,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Mirage",
@@ -1229,7 +1445,8 @@
     "url":"https:\/\/snap.fan\/cards\/Mirage\/",
     "energy":2,
     "power":2,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Mister Fantastic",
@@ -1237,7 +1454,8 @@
     "url":"https:\/\/snap.fan\/cards\/MrFantastic\/",
     "energy":3,
     "power":2,
-    "series":"0"
+    "series":"0",
+    "released":true
   },
   {
     "name":"Mister Negative",
@@ -1245,7 +1463,8 @@
     "url":"https:\/\/snap.fan\/cards\/MrNegative\/",
     "energy":3,
     "power":-1,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Mister Sinister",
@@ -1253,7 +1472,8 @@
     "url":"https:\/\/snap.fan\/cards\/MrSinister\/",
     "energy":2,
     "power":2,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Misty Knight",
@@ -1261,7 +1481,8 @@
     "url":"https:\/\/snap.fan\/cards\/MistyKnight\/",
     "energy":1,
     "power":2,
-    "series":"Starter"
+    "series":"Starter",
+    "released":true
   },
   {
     "name":"Mobius M. Mobius",
@@ -1269,7 +1490,8 @@
     "url":"https:\/\/snap.fan\/cards\/MobiusMMobius\/",
     "energy":3,
     "power":3,
-    "series":"4"
+    "series":"4",
+    "released":true
   },
   {
     "name":"Mockingbird",
@@ -1277,7 +1499,8 @@
     "url":"https:\/\/snap.fan\/cards\/Mockingbird\/",
     "energy":5,
     "power":9,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Mojo",
@@ -1285,7 +1508,8 @@
     "url":"https:\/\/snap.fan\/cards\/Mojo\/",
     "energy":2,
     "power":2,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Moon Girl",
@@ -1293,7 +1517,8 @@
     "url":"https:\/\/snap.fan\/cards\/MoonGirl\/",
     "energy":4,
     "power":4,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Moon Knight",
@@ -1301,7 +1526,8 @@
     "url":"https:\/\/snap.fan\/cards\/MoonKnight\/",
     "energy":3,
     "power":3,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Morbius",
@@ -1309,7 +1535,8 @@
     "url":"https:\/\/snap.fan\/cards\/Morbius\/",
     "energy":2,
     "power":0,
-    "series":"2"
+    "series":"2",
+    "released":true
   },
   {
     "name":"Morph",
@@ -1317,7 +1544,8 @@
     "url":"https:\/\/snap.fan\/cards\/Morph\/",
     "energy":3,
     "power":0,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Ms. Marvel",
@@ -1325,7 +1553,8 @@
     "url":"https:\/\/snap.fan\/cards\/MsMarvel\/",
     "energy":4,
     "power":4,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Multiple Man",
@@ -1333,7 +1562,8 @@
     "url":"https:\/\/snap.fan\/cards\/MultipleMan\/",
     "energy":2,
     "power":3,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Mysterio",
@@ -1341,7 +1571,8 @@
     "url":"https:\/\/snap.fan\/cards\/Mysterio\/",
     "energy":2,
     "power":4,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Mystique",
@@ -1349,7 +1580,8 @@
     "url":"https:\/\/snap.fan\/cards\/Mystique\/",
     "energy":3,
     "power":0,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Nakia",
@@ -1357,7 +1589,8 @@
     "url":"https:\/\/snap.fan\/cards\/Nakia\/",
     "energy":3,
     "power":3,
-    "series":"2"
+    "series":"2",
+    "released":true
   },
   {
     "name":"Namor",
@@ -1365,7 +1598,8 @@
     "url":"https:\/\/snap.fan\/cards\/Namor\/",
     "energy":4,
     "power":6,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Namora",
@@ -1373,7 +1607,8 @@
     "url":"https:\/\/snap.fan\/cards\/Namora\/",
     "energy":5,
     "power":6,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Nebula",
@@ -1381,7 +1616,8 @@
     "url":"https:\/\/snap.fan\/cards\/Nebula\/",
     "energy":1,
     "power":1,
-    "series":"4"
+    "series":"4",
+    "released":true
   },
   {
     "name":"Negasonic Teenage Warhead",
@@ -1389,7 +1625,8 @@
     "url":"https:\/\/snap.fan\/cards\/NegasonicTeenageWarhead\/",
     "energy":3,
     "power":2,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Nick Fury",
@@ -1397,7 +1634,8 @@
     "url":"https:\/\/snap.fan\/cards\/NickFury\/",
     "energy":4,
     "power":6,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Nico Minoru",
@@ -1405,7 +1643,8 @@
     "url":"https:\/\/snap.fan\/cards\/NicoMinoru\/",
     "energy":1,
     "power":2,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Nightcrawler",
@@ -1413,7 +1652,8 @@
     "url":"https:\/\/snap.fan\/cards\/Nightcrawler\/",
     "energy":1,
     "power":2,
-    "series":"0"
+    "series":"0",
+    "released":true
   },
   {
     "name":"Nimrod",
@@ -1421,7 +1661,8 @@
     "url":"https:\/\/snap.fan\/cards\/Nimrod\/",
     "energy":5,
     "power":6,
-    "series":"4"
+    "series":"4",
+    "released":true
   },
   {
     "name":"Nocturne",
@@ -1429,7 +1670,8 @@
     "url":"https:\/\/snap.fan\/cards\/Nocturne\/",
     "energy":3,
     "power":5,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Nova",
@@ -1437,7 +1679,8 @@
     "url":"https:\/\/snap.fan\/cards\/Nova\/",
     "energy":1,
     "power":1,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Odin",
@@ -1445,7 +1688,8 @@
     "url":"https:\/\/snap.fan\/cards\/Odin\/",
     "energy":6,
     "power":8,
-    "series":"0"
+    "series":"0",
+    "released":true
   },
   {
     "name":"Okoye",
@@ -1453,7 +1697,8 @@
     "url":"https:\/\/snap.fan\/cards\/Okoye\/",
     "energy":2,
     "power":2,
-    "series":"2"
+    "series":"2",
+    "released":true
   },
   {
     "name":"Omega Red",
@@ -1461,7 +1706,8 @@
     "url":"https:\/\/snap.fan\/cards\/OmegaRed\/",
     "energy":4,
     "power":5,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Onslaught",
@@ -1469,7 +1715,8 @@
     "url":"https:\/\/snap.fan\/cards\/Onslaught\/",
     "energy":6,
     "power":7,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Orka",
@@ -1477,7 +1724,8 @@
     "url":"https:\/\/snap.fan\/cards\/Orka\/",
     "energy":6,
     "power":11,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Patriot",
@@ -1485,7 +1733,8 @@
     "url":"https:\/\/snap.fan\/cards\/Patriot\/",
     "energy":3,
     "power":1,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Phastos",
@@ -1493,7 +1742,8 @@
     "url":"https:\/\/snap.fan\/cards\/Phastos\/",
     "energy":3,
     "power":3,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Phoenix Force",
@@ -1501,7 +1751,8 @@
     "url":"https:\/\/snap.fan\/cards\/ThePhoenixForce\/",
     "energy":4,
     "power":5,
-    "series":"4"
+    "series":"4",
+    "released":true
   },
   {
     "name":"Pixie",
@@ -1509,7 +1760,8 @@
     "url":"https:\/\/snap.fan\/cards\/Pixie\/",
     "energy":2,
     "power":1,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Polaris",
@@ -1517,7 +1769,8 @@
     "url":"https:\/\/snap.fan\/cards\/Polaris\/",
     "energy":3,
     "power":5,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Professor X",
@@ -1525,7 +1778,8 @@
     "url":"https:\/\/snap.fan\/cards\/ProfessorX\/",
     "energy":5,
     "power":2,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Proxima Midnight",
@@ -1533,7 +1787,8 @@
     "url":"https:\/\/snap.fan\/cards\/ProximaMidnight\/",
     "energy":4,
     "power":7,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Psylocke",
@@ -1541,7 +1796,8 @@
     "url":"https:\/\/snap.fan\/cards\/Psylocke\/",
     "energy":2,
     "power":2,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Punisher",
@@ -1549,7 +1805,8 @@
     "url":"https:\/\/snap.fan\/cards\/Punisher\/",
     "energy":3,
     "power":3,
-    "series":"Starter"
+    "series":"Starter",
+    "released":true
   },
   {
     "name":"Quake",
@@ -1557,7 +1814,8 @@
     "url":"https:\/\/snap.fan\/cards\/Quake\/",
     "energy":2,
     "power":3,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Quicksilver",
@@ -1565,7 +1823,8 @@
     "url":"https:\/\/snap.fan\/cards\/Quicksilver\/",
     "energy":1,
     "power":2,
-    "series":"Starter"
+    "series":"Starter",
+    "released":true
   },
   {
     "name":"Quinjet",
@@ -1573,7 +1832,8 @@
     "url":"https:\/\/snap.fan\/cards\/Quinjet\/",
     "energy":1,
     "power":2,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Ravonna Renslayer",
@@ -1581,7 +1841,8 @@
     "url":"https:\/\/snap.fan\/cards\/RavonnaRenslayer\/",
     "energy":2,
     "power":3,
-    "series":"4"
+    "series":"4",
+    "released":true
   },
   {
     "name":"Red Guardian",
@@ -1589,7 +1850,8 @@
     "url":"https:\/\/snap.fan\/cards\/RedGuardian\/",
     "energy":3,
     "power":3,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Red Hulk",
@@ -1597,7 +1859,8 @@
     "url":"https:\/\/snap.fan\/cards\/RedHulk\/",
     "energy":6,
     "power":10,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Red Skull",
@@ -1605,7 +1868,8 @@
     "url":"https:\/\/snap.fan\/cards\/RedSkull\/",
     "energy":5,
     "power":14,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Rescue",
@@ -1613,7 +1877,8 @@
     "url":"https:\/\/snap.fan\/cards\/Rescue\/",
     "energy":4,
     "power":4,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Rhino",
@@ -1621,7 +1886,8 @@
     "url":"https:\/\/snap.fan\/cards\/Rhino\/",
     "energy":3,
     "power":3,
-    "series":"2"
+    "series":"2",
+    "released":true
   },
   {
     "name":"Rocket Raccoon",
@@ -1629,7 +1895,8 @@
     "url":"https:\/\/snap.fan\/cards\/RocketRaccoon\/",
     "energy":1,
     "power":1,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Rockslide",
@@ -1637,7 +1904,8 @@
     "url":"https:\/\/snap.fan\/cards\/Rockslide\/",
     "energy":3,
     "power":3,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Rogue",
@@ -1645,7 +1913,8 @@
     "url":"https:\/\/snap.fan\/cards\/Rogue\/",
     "energy":3,
     "power":2,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Ronan the Accuser",
@@ -1653,7 +1922,8 @@
     "url":"https:\/\/snap.fan\/cards\/Ronan\/",
     "energy":5,
     "power":5,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Sabretooth",
@@ -1661,7 +1931,8 @@
     "url":"https:\/\/snap.fan\/cards\/Sabretooth\/",
     "energy":3,
     "power":5,
-    "series":"2"
+    "series":"2",
+    "released":true
   },
   {
     "name":"Sage",
@@ -1669,7 +1940,8 @@
     "url":"https:\/\/snap.fan\/cards\/Sage\/",
     "energy":3,
     "power":0,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Sandman",
@@ -1677,7 +1949,8 @@
     "url":"https:\/\/snap.fan\/cards\/Sandman\/",
     "energy":5,
     "power":7,
-    "series":"2"
+    "series":"2",
+    "released":true
   },
   {
     "name":"Sasquatch",
@@ -1685,7 +1958,8 @@
     "url":"https:\/\/snap.fan\/cards\/Sasquatch\/",
     "energy":6,
     "power":10,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Sauron",
@@ -1693,7 +1967,17 @@
     "url":"https:\/\/snap.fan\/cards\/Sauron\/",
     "energy":3,
     "power":3,
-    "series":"3"
+    "series":"3",
+    "released":true
+  },
+  {
+    "name":"Scarlet Spider",
+    "ability":"Activate: Add an exact clone of this to another location.",
+    "url":"https:\/\/snap.fan\/cards\/ScarletSpider\/",
+    "energy":4,
+    "power":5,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Scarlet Witch",
@@ -1701,7 +1985,8 @@
     "url":"https:\/\/snap.fan\/cards\/ScarletWitch\/",
     "energy":2,
     "power":3,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Scorpion",
@@ -1709,7 +1994,8 @@
     "url":"https:\/\/snap.fan\/cards\/Scorpion\/",
     "energy":2,
     "power":2,
-    "series":"2"
+    "series":"2",
+    "released":true
   },
   {
     "name":"Sebastian Shaw",
@@ -1717,7 +2003,8 @@
     "url":"https:\/\/snap.fan\/cards\/SebastianShaw\/",
     "energy":3,
     "power":4,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Selene",
@@ -1725,7 +2012,8 @@
     "url":"https:\/\/snap.fan\/cards\/Selene\/",
     "energy":1,
     "power":2,
-    "series":"4"
+    "series":"4",
+    "released":true
   },
   {
     "name":"Sentinel",
@@ -1733,7 +2021,8 @@
     "url":"https:\/\/snap.fan\/cards\/Sentinel\/",
     "energy":2,
     "power":3,
-    "series":"Starter"
+    "series":"Starter",
+    "released":true
   },
   {
     "name":"Sentry",
@@ -1741,7 +2030,8 @@
     "url":"https:\/\/snap.fan\/cards\/Sentry\/",
     "energy":4,
     "power":8,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Sera",
@@ -1749,7 +2039,8 @@
     "url":"https:\/\/snap.fan\/cards\/Sera\/",
     "energy":5,
     "power":4,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Sersi",
@@ -1757,7 +2048,8 @@
     "url":"https:\/\/snap.fan\/cards\/Sersi\/",
     "energy":5,
     "power":7,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Shadow King",
@@ -1765,7 +2057,8 @@
     "url":"https:\/\/snap.fan\/cards\/ShadowKing\/",
     "energy":2,
     "power":2,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Shang-Chi",
@@ -1773,7 +2066,8 @@
     "url":"https:\/\/snap.fan\/cards\/ShangChi\/",
     "energy":4,
     "power":3,
-    "series":"2"
+    "series":"2",
+    "released":true
   },
   {
     "name":"Shanna",
@@ -1781,7 +2075,8 @@
     "url":"https:\/\/snap.fan\/cards\/Shanna\/",
     "energy":3,
     "power":4,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"She-Hulk",
@@ -1789,7 +2084,8 @@
     "url":"https:\/\/snap.fan\/cards\/SheHulk\/",
     "energy":6,
     "power":10,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Shocker",
@@ -1797,7 +2093,8 @@
     "url":"https:\/\/snap.fan\/cards\/Shocker\/",
     "energy":2,
     "power":3,
-    "series":"Starter"
+    "series":"Starter",
+    "released":true
   },
   {
     "name":"Shuri",
@@ -1805,7 +2102,8 @@
     "url":"https:\/\/snap.fan\/cards\/Shuri\/",
     "energy":4,
     "power":1,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Silk",
@@ -1813,7 +2111,17 @@
     "url":"https:\/\/snap.fan\/cards\/Silk\/",
     "energy":2,
     "power":5,
-    "series":"4"
+    "series":"4",
+    "released":true
+  },
+  {
+    "name":"Silver Sable",
+    "ability":"On Reveal: Steal 2 Power from the top card of your opponent\u2019s deck.",
+    "url":"https:\/\/snap.fan\/cards\/SilverSable\/",
+    "energy":1,
+    "power":1,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Silver Samurai",
@@ -1821,7 +2129,8 @@
     "url":"https:\/\/snap.fan\/cards\/SilverSamurai\/",
     "energy":4,
     "power":5,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Silver Surfer",
@@ -1829,7 +2138,8 @@
     "url":"https:\/\/snap.fan\/cards\/SilverSurfer\/",
     "energy":3,
     "power":2,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Skaar",
@@ -1837,7 +2147,8 @@
     "url":"https:\/\/snap.fan\/cards\/Skaar\/",
     "energy":6,
     "power":11,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Snowguard",
@@ -1845,7 +2156,8 @@
     "url":"https:\/\/snap.fan\/cards\/Snowguard\/",
     "energy":1,
     "power":2,
-    "series":"4"
+    "series":"4",
+    "released":true
   },
   {
     "name":"Spectrum",
@@ -1853,7 +2165,17 @@
     "url":"https:\/\/snap.fan\/cards\/Spectrum\/",
     "energy":6,
     "power":6,
-    "series":"0"
+    "series":"0",
+    "released":true
+  },
+  {
+    "name":"Speed",
+    "ability":"Ongoing: +1 Power for each turn in which you spent all your Energy.",
+    "url":"https:\/\/snap.fan\/cards\/Speed\/",
+    "energy":3,
+    "power":2,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Spider-Ham",
@@ -1861,7 +2183,8 @@
     "url":"https:\/\/snap.fan\/cards\/SpiderHam\/",
     "energy":1,
     "power":1,
-    "series":"4"
+    "series":"4",
+    "released":true
   },
   {
     "name":"Spider-Man",
@@ -1869,7 +2192,8 @@
     "url":"https:\/\/snap.fan\/cards\/SpiderMan\/",
     "energy":3,
     "power":5,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Spider-Man 2099",
@@ -1877,7 +2201,8 @@
     "url":"https:\/\/snap.fan\/cards\/SpiderMan2099\/",
     "energy":5,
     "power":9,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Spider-Woman",
@@ -1885,7 +2210,8 @@
     "url":"https:\/\/snap.fan\/cards\/SpiderWoman\/",
     "energy":5,
     "power":8,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Squirrel Girl",
@@ -1893,7 +2219,8 @@
     "url":"https:\/\/snap.fan\/cards\/SquirrelGirl\/",
     "energy":1,
     "power":2,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Star-Lord",
@@ -1901,7 +2228,8 @@
     "url":"https:\/\/snap.fan\/cards\/Starlord\/",
     "energy":2,
     "power":2,
-    "series":"Starter"
+    "series":"Starter",
+    "released":true
   },
   {
     "name":"Stature",
@@ -1909,7 +2237,8 @@
     "url":"https:\/\/snap.fan\/cards\/Stature\/",
     "energy":5,
     "power":7,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Stegron",
@@ -1917,7 +2246,8 @@
     "url":"https:\/\/snap.fan\/cards\/Stegron\/",
     "energy":4,
     "power":7,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Storm",
@@ -1925,7 +2255,8 @@
     "url":"https:\/\/snap.fan\/cards\/Storm\/",
     "energy":3,
     "power":2,
-    "series":"2"
+    "series":"2",
+    "released":true
   },
   {
     "name":"Strong Guy",
@@ -1933,7 +2264,8 @@
     "url":"https:\/\/snap.fan\/cards\/StrongGuy\/",
     "energy":3,
     "power":3,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Sunspot",
@@ -1941,7 +2273,8 @@
     "url":"https:\/\/snap.fan\/cards\/Sunspot\/",
     "energy":1,
     "power":0,
-    "series":"2"
+    "series":"2",
+    "released":true
   },
   {
     "name":"Super-Skrull",
@@ -1949,7 +2282,8 @@
     "url":"https:\/\/snap.fan\/cards\/SuperSkrull\/",
     "energy":4,
     "power":2,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Supergiant",
@@ -1957,7 +2291,8 @@
     "url":"https:\/\/snap.fan\/cards\/Supergiant\/",
     "energy":4,
     "power":5,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Swarm",
@@ -1965,7 +2300,8 @@
     "url":"https:\/\/snap.fan\/cards\/Swarm\/",
     "energy":2,
     "power":3,
-    "series":"2"
+    "series":"2",
+    "released":true
   },
   {
     "name":"Sword Master",
@@ -1973,7 +2309,17 @@
     "url":"https:\/\/snap.fan\/cards\/SwordMaster\/",
     "energy":3,
     "power":7,
-    "series":"1"
+    "series":"1",
+    "released":true
+  },
+  {
+    "name":"Symbiote Spider-Man",
+    "ability":"Activate: Merge your lowest-Cost card here with this. Copy its text like it just revealed.",
+    "url":"https:\/\/snap.fan\/cards\/SymbioteSpiderMan\/",
+    "energy":4,
+    "power":6,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Taskmaster",
@@ -1981,7 +2327,8 @@
     "url":"https:\/\/snap.fan\/cards\/Taskmaster\/",
     "energy":5,
     "power":0,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Thanos",
@@ -1989,7 +2336,8 @@
     "url":"https:\/\/snap.fan\/cards\/Thanos\/",
     "energy":6,
     "power":10,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"The Collector",
@@ -1997,7 +2345,8 @@
     "url":"https:\/\/snap.fan\/cards\/TheCollector\/",
     "energy":2,
     "power":2,
-    "series":"2"
+    "series":"2",
+    "released":true
   },
   {
     "name":"The Hood",
@@ -2005,7 +2354,8 @@
     "url":"https:\/\/snap.fan\/cards\/Hood\/",
     "energy":1,
     "power":-3,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"The Infinaut",
@@ -2013,7 +2363,8 @@
     "url":"https:\/\/snap.fan\/cards\/Infinaut\/",
     "energy":6,
     "power":20,
-    "series":"2"
+    "series":"2",
+    "released":true
   },
   {
     "name":"The Living Tribunal",
@@ -2021,7 +2372,8 @@
     "url":"https:\/\/snap.fan\/cards\/LivingTribunal\/",
     "energy":6,
     "power":9,
-    "series":"4"
+    "series":"4",
+    "released":true
   },
   {
     "name":"The Thing",
@@ -2029,7 +2381,8 @@
     "url":"https:\/\/snap.fan\/cards\/TheThing\/",
     "energy":4,
     "power":8,
-    "series":"Starter"
+    "series":"Starter",
+    "released":true
   },
   {
     "name":"Thena",
@@ -2037,7 +2390,8 @@
     "url":"https:\/\/snap.fan\/cards\/Thena\/",
     "energy":2,
     "power":1,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Thor",
@@ -2045,7 +2399,8 @@
     "url":"https:\/\/snap.fan\/cards\/Thor\/",
     "energy":3,
     "power":4,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Titania",
@@ -2053,7 +2408,8 @@
     "url":"https:\/\/snap.fan\/cards\/Titania\/",
     "energy":1,
     "power":5,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Typhoid Mary",
@@ -2061,7 +2417,8 @@
     "url":"https:\/\/snap.fan\/cards\/TyphoidMary\/",
     "energy":4,
     "power":10,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"U.S. Agent",
@@ -2069,7 +2426,8 @@
     "url":"https:\/\/snap.fan\/cards\/USAgent\/",
     "energy":2,
     "power":3,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Uatu the Watcher",
@@ -2077,7 +2435,8 @@
     "url":"https:\/\/snap.fan\/cards\/Uatu\/",
     "energy":1,
     "power":2,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Ultron",
@@ -2085,7 +2444,8 @@
     "url":"https:\/\/snap.fan\/cards\/Ultron\/",
     "energy":6,
     "power":8,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Valentina",
@@ -2093,7 +2453,8 @@
     "url":"https:\/\/snap.fan\/cards\/Valentina\/",
     "energy":2,
     "power":3,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Valkyrie",
@@ -2101,7 +2462,8 @@
     "url":"https:\/\/snap.fan\/cards\/Valkyrie\/",
     "energy":5,
     "power":3,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Venom",
@@ -2109,7 +2471,8 @@
     "url":"https:\/\/snap.fan\/cards\/Venom\/",
     "energy":3,
     "power":3,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Viper",
@@ -2117,7 +2480,8 @@
     "url":"https:\/\/snap.fan\/cards\/Viper\/",
     "energy":3,
     "power":5,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Vision",
@@ -2125,7 +2489,8 @@
     "url":"https:\/\/snap.fan\/cards\/Vision\/",
     "energy":5,
     "power":8,
-    "series":"2"
+    "series":"2",
+    "released":true
   },
   {
     "name":"Vulture",
@@ -2133,7 +2498,8 @@
     "url":"https:\/\/snap.fan\/cards\/Vulture\/",
     "energy":3,
     "power":3,
-    "series":"2"
+    "series":"2",
+    "released":true
   },
   {
     "name":"War Machine",
@@ -2141,7 +2507,8 @@
     "url":"https:\/\/snap.fan\/cards\/WarMachine\/",
     "energy":4,
     "power":6,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Warpath",
@@ -2149,7 +2516,8 @@
     "url":"https:\/\/snap.fan\/cards\/Warpath\/",
     "energy":4,
     "power":5,
-    "series":"2"
+    "series":"2",
+    "released":true
   },
   {
     "name":"Wasp",
@@ -2157,7 +2525,8 @@
     "url":"https:\/\/snap.fan\/cards\/Wasp\/",
     "energy":0,
     "power":1,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Wave",
@@ -2165,7 +2534,8 @@
     "url":"https:\/\/snap.fan\/cards\/Wave\/",
     "energy":3,
     "power":5,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Werewolf By Night",
@@ -2173,7 +2543,8 @@
     "url":"https:\/\/snap.fan\/cards\/WerewolfByNight\/",
     "energy":3,
     "power":1,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"White Queen",
@@ -2181,7 +2552,8 @@
     "url":"https:\/\/snap.fan\/cards\/WhiteQueen\/",
     "energy":4,
     "power":6,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"White Tiger",
@@ -2189,7 +2561,8 @@
     "url":"https:\/\/snap.fan\/cards\/WhiteTiger\/",
     "energy":5,
     "power":1,
-    "series":"0"
+    "series":"0",
+    "released":true
   },
   {
     "name":"White Widow",
@@ -2197,7 +2570,17 @@
     "url":"https:\/\/snap.fan\/cards\/WhiteWidow\/",
     "energy":2,
     "power":2,
-    "series":"5"
+    "series":"5",
+    "released":true
+  },
+  {
+    "name":"Wiccan",
+    "ability":"On Reveal: If you've spent all your Energy this game, +2 Max Energy.",
+    "url":"https:\/\/snap.fan\/cards\/Wiccan\/",
+    "energy":4,
+    "power":5,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Wolfsbane",
@@ -2205,7 +2588,8 @@
     "url":"https:\/\/snap.fan\/cards\/Wolfsbane\/",
     "energy":3,
     "power":1,
-    "series":"0"
+    "series":"0",
+    "released":true
   },
   {
     "name":"Wolverine",
@@ -2213,7 +2597,8 @@
     "url":"https:\/\/snap.fan\/cards\/Wolverine\/",
     "energy":2,
     "power":2,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Wong",
@@ -2221,7 +2606,8 @@
     "url":"https:\/\/snap.fan\/cards\/Wong\/",
     "energy":4,
     "power":2,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"X-23",
@@ -2229,7 +2615,8 @@
     "url":"https:\/\/snap.fan\/cards\/X23\/",
     "energy":1,
     "power":2,
-    "series":"5"
+    "series":"5",
+    "released":true
   },
   {
     "name":"Yellowjacket",
@@ -2237,7 +2624,8 @@
     "url":"https:\/\/snap.fan\/cards\/Yellowjacket\/",
     "energy":0,
     "power":2,
-    "series":"3"
+    "series":"3",
+    "released":true
   },
   {
     "name":"Yondu",
@@ -2245,7 +2633,8 @@
     "url":"https:\/\/snap.fan\/cards\/Yondu\/",
     "energy":1,
     "power":2,
-    "series":"1"
+    "series":"1",
+    "released":true
   },
   {
     "name":"Zabu",
@@ -2253,7 +2642,8 @@
     "url":"https:\/\/snap.fan\/cards\/Zabu\/",
     "energy":2,
     "power":3,
-    "series":"4"
+    "series":"4",
+    "released":true
   },
   {
     "name":"Zero",
@@ -2261,6 +2651,7 @@
     "url":"https:\/\/snap.fan\/cards\/Zero\/",
     "energy":1,
     "power":3,
-    "series":"3"
+    "series":"3",
+    "released":true
   }
 ]
