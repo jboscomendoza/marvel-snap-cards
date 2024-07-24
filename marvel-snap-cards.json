@@ -447,7 +447,7 @@
     "energy":3,
     "power":5,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Corvus Glaive",
