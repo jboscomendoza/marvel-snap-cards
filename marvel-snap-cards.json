@@ -402,7 +402,7 @@
     "energy":3,
     "power":1,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Cerebro",
