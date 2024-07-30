@@ -235,7 +235,7 @@
   },
   {
     "name":"Black Bolt",
-    "ability":"On Reveal: Discard the lowest-cost card from your opponent's hand.",
+    "ability":"On Reveal: Discard the card that costs the least from your opponent's hand.",
     "url":"https:\/\/snap.fan\/cards\/BlackBolt\/",
     "energy":5,
     "power":7,
@@ -298,7 +298,7 @@
   },
   {
     "name":"Blink",
-    "ability":"On Reveal: Swap the last card you played with a higher-Cost cardfrom your deck.",
+    "ability":"On Reveal: Swap the last card you played with a card that costs more from your deck.",
     "url":"https:\/\/snap.fan\/cards\/Blink\/",
     "energy":5,
     "power":7,
@@ -424,7 +424,7 @@
   },
   {
     "name":"Colleen Wing",
-    "ability":"On Reveal: Discard the lowest-cost card from your hand.",
+    "ability":"On Reveal: Discard the card that costs least from your hand.",
     "url":"https:\/\/snap.fan\/cards\/ColleenWing\/",
     "energy":2,
     "power":4,
@@ -1081,7 +1081,7 @@
   },
   {
     "name":"Jane Foster Mighty Thor",
-    "ability":"On Reveal: Draw all cards that Cost 0 from your deck.",
+    "ability":"On Reveal: Draw all cards that cost 0 from your deck.",
     "url":"https:\/\/snap.fan\/cards\/JaneFoster\/",
     "energy":5,
     "power":9,
@@ -1225,7 +1225,7 @@
   },
   {
     "name":"Lady Sif",
-    "ability":"On Reveal: Discard the highest-cost card from your hand.",
+    "ability":"On Reveal: Discard the card that costs the most from your hand.",
     "url":"https:\/\/snap.fan\/cards\/LadySif\/",
     "energy":3,
     "power":5,
@@ -1441,7 +1441,7 @@
   },
   {
     "name":"Mirage",
-    "ability":"On Reveal: Copy the lowest-Cost card in your opponent's hand into your hand. Give it +2 Power.",
+    "ability":"On Reveal: Copy the card that costs the least from your opponent's hand into your hand. Give it +2 Power.",
     "url":"https:\/\/snap.fan\/cards\/Mirage\/",
     "energy":2,
     "power":2,
@@ -1522,7 +1522,7 @@
   },
   {
     "name":"Moon Knight",
-    "ability":"On Reveal: Discard a card from each player's hand.",
+    "ability":"On Reveal: Discard a card with an even cost from each player's hand.",
     "url":"https:\/\/snap.fan\/cards\/MoonKnight\/",
     "energy":3,
     "power":3,
@@ -2431,7 +2431,7 @@
   },
   {
     "name":"Uatu the Watcher",
-    "ability":"At the start of the game, shows the right location to you.",
+    "ability":"At the start of the game, shows unrevealed locations to you.",
     "url":"https:\/\/snap.fan\/cards\/Uatu\/",
     "energy":1,
     "power":2,
@@ -2548,7 +2548,7 @@
   },
   {
     "name":"White Queen",
-    "ability":"On Reveal: Copy the highest-Cost card in your opponent's handinto your hand.",
+    "ability":"On Reveal: Copy the card that costs the most in your opponent's handinto your hand.",
     "url":"https:\/\/snap.fan\/cards\/WhiteQueen\/",
     "energy":4,
     "power":6,
@@ -2629,7 +2629,7 @@
   },
   {
     "name":"Yondu",
-    "ability":"On Reveal: Destroy the lowest-Cost card in your opponent's deck.",
+    "ability":"On Reveal: Destroy the card that costs the least in your opponent's deck.",
     "url":"https:\/\/snap.fan\/cards\/Yondu\/",
     "energy":1,
     "power":2,
