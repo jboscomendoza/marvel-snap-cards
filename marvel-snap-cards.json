@@ -307,7 +307,7 @@
   },
   {
     "name":"Blob",
-    "ability":"On Reveal: Merge cards from your deck into this until it gains 15 or more Power.Ongoing: Can't be moved.",
+    "ability":"On Reveal: Merge cards from your deck into this until it gains 13 or more Power.",
     "url":"https:\/\/snap.fan\/cards\/Blob\/",
     "energy":6,
     "power":0,
@@ -613,10 +613,10 @@
   },
   {
     "name":"Doctor Octopus",
-    "ability":"On Reveal: Pull 4 cards from your opponent's hand to their sideof this location.",
+    "ability":"On Reveal: Pull the lowest-Power card from your opponent’s hand to their side of this location.",
     "url":"https:\/\/snap.fan\/cards\/DoctorOctopus\/",
-    "energy":5,
-    "power":10,
+    "energy":4,
+    "power":8,
     "series":"3",
     "released":true
   },
@@ -1243,10 +1243,10 @@
   },
   {
     "name":"Leech",
-    "ability":"On Reveal: Remove the text from cards with On Reveal abilities inyour opponent's hand.",
+    "ability":"On Reveal: Remove the text from 6-Cost cards in your opponent’s hand.",
     "url":"https:\/\/snap.fan\/cards\/Leech\/",
-    "energy":5,
-    "power":5,
+    "energy":4,
+    "power":4,
     "series":"2",
     "released":true
   },
@@ -1279,9 +1279,9 @@
   },
   {
     "name":"Loki",
-    "ability":"On Reveal: Transform your hand into cards from your opponent's starting deck and give them -1 Cost.",
+    "ability":"On Reveal: Replace your deck with your opponent's starting deck. Give those cards -1 Cost and draw a card.",
     "url":"https:\/\/snap.fan\/cards\/Loki\/",
-    "energy":4,
+    "energy":3,
     "power":5,
     "series":"5",
     "released":true
@@ -2506,7 +2506,7 @@
     "ability":"On Reveal: Until the end of next turn, nothing can stop you from playing cards anywhere.",
     "url":"https:\/\/snap.fan\/cards\/WarMachine\/",
     "energy":4,
-    "power":6,
+    "power":7,
     "series":"5",
     "released":true
   },
