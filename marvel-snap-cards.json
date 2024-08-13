@@ -130,7 +130,7 @@
     "ability":"When you discard this, put it back with +4 Power.",
     "url":"https:\/\/snap.fan\/cards\/Apocalypse\/",
     "energy":6,
-    "power":6,
+    "power":8,
     "series":"1",
     "released":true
   },
@@ -2575,7 +2575,7 @@
   },
   {
     "name":"Wiccan",
-    "ability":"On Reveal: If you've spent all your Energy this game, +2 Max Energy.",
+    "ability":"On Reveal: If you've spent all your Energy on previous turns, +2 Max Energy.",
     "url":"https:\/\/snap.fan\/cards\/Wiccan\/",
     "energy":4,
     "power":5,
