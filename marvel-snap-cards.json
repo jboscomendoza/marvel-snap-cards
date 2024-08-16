@@ -93,8 +93,8 @@
     "name":"Angel",
     "ability":"When one of your cards is destroyed, this flies out of your hand or deck to replace it.",
     "url":"https:\/\/snap.fan\/cards\/Angel\/",
-    "energy":1,
-    "power":2,
+    "energy":2,
+    "power":3,
     "series":"1",
     "released":true
   },
@@ -145,7 +145,7 @@
   },
   {
     "name":"Arishem",
-    "ability":"At the start of the game, +1 Max Energy. Shuffle 12 random cards into your deck.",
+    "ability":"At the start of the game, +1 Max Energy. Shuffle 15 random cards into your deck.",
     "url":"https:\/\/snap.fan\/cards\/Arishem\/",
     "energy":7,
     "power":7,
@@ -400,7 +400,7 @@
     "ability":"On Reveal: Steal 1 Power from each card in your opponent's deck.",
     "url":"https:\/\/snap.fan\/cards\/CassandraNova\/",
     "energy":3,
-    "power":1,
+    "power":0,
     "series":"5",
     "released":true
   },
@@ -1219,7 +1219,7 @@
     "ability":"On Reveal: Destroy each card here with 3 or less Power.",
     "url":"https:\/\/snap.fan\/cards\/LadyDeathstrike\/",
     "energy":5,
-    "power":6,
+    "power":7,
     "series":"4",
     "released":true
   },
@@ -1354,7 +1354,7 @@
     "ability":"Ongoing: 1, 2, and 3-Cost cards here have -2 Power.",
     "url":"https:\/\/snap.fan\/cards\/ManThing\/",
     "energy":4,
-    "power":5,
+    "power":7,
     "series":"4",
     "released":true
   },
@@ -1669,7 +1669,7 @@
     "ability":"You can move this once. When this moves, replace its location with a random new one.",
     "url":"https:\/\/snap.fan\/cards\/Nocturne\/",
     "energy":3,
-    "power":5,
+    "power":4,
     "series":"5",
     "released":true
   },
@@ -1948,7 +1948,7 @@
     "ability":"On Reveal: Players can only play 1 card next turn.",
     "url":"https:\/\/snap.fan\/cards\/Sandman\/",
     "energy":5,
-    "power":7,
+    "power":0,
     "series":"2",
     "released":true
   },
@@ -2389,7 +2389,7 @@
     "ability":"After each turn, +3 Power if you played (exactly) 2 cards.",
     "url":"https:\/\/snap.fan\/cards\/Thena\/",
     "energy":2,
-    "power":1,
+    "power":0,
     "series":"5",
     "released":true
   },
