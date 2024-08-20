@@ -63,6 +63,24 @@
     "released":true
   },
   {
+    "name":"Agent Venom",
+    "ability":"On Reveal: Set the Power of all cards in your deck to 4.",
+    "url":"https:\/\/snap.fan\/cards\/AgentVenom\/",
+    "energy":2,
+    "power":4,
+    "series":"5",
+    "released":false
+  },
+  {
+    "name":"Agony",
+    "ability":"After you play a card here, merge this with it.",
+    "url":"https:\/\/snap.fan\/cards\/Agony\/",
+    "energy":1,
+    "power":2,
+    "series":"5",
+    "released":false
+  },
+  {
     "name":"Ajax",
     "ability":"Ongoing: +1 Power for each card in play afflicted with negative Power.",
     "url":"https:\/\/snap.fan\/cards\/Ajax\/",
@@ -93,8 +111,8 @@
     "name":"Angel",
     "ability":"When one of your cards is destroyed, this flies out of your hand or deck to replace it.",
     "url":"https:\/\/snap.fan\/cards\/Angel\/",
-    "energy":2,
-    "power":3,
+    "energy":1,
+    "power":2,
     "series":"1",
     "released":true
   },
@@ -126,6 +144,15 @@
     "released":true
   },
   {
+    "name":"Anti Venom",
+    "ability":"On Reveal: Set the Cost and Power of your deck's top card to 0.",
+    "url":"https:\/\/snap.fan\/cards\/AntiVenom\/",
+    "energy":4,
+    "power":6,
+    "series":"5",
+    "released":false
+  },
+  {
     "name":"Apocalypse",
     "ability":"When you discard this, put it back with +4 Power.",
     "url":"https:\/\/snap.fan\/cards\/Apocalypse\/",
@@ -136,16 +163,16 @@
   },
   {
     "name":"Ara\u00f1a",
-    "ability":"Activate: Give the last card you played +2 Power and move it to the right.",
+    "ability":"Activate: Give the next card you play +2 Power and move it to the right.",
     "url":"https:\/\/snap.fan\/cards\/Arana\/",
-    "energy":2,
-    "power":2,
+    "energy":1,
+    "power":1,
     "series":"5",
     "released":false
   },
   {
     "name":"Arishem",
-    "ability":"At the start of the game, +1 Max Energy. Shuffle 15 random cards into your deck.",
+    "ability":"At the start of the game, +1 Max Energy. Shuffle 12 random cards into your deck.",
     "url":"https:\/\/snap.fan\/cards\/Arishem\/",
     "energy":7,
     "power":7,
@@ -190,7 +217,7 @@
   },
   {
     "name":"Baron Zemo",
-    "ability":"On Reveal: Recruit the lowest-Cost card from your opponent's deck to your side of this location.",
+    "ability":"On Reveal: Recruit the a card that costs the least from your opponent's deck to your side of this location.",
     "url":"https:\/\/snap.fan\/cards\/BaronZemo\/",
     "energy":3,
     "power":5,
@@ -400,7 +427,7 @@
     "ability":"On Reveal: Steal 1 Power from each card in your opponent's deck.",
     "url":"https:\/\/snap.fan\/cards\/CassandraNova\/",
     "energy":3,
-    "power":0,
+    "power":1,
     "series":"5",
     "released":true
   },
@@ -888,7 +915,7 @@
     "energy":2,
     "power":3,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Hazmat",
@@ -1219,7 +1246,7 @@
     "ability":"On Reveal: Destroy each card here with 3 or less Power.",
     "url":"https:\/\/snap.fan\/cards\/LadyDeathstrike\/",
     "energy":5,
-    "power":7,
+    "power":6,
     "series":"4",
     "released":true
   },
@@ -1318,7 +1345,7 @@
     "ability":"Ongoing: You can move one of your other cards away from here each turn.",
     "url":"https:\/\/snap.fan\/cards\/MadameWeb\/",
     "energy":2,
-    "power":3,
+    "power":1,
     "series":"5",
     "released":false
   },
@@ -1354,7 +1381,7 @@
     "ability":"Ongoing: 1, 2, and 3-Cost cards here have -2 Power.",
     "url":"https:\/\/snap.fan\/cards\/ManThing\/",
     "energy":4,
-    "power":7,
+    "power":5,
     "series":"4",
     "released":true
   },
@@ -1392,7 +1419,7 @@
     "energy":3,
     "power":2,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Master Mold",
@@ -1447,6 +1474,15 @@
     "power":2,
     "series":"3",
     "released":true
+  },
+  {
+    "name":"Misery",
+    "ability":"On Reveal: Repeat the On Reveal abilities of your other cards here, then destroy them.",
+    "url":"https:\/\/snap.fan\/cards\/Misery\/",
+    "energy":4,
+    "power":7,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Mister Fantastic",
@@ -1522,7 +1558,7 @@
   },
   {
     "name":"Moon Knight",
-    "ability":"On Reveal: Discard a card with an even cost from each player's hand.",
+    "ability":"On Reveal: Discard an even-costed card from each player's hand.",
     "url":"https:\/\/snap.fan\/cards\/MoonKnight\/",
     "energy":3,
     "power":3,
@@ -1669,7 +1705,7 @@
     "ability":"You can move this once. When this moves, replace its location with a random new one.",
     "url":"https:\/\/snap.fan\/cards\/Nocturne\/",
     "energy":3,
-    "power":4,
+    "power":5,
     "series":"5",
     "released":true
   },
@@ -1948,7 +1984,7 @@
     "ability":"On Reveal: Players can only play 1 card next turn.",
     "url":"https:\/\/snap.fan\/cards\/Sandman\/",
     "energy":5,
-    "power":0,
+    "power":7,
     "series":"2",
     "released":true
   },
@@ -1996,6 +2032,15 @@
     "power":2,
     "series":"2",
     "released":true
+  },
+  {
+    "name":"Scream",
+    "ability":"When an enemy card moves, steal 2 power from it. (once per turn)",
+    "url":"https:\/\/snap.fan\/cards\/Scream\/",
+    "energy":2,
+    "power":2,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Sebastian Shaw",
@@ -2053,7 +2098,7 @@
   },
   {
     "name":"Shadow King",
-    "ability":"On Reveal: Set all cards here to their base Power.",
+    "ability":"On Reveal: Reset all cards here to their original Power.",
     "url":"https:\/\/snap.fan\/cards\/ShadowKing\/",
     "energy":2,
     "power":2,
@@ -2389,7 +2434,7 @@
     "ability":"After each turn, +3 Power if you played (exactly) 2 cards.",
     "url":"https:\/\/snap.fan\/cards\/Thena\/",
     "energy":2,
-    "power":0,
+    "power":1,
     "series":"5",
     "released":true
   },
@@ -2410,6 +2455,15 @@
     "power":5,
     "series":"3",
     "released":true
+  },
+  {
+    "name":"Toxin",
+    "ability":"On Reveal: Return your other cards here to your hand. +2 Power for each returned.",
+    "url":"https:\/\/snap.fan\/cards\/Toxin\/",
+    "energy":2,
+    "power":1,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Typhoid Mary",
@@ -2580,7 +2634,7 @@
     "energy":4,
     "power":5,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Wolfsbane",
