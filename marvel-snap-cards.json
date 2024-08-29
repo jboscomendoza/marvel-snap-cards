@@ -199,7 +199,7 @@
   },
   {
     "name":"Attuma",
-    "ability":"After each turn, destroy this if you have another card here.",
+    "ability":"After each turn, destroy one of your cards here with less Power.",
     "url":"https:\/\/snap.fan\/cards\/Attuma\/",
     "energy":4,
     "power":10,
@@ -237,8 +237,8 @@
     "name":"Beast",
     "ability":"On Reveal: Return your other cards here to your hand. They cost 1 less next turn.",
     "url":"https:\/\/snap.fan\/cards\/Beast\/",
-    "energy":2,
-    "power":2,
+    "energy":3,
+    "power":5,
     "series":"3",
     "released":true
   },
@@ -469,7 +469,7 @@
   },
   {
     "name":"Copycat",
-    "ability":"When you draw this, steal the text from the bottom card of your opponent's deck.",
+    "ability":"When you draw this, copy the text from the bottom card of your opponent's deck.",
     "url":"https:\/\/snap.fan\/cards\/Copycat\/",
     "energy":3,
     "power":5,
@@ -613,10 +613,10 @@
   },
   {
     "name":"Destroyer",
-    "ability":"On Reveal: Destroy yourother cards.",
+    "ability":"On Reveal: Destroy your cards at other locations.",
     "url":"https:\/\/snap.fan\/cards\/Destroyer\/",
     "energy":6,
-    "power":16,
+    "power":14,
     "series":"3",
     "released":true
   },
@@ -1306,10 +1306,10 @@
   },
   {
     "name":"Loki",
-    "ability":"On Reveal: Replace your deck with your opponent's starting deck. Give those cards -1 Cost and draw a card.",
+    "ability":"On Reveal: Replace your deck with your opponent's starting deck. Give those cards -1 Cost.",
     "url":"https:\/\/snap.fan\/cards\/Loki\/",
-    "energy":3,
-    "power":5,
+    "energy":2,
+    "power":2,
     "series":"5",
     "released":true
   },
@@ -2370,7 +2370,7 @@
     "name":"Taskmaster",
     "ability":"On Reveal: Set this card\u00e2\u20ac\u2122s Power equal to that of the last card you played. (if that card's in play)",
     "url":"https:\/\/snap.fan\/cards\/Taskmaster\/",
-    "energy":5,
+    "energy":6,
     "power":0,
     "series":"3",
     "released":true
