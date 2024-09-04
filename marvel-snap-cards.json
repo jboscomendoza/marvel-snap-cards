@@ -2034,6 +2034,15 @@
     "released":true
   },
   {
+    "name":"Scorn",
+    "ability":"When you discard this, give its Power to one of your cards in play. Return this to hand with +1 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Scorn\/",
+    "energy":1,
+    "power":2,
+    "series":"2",
+    "released":false
+  },
+  {
     "name":"Scream",
     "ability":"When an enemy card moves, steal 2 power from it. (once per turn)",
     "url":"https:\/\/snap.fan\/cards\/Scream\/",
@@ -2166,7 +2175,7 @@
     "energy":1,
     "power":1,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Silver Samurai",
@@ -2364,7 +2373,7 @@
     "energy":4,
     "power":6,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Taskmaster",
