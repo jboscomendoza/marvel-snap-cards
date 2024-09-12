@@ -1347,7 +1347,7 @@
     "energy":2,
     "power":1,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Magik",
