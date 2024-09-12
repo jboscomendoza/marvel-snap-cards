@@ -31,13 +31,13 @@
     "ability":"On Reveal: Move the last enemy card played anywhere to this location.",
     "url":"https:\/\/snap.fan\/cards\/Aero\/",
     "energy":5,
-    "power":9,
+    "power":10,
     "series":"3",
     "released":true
   },
   {
     "name":"Agatha Harkness",
-    "ability":"Agatha starts in your hand and plays your cards for you.",
+    "ability":"Agatha starts in your hand. She plays your cards for you on even turns.",
     "url":"https:\/\/snap.fan\/cards\/AgathaHarkness\/",
     "energy":6,
     "power":14,
@@ -274,7 +274,7 @@
     "ability":"If this is in your hand after the turn, discard it.",
     "url":"https:\/\/snap.fan\/cards\/BlackCat\/",
     "energy":4,
-    "power":9,
+    "power":10,
     "series":"3",
     "released":true
   },
@@ -1533,7 +1533,7 @@
     "name":"Mockingbird",
     "ability":"Costs 1 less for each of your cards in play that didn't start in your deck.",
     "url":"https:\/\/snap.fan\/cards\/Mockingbird\/",
-    "energy":5,
+    "energy":6,
     "power":9,
     "series":"5",
     "released":true
@@ -1552,7 +1552,7 @@
     "ability":"On Reveal: Duplicateyour hand.",
     "url":"https:\/\/snap.fan\/cards\/MoonGirl\/",
     "energy":4,
-    "power":4,
+    "power":5,
     "series":"1",
     "released":true
   },
@@ -1981,7 +1981,7 @@
   },
   {
     "name":"Sandman",
-    "ability":"On Reveal: Players can only play 1 card next turn.",
+    "ability":"On Reveal: Next turn, cards cost 1 more. (Maximum 6)",
     "url":"https:\/\/snap.fan\/cards\/Sandman\/",
     "energy":5,
     "power":7,
@@ -2566,7 +2566,7 @@
   },
   {
     "name":"War Machine",
-    "ability":"On Reveal: Until the end of next turn, nothing can stop you from playing cards anywhere.",
+    "ability":"On Reveal: Ongoing: Nothing can stop you from playing cards anywhere.",
     "url":"https:\/\/snap.fan\/cards\/WarMachine\/",
     "energy":4,
     "power":7,
