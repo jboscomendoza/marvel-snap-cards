@@ -298,10 +298,10 @@
   },
   {
     "name":"Black Swan",
-    "ability":"On Reveal: Until the end of next turn, your 1-Cost cards cost 0.",
+    "ability":"Activate: Until the end of next turn, your 1-Cost cards cost 0.",
     "url":"https:\/\/snap.fan\/cards\/BlackSwan\/",
-    "energy":3,
-    "power":5,
+    "energy":2,
+    "power":3,
     "series":"5",
     "released":true
   },
@@ -955,10 +955,10 @@
   },
   {
     "name":"Hellcow",
-    "ability":"On Reveal: Discard 2 cards from your hand.",
+    "ability":"Activate: Discard 2 cards from your hand.",
     "url":"https:\/\/snap.fan\/cards\/Hellcow\/",
     "energy":4,
-    "power":8,
+    "power":6,
     "series":"3",
     "released":true
   },
@@ -2359,7 +2359,7 @@
   },
   {
     "name":"Sword Master",
-    "ability":"On Reveal: Discard a card from your hand.",
+    "ability":"On Reveal: Discard an odd-costted card from your hand.",
     "url":"https:\/\/snap.fan\/cards\/SwordMaster\/",
     "energy":3,
     "power":7,
