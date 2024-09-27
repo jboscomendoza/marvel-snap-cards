@@ -292,7 +292,7 @@
     "ability":"On Reveal: Double thiscard's Power.",
     "url":"https:\/\/snap.fan\/cards\/BlackPanther\/",
     "energy":5,
-    "power":4,
+    "power":5,
     "series":"3",
     "released":true
   },
@@ -769,7 +769,7 @@
     "ability":"On Reveal: If you're winning this location and this is your only card here, destroy all other locations.",
     "url":"https:\/\/snap.fan\/cards\/Galactus\/",
     "energy":6,
-    "power":5,
+    "power":6,
     "series":"5",
     "released":true
   },
@@ -937,10 +937,10 @@
   },
   {
     "name":"Hela",
-    "ability":"On Reveal: Resurrect all cards you discarded to random locationswith -2 Power.",
+    "ability":"On Reveal: Resurrect all cards you discarded to random locationswith -3 Power.",
     "url":"https:\/\/snap.fan\/cards\/Hela\/",
     "energy":6,
-    "power":6,
+    "power":7,
     "series":"3",
     "released":true
   },
@@ -967,7 +967,7 @@
     "ability":"The first time another card moves here each turn, move it to another location.",
     "url":"https:\/\/snap.fan\/cards\/Hercules\/",
     "energy":3,
-    "power":4,
+    "power":5,
     "series":"4",
     "released":true
   },
@@ -1417,7 +1417,7 @@
     "ability":"After each turn, give 3 of your 1-Cost cards +1 Power.",
     "url":"https:\/\/snap.fan\/cards\/MarvelBoy\/",
     "energy":3,
-    "power":2,
+    "power":1,
     "series":"5",
     "released":true
   },
@@ -1660,7 +1660,7 @@
     "ability":"After an enemy card is played here, destroy it. (once per game)",
     "url":"https:\/\/snap.fan\/cards\/NegasonicTeenageWarhead\/",
     "energy":3,
-    "power":2,
+    "power":3,
     "series":"3",
     "released":true
   },
@@ -2371,7 +2371,7 @@
     "ability":"Activate: Merge your lowest-Cost card here with this. Copy its text like it just revealed.",
     "url":"https:\/\/snap.fan\/cards\/SymbioteSpiderMan\/",
     "energy":4,
-    "power":6,
+    "power":7,
     "series":"5",
     "released":true
   },
@@ -2569,7 +2569,7 @@
     "ability":"On Reveal: Ongoing: Nothing can stop you from playing cards anywhere.",
     "url":"https:\/\/snap.fan\/cards\/WarMachine\/",
     "energy":4,
-    "power":7,
+    "power":6,
     "series":"5",
     "released":true
   },
