@@ -69,7 +69,7 @@
     "energy":2,
     "power":4,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Agony",
@@ -77,7 +77,7 @@
     "url":"https:\/\/snap.fan\/cards\/Agony\/",
     "energy":1,
     "power":2,
-    "series":"5",
+    "series":"4",
     "released":false
   },
   {
@@ -756,6 +756,15 @@
     "released":true
   },
   {
+    "name":"Fenris Wolf",
+    "ability":"Activate: Resurrect the highest-Power discarded or destroyed enemy card to your side of this location.",
+    "url":"https:\/\/snap.fan\/cards\/FenrisWolf\/",
+    "energy":2,
+    "power":3,
+    "series":"5",
+    "released":false
+  },
+  {
     "name":"Forge",
     "ability":"On Reveal: Give the next card you play +2 Power.",
     "url":"https:\/\/snap.fan\/cards\/Forge\/",
@@ -763,6 +772,15 @@
     "power":2,
     "series":"1",
     "released":true
+  },
+  {
+    "name":"Frigga",
+    "ability":"On Reveal: Add a copy of the last card you played to your hand. (if able).",
+    "url":"https:\/\/snap.fan\/cards\/Frigga\/",
+    "energy":4,
+    "power":6,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Galactus",
@@ -853,6 +871,15 @@
     "power":2,
     "series":"3",
     "released":true
+  },
+  {
+    "name":"Gorr",
+    "ability":"Ongoing: +2 Power for EACH On Reveal card in play.",
+    "url":"https:\/\/snap.fan\/cards\/Gorr\/",
+    "energy":6,
+    "power":-3,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Grand Master",
@@ -1375,6 +1402,15 @@
     "power":4,
     "series":"5",
     "released":true
+  },
+  {
+    "name":"Malekith",
+    "ability":"",
+    "url":"https:\/\/snap.fan\/cards\/Malekith\/",
+    "energy":0,
+    "power":0,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Man-Thing",
@@ -2035,11 +2071,11 @@
   },
   {
     "name":"Scorn",
-    "ability":"When you discard this, give its Power to one of your cards in play. Return this to hand with +1 Power.",
+    "ability":"When you discard this, return it to your hand and give +2 Power to itself and one of your cards in play",
     "url":"https:\/\/snap.fan\/cards\/Scorn\/",
     "energy":1,
     "power":2,
-    "series":"2",
+    "series":"5",
     "released":false
   },
   {
@@ -2049,7 +2085,7 @@
     "energy":2,
     "power":2,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Sebastian Shaw",
