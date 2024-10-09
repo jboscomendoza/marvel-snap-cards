@@ -1518,7 +1518,7 @@
     "energy":4,
     "power":7,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Mister Fantastic",
