@@ -733,7 +733,7 @@
     "ability":"At the start of the game, copy the text of a random 6-Cost card.",
     "url":"https:\/\/snap.fan\/cards\/Hulking\/",
     "energy":6,
-    "power":11,
+    "power":12,
     "series":"5",
     "released":false
   },
@@ -886,7 +886,7 @@
     "ability":"On Reveal: Move one of your other On Reveal cards here to the middle location. Its ability happens again.",
     "url":"https:\/\/snap.fan\/cards\/GrandMaster\/",
     "energy":2,
-    "power":2,
+    "power":3,
     "series":"5",
     "released":true
   },
@@ -982,10 +982,10 @@
   },
   {
     "name":"Hellcow",
-    "ability":"Activate: Discard 2 cards from your hand.",
+    "ability":"Activate: Discard a card from your hand.",
     "url":"https:\/\/snap.fan\/cards\/Hellcow\/",
     "energy":4,
-    "power":6,
+    "power":7,
     "series":"3",
     "released":true
   },
@@ -1768,7 +1768,7 @@
     "ability":"On Reveal: Give every card in your deck +1 Power.",
     "url":"https:\/\/snap.fan\/cards\/Okoye\/",
     "energy":2,
-    "power":2,
+    "power":3,
     "series":"2",
     "released":true
   },
@@ -2083,7 +2083,7 @@
     "ability":"When an enemy card moves, steal 2 power from it. (once per turn)",
     "url":"https:\/\/snap.fan\/cards\/Scream\/",
     "energy":2,
-    "power":2,
+    "power":3,
     "series":"5",
     "released":true
   },
@@ -2578,7 +2578,7 @@
     "ability":"On Reveal: One of your other cards here switches sides.",
     "url":"https:\/\/snap.fan\/cards\/Viper\/",
     "energy":3,
-    "power":5,
+    "power":4,
     "series":"3",
     "released":true
   },
@@ -2737,10 +2737,10 @@
   },
   {
     "name":"Zabu",
-    "ability":"On Reveal: Until the end of next turn, your 4-Cost cards cost 1 less.",
+    "ability":"On Reveal: Give each 4-Cost card in your deck -1 Cost.",
     "url":"https:\/\/snap.fan\/cards\/Zabu\/",
-    "energy":2,
-    "power":3,
+    "energy":1,
+    "power":2,
     "series":"4",
     "released":true
   },
