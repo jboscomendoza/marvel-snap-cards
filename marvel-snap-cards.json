@@ -777,8 +777,8 @@
     "name":"Frigga",
     "ability":"On Reveal: Add a copy of the last card you played to your hand. (if able).",
     "url":"https:\/\/snap.fan\/cards\/Frigga\/",
-    "energy":4,
-    "power":6,
+    "energy":3,
+    "power":3,
     "series":"5",
     "released":false
   },
@@ -877,7 +877,7 @@
     "ability":"Ongoing: +2 Power for EACH On Reveal card in play.",
     "url":"https:\/\/snap.fan\/cards\/Gorr\/",
     "energy":6,
-    "power":-3,
+    "power":-2,
     "series":"5",
     "released":false
   },
@@ -1215,6 +1215,15 @@
     "released":true
   },
   {
+    "name":"King Eitri",
+    "ability":"Activate: Draw a card that didn't start in your deck.",
+    "url":"https:\/\/snap.fan\/cards\/KingEitri\/",
+    "energy":1,
+    "power":2,
+    "series":"5",
+    "released":false
+  },
+  {
     "name":"Kingpin",
     "ability":"When an enemy card moves here, afflict it with -2 Power.",
     "url":"https:\/\/snap.fan\/cards\/Kingpin\/",
@@ -1276,6 +1285,15 @@
     "power":6,
     "series":"4",
     "released":true
+  },
+  {
+    "name":"Laufey",
+    "ability":"On Reveal: Steal 1 Power from each other card here.",
+    "url":"https:\/\/snap.fan\/cards\/Laufey\/",
+    "energy":4,
+    "power":5,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Lady Sif",
@@ -1405,10 +1423,10 @@
   },
   {
     "name":"Malekith",
-    "ability":"",
+    "ability":"On Reveal: Add a 1, 2, or 3-Cost card from your deck here. It reveals at the end of the game.",
     "url":"https:\/\/snap.fan\/cards\/Malekith\/",
-    "energy":0,
-    "power":0,
+    "energy":4,
+    "power":6,
     "series":"5",
     "released":false
   },
@@ -2076,7 +2094,7 @@
     "energy":1,
     "power":2,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Scream",
@@ -2383,6 +2401,15 @@
     "power":5,
     "series":"5",
     "released":true
+  },
+  {
+    "name":"Surtur",
+    "ability":"After you play a card with 10+ Power, this gains +3 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Surtur\/",
+    "energy":3,
+    "power":5,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Swarm",
