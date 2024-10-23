@@ -78,7 +78,7 @@
     "energy":1,
     "power":2,
     "series":"4",
-    "released":false
+    "released":true
   },
   {
     "name":"Ajax",
@@ -2535,7 +2535,7 @@
     "energy":2,
     "power":1,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Typhoid Mary",
