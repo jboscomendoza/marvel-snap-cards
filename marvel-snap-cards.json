@@ -553,7 +553,7 @@
     "ability":"On turn 5, you get to see your opponent's plays before youmake your own.",
     "url":"https:\/\/snap.fan\/cards\/Daredevil\/",
     "energy":2,
-    "power":2,
+    "power":3,
     "series":"3",
     "released":true
   },
@@ -706,7 +706,7 @@
     "ability":"On Reveal: +1 Max Energy. Ongoing: You can only play1 card a turn.",
     "url":"https:\/\/snap.fan\/cards\/Electro\/",
     "energy":3,
-    "power":2,
+    "power":3,
     "series":"3",
     "released":true
   },
@@ -1243,7 +1243,7 @@
   },
   {
     "name":"Klaw",
-    "ability":"Ongoing: The location to the right has +8 Power.",
+    "ability":"Ongoing: The location to the right has +7 Power.",
     "url":"https:\/\/snap.fan\/cards\/Klaw\/",
     "energy":5,
     "power":4,
@@ -1507,7 +1507,7 @@
     "ability":"When you discard a card, this gains +1 Power and can move next turn.",
     "url":"https:\/\/snap.fan\/cards\/Miek\/",
     "energy":1,
-    "power":0,
+    "power":1,
     "series":"4",
     "released":true
   },
@@ -1534,7 +1534,7 @@
     "ability":"On Reveal: Repeat the On Reveal abilities of your other cards here, then destroy them.",
     "url":"https:\/\/snap.fan\/cards\/Misery\/",
     "energy":4,
-    "power":7,
+    "power":8,
     "series":"5",
     "released":true
   },
@@ -1992,8 +1992,8 @@
     "name":"Rockslide",
     "ability":"On Reveal: Shuffle 2 Rocks into your opponent's deck.",
     "url":"https:\/\/snap.fan\/cards\/Rockslide\/",
-    "energy":3,
-    "power":3,
+    "energy":4,
+    "power":5,
     "series":"3",
     "released":true
   },
@@ -2164,7 +2164,7 @@
     "ability":"On Reveal: Reset all cards here to their original Power.",
     "url":"https:\/\/snap.fan\/cards\/ShadowKing\/",
     "energy":2,
-    "power":2,
+    "power":3,
     "series":"3",
     "released":true
   },
@@ -2361,8 +2361,8 @@
     "name":"Storm",
     "ability":"On Reveal: Flood this location. Next turn is the last turn cards canbe played here.",
     "url":"https:\/\/snap.fan\/cards\/Storm\/",
-    "energy":3,
-    "power":2,
+    "energy":4,
+    "power":5,
     "series":"2",
     "released":true
   },
@@ -2539,7 +2539,7 @@
   },
   {
     "name":"Typhoid Mary",
-    "ability":"Ongoing: Your other cardshave -1 Power.",
+    "ability":"Ongoing: Your other cards here have -1 Power.",
     "url":"https:\/\/snap.fan\/cards\/TyphoidMary\/",
     "energy":4,
     "power":10,
