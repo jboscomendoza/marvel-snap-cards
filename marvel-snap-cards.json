@@ -150,7 +150,7 @@
     "energy":4,
     "power":6,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Apocalypse",
@@ -780,7 +780,7 @@
     "energy":3,
     "power":3,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Galactus",
@@ -2409,7 +2409,7 @@
     "energy":3,
     "power":5,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Swarm",
