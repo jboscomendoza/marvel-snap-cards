@@ -168,6 +168,15 @@
     "energy":1,
     "power":1,
     "series":"5",
+    "released":true
+  },
+  {
+    "name":"Ares",
+    "ability":"On Reveal: Compare the Power of the top 3 cards of both decks. If your total is higher, +6 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Ares\/",
+    "energy":4,
+    "power":6,
+    "series":"5",
     "released":false
   },
   {
@@ -360,6 +369,15 @@
     "released":true
   },
   {
+    "name":"Bruce Banner",
+    "ability":"When you end a turn with unspent Energy, 25% chance to HULK OUT!",
+    "url":"https:\/\/snap.fan\/cards\/BruceBanner\/",
+    "energy":2,
+    "power":1,
+    "series":"5",
+    "released":false
+  },
+  {
     "name":"Bucky Barnes",
     "ability":"When this is destroyed, replace it with the Winter Soldier.",
     "url":"https:\/\/snap.fan\/cards\/BuckyBarnes\/",
@@ -367,6 +385,15 @@
     "power":1,
     "series":"2",
     "released":true
+  },
+  {
+    "name":"Bulleye",
+    "ability":"Activate: Discard all cards that cost 1 or less from your hand. Afflict that many different enemy cards with -2 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Bullseye\/",
+    "energy":4,
+    "power":5,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Cable",
@@ -664,6 +691,15 @@
     "power":3,
     "series":"1",
     "released":true
+  },
+  {
+    "name":"Doom 2099",
+    "ability":"After each turn, add a DoomBot 2099 to a random location if you played (exactly) 1 card.",
+    "url":"https:\/\/snap.fan\/cards\/Doom2099\/",
+    "energy":4,
+    "power":2,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Dracula",
@@ -1080,6 +1116,15 @@
     "released":true
   },
   {
+    "name":"Galacta",
+    "ability":"Each turn, the first card you play at another location reveals with +3 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Galacta\/",
+    "energy":4,
+    "power":6,
+    "series":"5",
+    "released":false
+  },
+  {
     "name":"Iceman",
     "ability":"On Reveal: Give a card in your opponent's hand +1 Cost.(maximum 6)",
     "url":"https:\/\/snap.fan\/cards\/Iceman\/",
@@ -1368,6 +1413,15 @@
     "released":true
   },
   {
+    "name":"Luna Snow",
+    "ability":"On Reveal: Add an Ice Cube to each side of this location.",
+    "url":"https:\/\/snap.fan\/cards\/LunaSnow\/",
+    "energy":3,
+    "power":5,
+    "series":"5",
+    "released":false
+  },
+  {
     "name":"M'Baku",
     "ability":"At the end of the game, this jumps from your deck to your lowest-Power location. (that isn't full)",
     "url":"https:\/\/snap.fan\/cards\/MBaku\/",
@@ -1428,7 +1482,7 @@
     "energy":4,
     "power":6,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Man-Thing",
@@ -1618,6 +1672,15 @@
     "power":3,
     "series":"3",
     "released":true
+  },
+  {
+    "name":"Moonstone",
+    "ability":"Ongoing: Has the Ongoing effects of your 1, 2, and 3-Cost cards here.",
+    "url":"https:\/\/snap.fan\/cards\/Moonstone\/",
+    "energy":4,
+    "power":5,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Morbius",
@@ -1827,6 +1890,15 @@
     "released":true
   },
   {
+    "name":"Peni Parker",
+    "ability":"On Reveal: Add SP//dr to your hand. When this merges, you get +1 Energy next turn.",
+    "url":"https:\/\/snap.fan\/cards\/PeniParker\/",
+    "energy":2,
+    "power":3,
+    "series":"5",
+    "released":false
+  },
+  {
     "name":"Phastos",
     "ability":"On Reveal: Give each card in your deck -1 Cost or +2 Power.",
     "url":"https:\/\/snap.fan\/cards\/Phastos\/",
@@ -1987,6 +2059,15 @@
     "power":1,
     "series":"1",
     "released":true
+  },
+  {
+    "name":"Rocket Raccoon and Groot",
+    "ability":"You can move this once. After your opponent plays a card here, steal 1 Power from it.",
+    "url":"https:\/\/snap.fan\/cards\/RocketAndGroot\/",
+    "energy":3,
+    "power":3,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Rockslide",
@@ -2599,6 +2680,15 @@
     "power":3,
     "series":"3",
     "released":true
+  },
+  {
+    "name":"Victoria Hand",
+    "ability":"Ongoing: Your cards created in your hand have +2 Power.",
+    "url":"https:\/\/snap.fan\/cards\/VictoriaHand\/",
+    "energy":2,
+    "power":3,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Viper",
