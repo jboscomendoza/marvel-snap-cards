@@ -37,7 +37,7 @@
   },
   {
     "name":"Agatha Harkness",
-    "ability":"Agatha starts in your hand. She plays your cards for you on even turns.",
+    "ability":"At the start of the game, draw Agatha. She controls your cards on even turns.",
     "url":"https:\/\/snap.fan\/cards\/AgathaHarkness\/",
     "energy":6,
     "power":14,
@@ -64,10 +64,10 @@
   },
   {
     "name":"Agent Venom",
-    "ability":"On Reveal: Set the Power of all cards in your deck to 4.",
+    "ability":"On Reveal: Set the Power of all cards in your deck to 3.",
     "url":"https:\/\/snap.fan\/cards\/AgentVenom\/",
     "energy":2,
-    "power":4,
+    "power":5,
     "series":"5",
     "released":true
   },
@@ -316,10 +316,10 @@
   },
   {
     "name":"Black Widow",
-    "ability":"On Reveal: Add a Widow's Bite to your opponent's hand.",
+    "ability":"Activate: Add a Widow's Bite to your opponent’s hand.",
     "url":"https:\/\/snap.fan\/cards\/BlackWidow\/",
     "energy":3,
-    "power":3,
+    "power":4,
     "series":"3",
     "released":true
   },
@@ -535,7 +535,7 @@
     "ability":"On Reveal: Each playerdraws a card.",
     "url":"https:\/\/snap.fan\/cards\/Crystal\/",
     "energy":3,
-    "power":3,
+    "power":4,
     "series":"3",
     "released":true
   },
@@ -643,7 +643,7 @@
     "ability":"On Reveal: Destroy your cards at other locations.",
     "url":"https:\/\/snap.fan\/cards\/Destroyer\/",
     "energy":6,
-    "power":14,
+    "power":16,
     "series":"3",
     "released":true
   },
@@ -994,7 +994,7 @@
     "ability":"On Reveal: Move your other cards one location to the left.",
     "url":"https:\/\/snap.fan\/cards\/Heimdall\/",
     "energy":6,
-    "power":9,
+    "power":10,
     "series":"1",
     "released":true
   },
@@ -1207,7 +1207,7 @@
   },
   {
     "name":"Jessica Jones",
-    "ability":"On Reveal: If you don't play a card at this location next turn, +4 Power.",
+    "ability":"On Reveal: If you don't play a card at this location next turn, +5 Power.",
     "url":"https:\/\/snap.fan\/cards\/JessicaJones\/",
     "energy":4,
     "power":5,
@@ -2245,7 +2245,7 @@
     "ability":"On Reveal: Reset all cards here to their original Power.",
     "url":"https:\/\/snap.fan\/cards\/ShadowKing\/",
     "energy":2,
-    "power":3,
+    "power":2,
     "series":"3",
     "released":true
   },
@@ -2308,7 +2308,7 @@
     "ability":"On Reveal: Steal 2 Power from the top card of your opponent\u2019s deck.",
     "url":"https:\/\/snap.fan\/cards\/SilverSable\/",
     "energy":1,
-    "power":1,
+    "power":0,
     "series":"5",
     "released":true
   },
@@ -2335,7 +2335,7 @@
     "ability":"Costs 2 less for each of your cards that has 10 or more Power.",
     "url":"https:\/\/snap.fan\/cards\/Skaar\/",
     "energy":6,
-    "power":11,
+    "power":10,
     "series":"5",
     "released":true
   },
@@ -2488,7 +2488,7 @@
     "ability":"After you play a card with 10+ Power, this gains +3 Power.",
     "url":"https:\/\/snap.fan\/cards\/Surtur\/",
     "energy":3,
-    "power":5,
+    "power":4,
     "series":"5",
     "released":true
   },
@@ -2530,7 +2530,7 @@
   },
   {
     "name":"Thanos",
-    "ability":"Starts in your opening hand and shuffles the six Infinity Stonesinto your deck.",
+    "ability":"At the start of the game, draw Thanos and shuffle the six Infinity Stones into your deck.",
     "url":"https:\/\/snap.fan\/cards\/Thanos\/",
     "energy":6,
     "power":10,
@@ -2656,7 +2656,7 @@
   },
   {
     "name":"Valentina",
-    "ability":"On Reveal: Add a random 6-Cost card to your hand. Give it -2 Costand -3 Power.",
+    "ability":"On Reveal: Add a random 6-Cost card to your hand. Give it -2 Cost and -2 Power.",
     "url":"https:\/\/snap.fan\/cards\/Valentina\/",
     "energy":2,
     "power":3,
