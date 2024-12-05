@@ -915,7 +915,7 @@
     "energy":6,
     "power":-2,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Grand Master",
@@ -1122,7 +1122,7 @@
     "energy":4,
     "power":6,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Iceman",
@@ -1266,7 +1266,7 @@
     "energy":1,
     "power":2,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Kingpin",
@@ -1419,7 +1419,7 @@
     "energy":3,
     "power":5,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"M'Baku",
