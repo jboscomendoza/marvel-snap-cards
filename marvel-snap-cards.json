@@ -387,7 +387,7 @@
     "released":true
   },
   {
-    "name":"Bulleye",
+    "name":"Bullseye",
     "ability":"Activate: Discard all cards that cost 1 or less from your hand. Afflict that many different enemy cards with -2 Power.",
     "url":"https:\/\/snap.fan\/cards\/Bullseye\/",
     "energy":4,
@@ -657,6 +657,15 @@
     "released":true
   },
   {
+    "name":"Diamondback",
+    "ability":"Ongoing: Enemy cards here afflicted with negative Power have an additional -2 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Diamondback\/",
+    "energy":3,
+    "power":3,
+    "series":"5",
+    "released":false
+  },
+  {
     "name":"Doctor Doom",
     "ability":"On Reveal: Add a 5-Power DoomBot to each other location.",
     "url":"https:\/\/snap.fan\/cards\/DrDoom\/",
@@ -699,7 +708,7 @@
     "energy":4,
     "power":2,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Dracula",
@@ -815,6 +824,15 @@
     "url":"https:\/\/snap.fan\/cards\/Frigga\/",
     "energy":3,
     "power":3,
+    "series":"5",
+    "released":true
+  },
+  {
+    "name":"Galacta",
+    "ability":"Each turn, the first card you play at another location reveals with +3 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Galacta\/",
+    "energy":4,
+    "power":6,
     "series":"5",
     "released":true
   },
@@ -1116,15 +1134,6 @@
     "released":true
   },
   {
-    "name":"Galacta",
-    "ability":"Each turn, the first card you play at another location reveals with +3 Power.",
-    "url":"https:\/\/snap.fan\/cards\/Galacta\/",
-    "energy":4,
-    "power":6,
-    "series":"5",
-    "released":true
-  },
-  {
     "name":"Iceman",
     "ability":"On Reveal: Give a card in your opponent's hand +1 Cost.(maximum 6)",
     "url":"https:\/\/snap.fan\/cards\/Iceman\/",
@@ -1170,6 +1179,15 @@
     "released":true
   },
   {
+    "name":"Iron Patriot",
+    "ability":"On Reveal: Add a random 4, 5, or 6-Cost card to your hand. If you’re winning here after next turn, give it -4 Cost.",
+    "url":"https:\/\/snap.fan\/cards\/IronPatriot\/",
+    "energy":2,
+    "power":3,
+    "series":"5",
+    "released":false
+  },
+  {
     "name":"Ironheart",
     "ability":"On Reveal: Give 3 of your other cards +2 Power.",
     "url":"https:\/\/snap.fan\/cards\/Ironheart\/",
@@ -1213,6 +1231,15 @@
     "power":5,
     "series":"0",
     "released":true
+  },
+  {
+    "name":"Joaquin Torres Falcon II",
+    "ability":"Ongoing: The On Reveal abilities of your 1-Cost cards here happen twice.",
+    "url":"https:\/\/snap.fan\/cards\/JoaquinTorres\/",
+    "energy":3,
+    "power":3,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Jubilee",
@@ -1330,6 +1357,15 @@
     "power":6,
     "series":"4",
     "released":true
+  },
+  {
+    "name":"Lasher",
+    "ability":"Activate: Afflict an enemy card here with negative Power equal to this card's Power.",
+    "url":"https:\/\/snap.fan\/cards\/Lasher\/",
+    "energy":2,
+    "power":2,
+    "series":"4",
+    "released":false
   },
   {
     "name":"Laufey",
@@ -1896,7 +1932,7 @@
     "energy":2,
     "power":3,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Phastos",
@@ -2005,6 +2041,15 @@
     "power":3,
     "series":"4",
     "released":true
+  },
+  {
+    "name":"Redwing",
+    "ability":"On Reveal: Return one of your other 1-Cost cards here to your hand to give it +2 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Redwing\/",
+    "energy":1,
+    "power":2,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Red Guardian",
@@ -2527,6 +2572,15 @@
     "power":0,
     "series":"3",
     "released":true
+  },
+  {
+    "name":"Thaddeus Ross",
+    "ability":"When your opponent ends a turn with unspent Energy, draw a card with 10 or more Power.",
+    "url":"https:\/\/snap.fan\/cards\/ThaddeusRoss\/",
+    "energy":2,
+    "power":2,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Thanos",
