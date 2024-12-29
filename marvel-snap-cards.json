@@ -1365,7 +1365,7 @@
     "energy":2,
     "power":2,
     "series":"4",
-    "released":false
+    "released":true
   },
   {
     "name":"Laufey",
