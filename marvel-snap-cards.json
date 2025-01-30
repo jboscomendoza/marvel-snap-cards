@@ -177,7 +177,7 @@
     "energy":4,
     "power":6,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Arishem",
@@ -393,7 +393,7 @@
     "energy":4,
     "power":5,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Cable",
@@ -1716,7 +1716,7 @@
     "energy":4,
     "power":5,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Morbius",
