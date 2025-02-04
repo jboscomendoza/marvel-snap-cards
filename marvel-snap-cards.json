@@ -36,6 +36,15 @@
     "released":true
   },
   {
+    "name":"Agamotto",
+    "ability":"At the start of the game, shuffle {card.TokenCount} spells into your deck.",
+    "url":"https:\/\/snap.fan\/cards\/Agamotto\/",
+    "energy":6,
+    "power":12,
+    "series":"5",
+    "released":false
+  },
+  {
     "name":"Agatha Harkness",
     "ability":"At the start of the game, draw Agatha. She controls your cards on even turns.",
     "url":"https:\/\/snap.fan\/cards\/AgathaHarkness\/",
@@ -163,10 +172,10 @@
   },
   {
     "name":"Ara\u00f1a",
-    "ability":"Activate: Give the next card you play +2 Power and move it to the right.",
+    "ability":"Activate: Give the next card you play +1 Power and move it to the right.",
     "url":"https:\/\/snap.fan\/cards\/Arana\/",
     "energy":1,
-    "power":1,
+    "power":2,
     "series":"5",
     "released":true
   },
@@ -559,10 +568,10 @@
   },
   {
     "name":"Dagger",
-    "ability":"When this moves to a location,+3 Power for each enemy card there.",
+    "ability":"When this moves to a location,+2 Power for each enemy card there.",
     "url":"https:\/\/snap.fan\/cards\/Dagger\/",
     "energy":2,
-    "power":0,
+    "power":2,
     "series":"3",
     "released":true
   },
@@ -783,9 +792,18 @@
     "released":false
   },
   {
-    "name":"Enchantress",
-    "ability":"On Reveal: Remove the abilities from all Ongoing cards here.",
+    "name":"Eson",
+    "ability":"Legendary. At the start of the game, if all your cards have different Powers, give them +2 Power.",
     "url":"https:\/\/snap.fan\/cards\/Enchantress\/",
+    "energy":6,
+    "power":13,
+    "series":"5",
+    "released":false
+  },
+  {
+    "name":"Eson",
+    "ability":"On Reveal: Remove the abilities from all Ongoing cards here.",
+    "url":"https:\/\/snap.fan\/cards\/Eson\/",
     "energy":4,
     "power":5,
     "series":"1",
@@ -808,6 +826,15 @@
     "power":3,
     "series":"5",
     "released":true
+  },
+  {
+    "name":"Firehair",
+    "ability":"You can move this once. When this moves, revive one of your destroyed cards here.",
+    "url":"https:\/\/snap.fan\/cards\/Firehair\/",
+    "energy":2,
+    "power":2,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Forge",
@@ -925,6 +952,15 @@
     "power":2,
     "series":"3",
     "released":true
+  },
+  {
+    "name":"Gorgon",
+    "ability":"Ongoing: Your opponent's cards that didn't start in their deck cost 1 more. (maximum 6)",
+    "url":"https:\/\/snap.fan\/cards\/Gorgon\/",
+    "energy":2,
+    "power":3,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Gorr",
@@ -1239,7 +1275,7 @@
     "energy":3,
     "power":3,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Jubilee",
@@ -1332,6 +1368,15 @@
     "released":true
   },
   {
+    "name":"Konshu",
+    "ability":"",
+    "url":"https:\/\/snap.fan\/cards\/Konshu\/",
+    "energy":2,
+    "power":1,
+    "series":"5",
+    "released":false
+  },
+  {
     "name":"Korg",
     "ability":"On Reveal: Shuffle a Rock into your opponent's deck.",
     "url":"https:\/\/snap.fan\/cards\/Korg\/",
@@ -1390,7 +1435,7 @@
     "ability":"On Reveal: Copy the enemy card(s) with the highest Power played this turn, but on your side.",
     "url":"https:\/\/snap.fan\/cards\/Leader\/",
     "energy":6,
-    "power":3,
+    "power":4,
     "series":"3",
     "released":true
   },
@@ -1454,7 +1499,7 @@
     "url":"https:\/\/snap.fan\/cards\/LunaSnow\/",
     "energy":3,
     "power":5,
-    "series":"5",
+    "series":"6",
     "released":true
   },
   {
@@ -1741,7 +1786,7 @@
     "ability":"Ongoing: Your adjacent locations with 2+ cards and no repeated Costs have +5 Power.",
     "url":"https:\/\/snap.fan\/cards\/MsMarvel\/",
     "energy":4,
-    "power":4,
+    "power":5,
     "series":"5",
     "released":true
   },
@@ -1795,7 +1840,7 @@
     "ability":"On Reveal: Give +5 Power to each of your cards alone at another location.",
     "url":"https:\/\/snap.fan\/cards\/Namora\/",
     "energy":5,
-    "power":6,
+    "power":7,
     "series":"5",
     "released":true
   },
@@ -2044,10 +2089,10 @@
   },
   {
     "name":"Redwing",
-    "ability":"On Reveal: Return one of your other 1-Cost cards here to your hand to give it +2 Power.",
+    "ability":"The first time this moves, add a card from your hand to the old location.",
     "url":"https:\/\/snap.fan\/cards\/Redwing\/",
-    "energy":1,
-    "power":2,
+    "energy":3,
+    "power":3,
     "series":"5",
     "released":false
   },
@@ -2160,11 +2205,20 @@
     "released":true
   },
   {
+    "name":"Sam Wilson Captain America",
+    "ability":"Game Start: Add Cap's Shield to a random location. Ongoing: You can move Cap's Shield.",
+    "url":"https:\/\/snap.fan\/cards\/SamWilson\/",
+    "energy":2,
+    "power":3,
+    "series":"5",
+    "released":true
+  },
+  {
     "name":"Sandman",
     "ability":"On Reveal: Next turn, cards cost 1 more. (Maximum 6)",
     "url":"https:\/\/snap.fan\/cards\/Sandman\/",
     "energy":5,
-    "power":7,
+    "power":8,
     "series":"2",
     "released":true
   },
@@ -2398,7 +2452,7 @@
     "ability":"On Reveal: Give your Ongoing cards +2 Power.",
     "url":"https:\/\/snap.fan\/cards\/Spectrum\/",
     "energy":6,
-    "power":6,
+    "power":7,
     "series":"0",
     "released":true
   },
@@ -2464,6 +2518,15 @@
     "power":2,
     "series":"Starter",
     "released":true
+  },
+  {
+    "name":"Starbrand",
+    "ability":"At the start of the game, +2 Power for each card in your deck with 10 or more Power.",
+    "url":"https:\/\/snap.fan\/cards\/Starbrand\/",
+    "energy":6,
+    "power":8,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Stature",
@@ -2707,6 +2770,15 @@
     "power":8,
     "series":"3",
     "released":true
+  },
+  {
+    "name":"Uncle Ben",
+    "ability":"When this card is destroyed, replace it with Spider-Man.",
+    "url":"https:\/\/snap.fan\/cards\/UncleBen\/",
+    "energy":1,
+    "power":2,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Valentina",
