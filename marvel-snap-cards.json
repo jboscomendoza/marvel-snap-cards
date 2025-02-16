@@ -19,10 +19,10 @@
   },
   {
     "name":"Adam Warlock",
-    "ability":"After each turn, draw a card if you're winning here.",
+    "ability":"After each turn, draw a card if you're winning here. Otherwise, +1 Power.",
     "url":"https:\/\/snap.fan\/cards\/AdamWarlock\/",
-    "energy":5,
-    "power":5,
+    "energy":2,
+    "power":0,
     "series":"3",
     "released":true
   },
@@ -37,10 +37,10 @@
   },
   {
     "name":"Agamotto",
-    "ability":"At the start of the game, shuffle {card.TokenCount} spells into your deck.",
+    "ability":"Game Start: Shuffle 4 Ancient Arcana into your deck.",
     "url":"https:\/\/snap.fan\/cards\/Agamotto\/",
-    "energy":6,
-    "power":12,
+    "energy":5,
+    "power":10,
     "series":"5",
     "released":false
   },
@@ -61,6 +61,15 @@
     "power":2,
     "series":"2",
     "released":true
+  },
+  {
+    "name":"Agent Carter",
+    "ability":"Ongoing: Your other cards in the back row here gain this card's Power.",
+    "url":"https:\/\/snap.fan\/cards\/AgentCarter\/",
+    "energy":4,
+    "power":2,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Agent Coulson",
@@ -715,7 +724,7 @@
     "ability":"After each turn, add a DoomBot 2099 to a random location if you played (exactly) 1 card.",
     "url":"https:\/\/snap.fan\/cards\/Doom2099\/",
     "energy":4,
-    "power":2,
+    "power":3,
     "series":"5",
     "released":true
   },
@@ -793,10 +802,10 @@
   },
   {
     "name":"Eson",
-    "ability":"Legendary. At the start of the game, if all your cards have different Powers, give them +2 Power.",
+    "ability":"After each turn, put a card from your hand that didn't start in your deck here.",
     "url":"https:\/\/snap.fan\/cards\/Enchantress\/",
     "energy":6,
-    "power":13,
+    "power":9,
     "series":"5",
     "released":false
   },
@@ -829,10 +838,10 @@
   },
   {
     "name":"Firehair",
-    "ability":"You can move this once. When this moves, revive one of your destroyed cards here.",
+    "ability":"When one of your cards is destroyed, this uses that card’s On Reveal.",
     "url":"https:\/\/snap.fan\/cards\/Firehair\/",
     "energy":2,
-    "power":2,
+    "power":3,
     "series":"5",
     "released":false
   },
@@ -943,6 +952,15 @@
     "power":8,
     "series":"4",
     "released":true
+  },
+  {
+    "name":"Goliath",
+    "ability":"Ongoing: +1 Power for each other Ongoing you have in play.",
+    "url":"https:\/\/snap.fan\/cards\/Goliath\/",
+    "energy":2,
+    "power":1,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Goose",
@@ -1162,6 +1180,15 @@
   },
   {
     "name":"Hydra Bob",
+    "ability":"Ongoing: +1 Power for each card you moved this game.",
+    "url":"https:\/\/snap.fan\/cards\/HydraStomper\/",
+    "energy":3,
+    "power":1,
+    "series":"5",
+    "released":false
+  },
+  {
+    "name":"Hydra Stomper",
     "ability":"After each turn, this moves if a player Snapped.",
     "url":"https:\/\/snap.fan\/cards\/HydraBob\/",
     "energy":1,
@@ -1177,6 +1204,15 @@
     "power":2,
     "series":"2",
     "released":true
+  },
+  {
+    "name":"infinity Ultron",
+    "ability":"On Reveal: Add 2 Ultron Infinity Stones to your hand.",
+    "url":"https:\/\/snap.fan\/cards\/InfinityUltron\/",
+    "energy":5,
+    "power":6,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Invisible Woman",
@@ -1305,6 +1341,15 @@
     "released":true
   },
   {
+    "name":"Kahhori",
+    "ability":"On Reveal: For each card in your hand, give a friendly card +1 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Kahhori\/",
+    "energy":4,
+    "power":6,
+    "series":"5",
+    "released":false
+  },
+  {
     "name":"Kang",
     "ability":"On Reveal: Look at what your opponent did, then restart the turn. (without this)",
     "url":"https:\/\/snap.fan\/cards\/Kang\/",
@@ -1369,10 +1414,10 @@
   },
   {
     "name":"Konshu",
-    "ability":"",
+    "ability":"When discarded, returns in its next phase. On Reveal: Resurrect a card you discarded to another location with its Power set to 5.",
     "url":"https:\/\/snap.fan\/cards\/Konshu\/",
-    "energy":2,
-    "power":1,
+    "energy":6,
+    "power":5,
     "series":"5",
     "released":false
   },
@@ -2263,7 +2308,7 @@
     "ability":"On Reveal: Afflict cards in your opponent's hand with -1 Power.",
     "url":"https:\/\/snap.fan\/cards\/Scorpion\/",
     "energy":2,
-    "power":2,
+    "power":3,
     "series":"2",
     "released":true
   },
@@ -2326,7 +2371,7 @@
     "ability":"Ongoing: Cards in your hand cost 1 less. (minimum 1)",
     "url":"https:\/\/snap.fan\/cards\/Sera\/",
     "energy":5,
-    "power":4,
+    "power":5,
     "series":"3",
     "released":true
   },
@@ -2521,10 +2566,10 @@
   },
   {
     "name":"Starbrand",
-    "ability":"At the start of the game, +2 Power for each card in your deck with 10 or more Power.",
+    "ability":"Ongoing: Your opponent has +3 Power at each other location.",
     "url":"https:\/\/snap.fan\/cards\/Starbrand\/",
-    "energy":6,
-    "power":8,
+    "energy":3,
+    "power":10,
     "series":"5",
     "released":false
   },
@@ -2556,6 +2601,15 @@
     "released":true
   },
   {
+    "name":"Strange Supreme",
+    "ability":"Give this +2 Power whenever it merges. After each turn, merge one of your cards that didn't start in your deck into this.",
+    "url":"https:\/\/snap.fan\/cards\/StrangeSupreme\/",
+    "energy":2,
+    "power":0,
+    "series":"5",
+    "released":false
+  },
+  {
     "name":"Strong Guy",
     "ability":"Ongoing: +6 Power if your hand has 1 or fewer cards.",
     "url":"https:\/\/snap.fan\/cards\/StrongGuy\/",
@@ -2569,7 +2623,7 @@
     "ability":"After each turn, gain +1 Power for each unspent Energy.",
     "url":"https:\/\/snap.fan\/cards\/Sunspot\/",
     "energy":1,
-    "power":0,
+    "power":1,
     "series":"2",
     "released":true
   },
@@ -2593,10 +2647,10 @@
   },
   {
     "name":"Surtur",
-    "ability":"After you play a card with 10+ Power, this gains +3 Power.",
+    "ability":"After you play a card with 10 or more Power, this gains +3 Power. (twice per game)",
     "url":"https:\/\/snap.fan\/cards\/Surtur\/",
     "energy":3,
-    "power":4,
+    "power":5,
     "series":"5",
     "released":true
   },
@@ -2643,7 +2697,7 @@
     "energy":2,
     "power":2,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Thanos",
@@ -2920,7 +2974,7 @@
     "ability":"On Reveal: If you've spent all your Energy on previous turns, +2 Max Energy.",
     "url":"https:\/\/snap.fan\/cards\/Wiccan\/",
     "energy":4,
-    "power":5,
+    "power":6,
     "series":"5",
     "released":true
   },
