@@ -31,7 +31,7 @@
     "ability":"On Reveal: Move the last enemy card played anywhere to this location.",
     "url":"https:\/\/snap.fan\/cards\/Aero\/",
     "energy":5,
-    "power":10,
+    "power":9,
     "series":"3",
     "released":true
   },
@@ -109,7 +109,7 @@
   },
   {
     "name":"Alioth",
-    "ability":"On Reveal: Remove the text from all unrevealed enemy cards here.",
+    "ability":"On Reveal: Remove the text from all unrevealed enemy characters here.",
     "url":"https:\/\/snap.fan\/cards\/Alioth\/",
     "energy":6,
     "power":10,
@@ -148,7 +148,7 @@
     "ability":"On Reveal: Your cards with Power below 0 switch sides. Destroythose that can't.",
     "url":"https:\/\/snap.fan\/cards\/Annihilus\/",
     "energy":5,
-    "power":6,
+    "power":7,
     "series":"5",
     "released":true
   },
@@ -681,7 +681,7 @@
     "energy":3,
     "power":3,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Doctor Doom",
@@ -1018,7 +1018,7 @@
   },
   {
     "name":"Gwenpool",
-    "ability":"On Reveal: Pick a random card in your hand 3 times. Give +2 Power each time.",
+    "ability":"On Reveal: Pick a random character in your hand 3 times. Give +2 Power each time.",
     "url":"https:\/\/snap.fan\/cards\/Gwenpool\/",
     "energy":4,
     "power":6,
@@ -1111,7 +1111,7 @@
     "ability":"At the start of the game, unlock the potential of your cards with no abilities.",
     "url":"https:\/\/snap.fan\/cards\/HighEvolutionary\/",
     "energy":4,
-    "power":6,
+    "power":7,
     "series":"5",
     "released":true
   },
@@ -1308,8 +1308,8 @@
     "name":"Joaquin Torres Falcon II",
     "ability":"Ongoing: The On Reveal abilities of your 1-Cost cards here happen twice.",
     "url":"https:\/\/snap.fan\/cards\/JoaquinTorres\/",
-    "energy":3,
-    "power":3,
+    "energy":2,
+    "power":2,
     "series":"5",
     "released":true
   },
@@ -1464,7 +1464,7 @@
     "energy":4,
     "power":5,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Lady Sif",
@@ -1507,7 +1507,7 @@
     "ability":"Ongoing: -4 Power if your opponent has 4 cards here.",
     "url":"https:\/\/snap.fan\/cards\/Lizard\/",
     "energy":2,
-    "power":5,
+    "power":6,
     "series":"1",
     "released":true
   },
@@ -2478,8 +2478,8 @@
     "name":"Skaar",
     "ability":"Costs 2 less for each of your cards that has 10 or more Power.",
     "url":"https:\/\/snap.fan\/cards\/Skaar\/",
-    "energy":6,
-    "power":10,
+    "energy":7,
+    "power":12,
     "series":"5",
     "released":true
   },
@@ -2647,7 +2647,7 @@
   },
   {
     "name":"Surtur",
-    "ability":"After you play a card with 10 or more Power, this gains +3 Power. (twice per game)",
+    "ability":"After you play a card with 10 or more Power, this gains +2 Power.",
     "url":"https:\/\/snap.fan\/cards\/Surtur\/",
     "energy":3,
     "power":5,
@@ -2832,7 +2832,7 @@
     "energy":1,
     "power":2,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Valentina",
@@ -2938,7 +2938,7 @@
     "ability":"After you play a card, move there to gain +2 Power if it has an On Reveal.",
     "url":"https:\/\/snap.fan\/cards\/WerewolfByNight\/",
     "energy":3,
-    "power":1,
+    "power":3,
     "series":"5",
     "released":true
   },
@@ -2946,8 +2946,8 @@
     "name":"White Queen",
     "ability":"On Reveal: Copy the card that costs the most in your opponent's handinto your hand.",
     "url":"https:\/\/snap.fan\/cards\/WhiteQueen\/",
-    "energy":4,
-    "power":6,
+    "energy":3,
+    "power":4,
     "series":"1",
     "released":true
   },
