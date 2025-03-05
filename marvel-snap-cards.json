@@ -19,7 +19,7 @@
   },
   {
     "name":"Adam Warlock",
-    "ability":"After each turn, draw a card if you're winning here. Otherwise, +1 Power.",
+    "ability":"End of Turn: Draw a card if you're winning here. Otherwise, +1 Power.",
     "url":"https:\/\/snap.fan\/cards\/AdamWarlock\/",
     "energy":2,
     "power":0,
@@ -42,7 +42,7 @@
     "energy":5,
     "power":10,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Agatha Harkness",
@@ -149,7 +149,7 @@
     "url":"https:\/\/snap.fan\/cards\/Annihilus\/",
     "energy":5,
     "power":7,
-    "series":"5",
+    "series":"4",
     "released":true
   },
   {
@@ -226,7 +226,7 @@
   },
   {
     "name":"Attuma",
-    "ability":"After each turn, destroy one of your cards here with less Power.",
+    "ability":"End of Turn: Destroy one of your cards here with less Power.",
     "url":"https:\/\/snap.fan\/cards\/Attuma\/",
     "energy":4,
     "power":10,
@@ -275,7 +275,7 @@
     "url":"https:\/\/snap.fan\/cards\/BetaRayBill\/",
     "energy":5,
     "power":6,
-    "series":"5",
+    "series":"4",
     "released":true
   },
   {
@@ -298,7 +298,7 @@
   },
   {
     "name":"Black Cat",
-    "ability":"If this is in your hand after the turn, discard it.",
+    "ability":"End of Turn: Discard this from your hand.",
     "url":"https:\/\/snap.fan\/cards\/BlackCat\/",
     "energy":4,
     "power":10,
@@ -311,7 +311,7 @@
     "url":"https:\/\/snap.fan\/cards\/BlackKnight\/",
     "energy":1,
     "power":2,
-    "series":"5",
+    "series":"4",
     "released":true
   },
   {
@@ -365,7 +365,7 @@
     "url":"https:\/\/snap.fan\/cards\/Blob\/",
     "energy":6,
     "power":0,
-    "series":"5",
+    "series":"4",
     "released":true
   },
   {
@@ -388,7 +388,7 @@
   },
   {
     "name":"Bruce Banner",
-    "ability":"When you end a turn with unspent Energy, 25% chance to HULK OUT!",
+    "ability":"End of Turn: if you have unspent Energy, 25% chance to HULK OUT!",
     "url":"https:\/\/snap.fan\/cards\/BruceBanner\/",
     "energy":2,
     "power":1,
@@ -437,7 +437,7 @@
     "url":"https:\/\/snap.fan\/cards\/Cannonball\/",
     "energy":5,
     "power":7,
-    "series":"5",
+    "series":"4",
     "released":true
   },
   {
@@ -448,6 +448,15 @@
     "power":3,
     "series":"1",
     "released":true
+  },
+  {
+    "name":"Captain Carter",
+    "ability":"Ongoing: Add this card's Power to your back-row cards here. (can't add to itself)",
+    "url":"https:\/\/snap.fan\/cards\/CaptainCarter\/",
+    "energy":4,
+    "power":3,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Captain Marvel",
@@ -527,7 +536,7 @@
     "url":"https:\/\/snap.fan\/cards\/CorvusGlaive\/",
     "energy":3,
     "power":5,
-    "series":"5",
+    "series":"4",
     "released":true
   },
   {
@@ -563,7 +572,7 @@
     "url":"https:\/\/snap.fan\/cards\/CullObsidian\/",
     "energy":4,
     "power":10,
-    "series":"5",
+    "series":"4",
     "released":true
   },
   {
@@ -721,7 +730,7 @@
   },
   {
     "name":"Doom 2099",
-    "ability":"After each turn, add a DoomBot 2099 to a random location if you played (exactly) 1 card.",
+    "ability":"End of Turn: Add a DoomBot 2099 to a random location if you played (exactly) 1 card.",
     "url":"https:\/\/snap.fan\/cards\/Doom2099\/",
     "energy":4,
     "power":3,
@@ -783,12 +792,21 @@
     "released":true
   },
   {
+    "name":"Elixir",
+    "ability":"Activate: The next time one of your cards is destroyed this turn, revive it here.",
+    "url":"https:\/\/snap.fan\/cards\/Elixir\/",
+    "energy":1,
+    "power":1,
+    "series":"5",
+    "released":false
+  },
+  {
     "name":"Elsa Bloodstone",
     "ability":"Each card you play to fill your side of a location gains +2 Power.",
     "url":"https:\/\/snap.fan\/cards\/ElsaBloodstone\/",
     "energy":3,
     "power":3,
-    "series":"5",
+    "series":"4",
     "released":true
   },
   {
@@ -801,21 +819,30 @@
     "released":false
   },
   {
-    "name":"Eson",
-    "ability":"After each turn, put a card from your hand that didn't start in your deck here.",
+    "name":"Enchantress",
+    "ability":"On Reveal: Remove the abilities from all Ongoing cards here.",
     "url":"https:\/\/snap.fan\/cards\/Enchantress\/",
-    "energy":6,
-    "power":9,
+    "energy":4,
+    "power":6,
+    "series":"1",
+    "released":true
+  },
+  {
+    "name":"Esme Cuckoo",
+    "ability":"On Reveal: Copy a card from your deck into your hand. Set its Cost to 3 and Power to 4.",
+    "url":"https:\/\/snap.fan\/cards\/EsmeCuckoo\/",
+    "energy":3,
+    "power":4,
     "series":"5",
     "released":false
   },
   {
     "name":"Eson",
-    "ability":"On Reveal: Remove the abilities from all Ongoing cards here.",
+    "ability":"End of Turn: Put a created card from your hand here.",
     "url":"https:\/\/snap.fan\/cards\/Eson\/",
-    "energy":4,
-    "power":5,
-    "series":"1",
+    "energy":6,
+    "power":10,
+    "series":"5",
     "released":true
   },
   {
@@ -923,7 +950,7 @@
     "url":"https:\/\/snap.fan\/cards\/GhostSpider\/",
     "energy":1,
     "power":2,
-    "series":"4",
+    "series":"3",
     "released":true
   },
   {
@@ -973,7 +1000,7 @@
   },
   {
     "name":"Gorgon",
-    "ability":"Ongoing: Your opponent's cards that didn't start in their deck cost 1 more. (maximum 6)",
+    "ability":"Ongoing: Your opponent's created cards cost 1 more. (maximum 6)",
     "url":"https:\/\/snap.fan\/cards\/Gorgon\/",
     "energy":2,
     "power":3,
@@ -995,7 +1022,7 @@
     "url":"https:\/\/snap.fan\/cards\/GrandMaster\/",
     "energy":2,
     "power":3,
-    "series":"5",
+    "series":"4",
     "released":true
   },
   {
@@ -1027,11 +1054,11 @@
   },
   {
     "name":"Havok",
-    "ability":"After each turn, you lose 1 Max Energy and this gains +4 Power.",
+    "ability":"End of Turn: You lose 1 Max Energy and this gains +4 Power.",
     "url":"https:\/\/snap.fan\/cards\/Havok\/",
     "energy":2,
     "power":0,
-    "series":"4",
+    "series":"3",
     "released":true
   },
   {
@@ -1103,7 +1130,7 @@
     "url":"https:\/\/snap.fan\/cards\/Hercules\/",
     "energy":3,
     "power":5,
-    "series":"4",
+    "series":"3",
     "released":true
   },
   {
@@ -1180,7 +1207,7 @@
   },
   {
     "name":"Hydra Bob",
-    "ability":"Ongoing: +1 Power for each card you moved this game.",
+    "ability":"End of Turn: This moves if a player Snapped.",
     "url":"https:\/\/snap.fan\/cards\/HydraStomper\/",
     "energy":3,
     "power":1,
@@ -1189,7 +1216,7 @@
   },
   {
     "name":"Hydra Stomper",
-    "ability":"After each turn, this moves if a player Snapped.",
+    "ability":"Ongoing: +1 Power for each card you moved this game.",
     "url":"https:\/\/snap.fan\/cards\/HydraBob\/",
     "energy":1,
     "power":4,
@@ -1238,7 +1265,7 @@
     "url":"https:\/\/snap.fan\/cards\/IronLad\/",
     "energy":4,
     "power":6,
-    "series":"5",
+    "series":"4",
     "released":true
   },
   {
@@ -1283,7 +1310,7 @@
     "url":"https:\/\/snap.fan\/cards\/JeanGrey\/",
     "energy":3,
     "power":4,
-    "series":"4",
+    "series":"3",
     "released":true
   },
   {
@@ -1369,7 +1396,7 @@
   },
   {
     "name":"King Eitri",
-    "ability":"Activate: Draw a card that didn't start in your deck.",
+    "ability":"Activate: Draw a created card from your deck.",
     "url":"https:\/\/snap.fan\/cards\/KingEitri\/",
     "energy":1,
     "power":2,
@@ -1391,7 +1418,7 @@
     "url":"https:\/\/snap.fan\/cards\/KittyPryde\/",
     "energy":1,
     "power":1,
-    "series":"4",
+    "series":"3",
     "released":true
   },
   {
@@ -1409,7 +1436,7 @@
     "url":"https:\/\/snap.fan\/cards\/Knull\/",
     "energy":6,
     "power":0,
-    "series":"4",
+    "series":"3",
     "released":true
   },
   {
@@ -1445,7 +1472,7 @@
     "url":"https:\/\/snap.fan\/cards\/LadyDeathstrike\/",
     "energy":5,
     "power":6,
-    "series":"4",
+    "series":"3",
     "released":true
   },
   {
@@ -1526,7 +1553,7 @@
     "url":"https:\/\/snap.fan\/cards\/Loki\/",
     "energy":2,
     "power":2,
-    "series":"5",
+    "series":"4",
     "released":true
   },
   {
@@ -1562,7 +1589,7 @@
     "url":"https:\/\/snap.fan\/cards\/Modok\/",
     "energy":5,
     "power":8,
-    "series":"4",
+    "series":"3",
     "released":true
   },
   {
@@ -1594,7 +1621,7 @@
   },
   {
     "name":"Makkari",
-    "ability":"After the turn, runs from your hand to a random location. (if possible)",
+    "ability":"End of Turn: Runs from your hand to a random location. (if possible)",
     "url":"https:\/\/snap.fan\/cards\/Makkari\/",
     "energy":3,
     "power":4,
@@ -1648,7 +1675,7 @@
   },
   {
     "name":"Marvel Boy",
-    "ability":"After each turn, give 3 of your 1-Cost cards +1 Power.",
+    "ability":"End of Turn: Give 3 of your 1-Cost cards +1 Power.",
     "url":"https:\/\/snap.fan\/cards\/MarvelBoy\/",
     "energy":3,
     "power":1,
@@ -1760,12 +1787,12 @@
     "url":"https:\/\/snap.fan\/cards\/MobiusMMobius\/",
     "energy":3,
     "power":3,
-    "series":"4",
+    "series":"3",
     "released":true
   },
   {
     "name":"Mockingbird",
-    "ability":"Costs 1 less for each of your cards in play that didn't start in your deck.",
+    "ability":"Costs 1 less for each of your created cards in play.",
     "url":"https:\/\/snap.fan\/cards\/Mockingbird\/",
     "energy":6,
     "power":9,
@@ -1832,7 +1859,7 @@
     "url":"https:\/\/snap.fan\/cards\/MsMarvel\/",
     "energy":4,
     "power":5,
-    "series":"5",
+    "series":"4",
     "released":true
   },
   {
@@ -1895,7 +1922,7 @@
     "url":"https:\/\/snap.fan\/cards\/Nebula\/",
     "energy":1,
     "power":1,
-    "series":"4",
+    "series":"3",
     "released":true
   },
   {
@@ -1940,7 +1967,7 @@
     "url":"https:\/\/snap.fan\/cards\/Nimrod\/",
     "energy":5,
     "power":6,
-    "series":"4",
+    "series":"3",
     "released":true
   },
   {
@@ -2030,7 +2057,7 @@
     "url":"https:\/\/snap.fan\/cards\/Phastos\/",
     "energy":3,
     "power":3,
-    "series":"5",
+    "series":"4",
     "released":true
   },
   {
@@ -2048,7 +2075,7 @@
     "url":"https:\/\/snap.fan\/cards\/Pixie\/",
     "energy":2,
     "power":1,
-    "series":"5",
+    "series":"4",
     "released":true
   },
   {
@@ -2059,6 +2086,15 @@
     "power":5,
     "series":"3",
     "released":true
+  },
+  {
+    "name":"Prodigy",
+    "ability":"On Reveal: If this is in the back row, copy the text of the card in front of it.",
+    "url":"https:\/\/snap.fan\/cards\/Prodigy\/",
+    "energy":3,
+    "power":4,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Professor X",
@@ -2116,7 +2152,7 @@
   },
   {
     "name":"Quinjet",
-    "ability":"Ongoing: Cards that didn't start in your deck cost 1 less. (minimum 1)",
+    "ability":"Ongoing: Your created cards cost 1 less. (minimum 1)",
     "url":"https:\/\/snap.fan\/cards\/Quinjet\/",
     "energy":1,
     "power":2,
@@ -2152,7 +2188,7 @@
   },
   {
     "name":"Red Hulk",
-    "ability":"When your opponent ends a turn with unspent Energy, +3 Power.(if in hand or in play)",
+    "ability":"End of Turn: If your opponent has unspent Energy, +3 Power.(if in hand or in play)",
     "url":"https:\/\/snap.fan\/cards\/RedHulk\/",
     "energy":6,
     "power":10,
@@ -2273,7 +2309,7 @@
     "url":"https:\/\/snap.fan\/cards\/Sasquatch\/",
     "energy":6,
     "power":10,
-    "series":"5",
+    "series":"4",
     "released":true
   },
   {
@@ -2336,7 +2372,7 @@
     "url":"https:\/\/snap.fan\/cards\/SebastianShaw\/",
     "energy":3,
     "power":4,
-    "series":"5",
+    "series":"4",
     "released":true
   },
   {
@@ -2345,7 +2381,7 @@
     "url":"https:\/\/snap.fan\/cards\/Selene\/",
     "energy":1,
     "power":2,
-    "series":"4",
+    "series":"3",
     "released":true
   },
   {
@@ -2443,7 +2479,7 @@
     "ability":"After ANY card is played here, this moves to another location.",
     "url":"https:\/\/snap.fan\/cards\/Silk\/",
     "energy":2,
-    "power":5,
+    "power":3,
     "series":"4",
     "released":true
   },
@@ -2480,7 +2516,7 @@
     "url":"https:\/\/snap.fan\/cards\/Skaar\/",
     "energy":7,
     "power":12,
-    "series":"5",
+    "series":"4",
     "released":true
   },
   {
@@ -2489,7 +2525,7 @@
     "url":"https:\/\/snap.fan\/cards\/Snowguard\/",
     "energy":1,
     "power":2,
-    "series":"4",
+    "series":"3",
     "released":true
   },
   {
@@ -2516,7 +2552,7 @@
     "url":"https:\/\/snap.fan\/cards\/SpiderHam\/",
     "energy":1,
     "power":1,
-    "series":"4",
+    "series":"3",
     "released":true
   },
   {
@@ -2602,7 +2638,7 @@
   },
   {
     "name":"Strange Supreme",
-    "ability":"Give this +2 Power whenever it merges. After each turn, merge one of your cards that didn't start in your deck into this.",
+    "ability":"Gains +2 Power from merging. End of Turn: Merge one of your created cards into this.",
     "url":"https:\/\/snap.fan\/cards\/StrangeSupreme\/",
     "energy":2,
     "power":0,
@@ -2620,7 +2656,7 @@
   },
   {
     "name":"Sunspot",
-    "ability":"After each turn, gain +1 Power for each unspent Energy.",
+    "ability":"End of Turn: Gain +1 Power for each unspent Energy.",
     "url":"https:\/\/snap.fan\/cards\/Sunspot\/",
     "energy":1,
     "power":1,
@@ -2642,8 +2678,17 @@
     "url":"https:\/\/snap.fan\/cards\/Supergiant\/",
     "energy":4,
     "power":5,
-    "series":"5",
+    "series":"4",
     "released":true
+  },
+  {
+    "name":"surge",
+    "ability":"On Reveal: Give the top card of your deck -1 Cost and +1 Power. After you play it, repeat this ability.",
+    "url":"https:\/\/snap.fan\/cards\/Surge\/",
+    "energy":2,
+    "power":2,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Surtur",
@@ -2692,7 +2737,7 @@
   },
   {
     "name":"Thaddeus Ross",
-    "ability":"When your opponent ends a turn with unspent Energy, draw a card with 10 or more Power.",
+    "ability":"End of Turn: If your opponent has unspent Energy, draw a card with 10 or more Power.",
     "url":"https:\/\/snap.fan\/cards\/ThaddeusRoss\/",
     "energy":2,
     "power":2,
@@ -2716,6 +2761,15 @@
     "power":2,
     "series":"2",
     "released":true
+  },
+  {
+    "name":"The First Ghost Rider",
+    "ability":"On Reveal: Discard the lowest-Power card from your hand. Remove that card's Power from this.",
+    "url":"https:\/\/snap.fan\/cards\/GhostTheFirstRider\/",
+    "energy":2,
+    "power":5,
+    "series":"5",
+    "released":false
   },
   {
     "name":"The Hood",
@@ -2755,7 +2809,7 @@
   },
   {
     "name":"Thena",
-    "ability":"After each turn, +3 Power if you played (exactly) 2 cards.",
+    "ability":"End of turn: +3 Power if you played (exactly) 2 cards.",
     "url":"https:\/\/snap.fan\/cards\/Thena\/",
     "energy":2,
     "power":1,
@@ -2840,7 +2894,7 @@
     "url":"https:\/\/snap.fan\/cards\/Valentina\/",
     "energy":2,
     "power":3,
-    "series":"5",
+    "series":"4",
     "released":true
   },
   {
@@ -2939,7 +2993,7 @@
     "url":"https:\/\/snap.fan\/cards\/WerewolfByNight\/",
     "energy":3,
     "power":3,
-    "series":"5",
+    "series":"4",
     "released":true
   },
   {
@@ -3006,12 +3060,21 @@
     "released":true
   },
   {
+    "name":"Xorn",
+    "ability":"After ANY 3 or 4-Cost card is played here, move it to another location.",
+    "url":"https:\/\/snap.fan\/cards\/Xorn\/",
+    "energy":2,
+    "power":3,
+    "series":"5",
+    "released":false
+  },
+  {
     "name":"X-23",
     "ability":"When this is discarded or destroyed, regenerate it at a random location and you get +1 Energy next turn.",
     "url":"https:\/\/snap.fan\/cards\/X23\/",
     "energy":1,
     "power":2,
-    "series":"5",
+    "series":"4",
     "released":true
   },
   {
@@ -3025,7 +3088,7 @@
   },
   {
     "name":"Yondu",
-    "ability":"On Reveal: Destroy the card that costs the least in your opponent's deck.",
+    "ability":"On Reveal: Banish the card that costs the least in your opponent’s deck.",
     "url":"https:\/\/snap.fan\/cards\/Yondu\/",
     "energy":1,
     "power":2,
@@ -3038,7 +3101,7 @@
     "url":"https:\/\/snap.fan\/cards\/Zabu\/",
     "energy":1,
     "power":2,
-    "series":"4",
+    "series":"3",
     "released":true
   },
   {
