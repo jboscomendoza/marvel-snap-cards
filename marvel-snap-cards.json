@@ -300,8 +300,8 @@
     "name":"Black Cat",
     "ability":"End of Turn: Discard this from your hand.",
     "url":"https:\/\/snap.fan\/cards\/BlackCat\/",
-    "energy":4,
-    "power":10,
+    "energy":2,
+    "power":6,
     "series":"3",
     "released":true
   },
@@ -388,7 +388,7 @@
   },
   {
     "name":"Bruce Banner",
-    "ability":"End of Turn: if you have unspent Energy, 25% chance to HULK OUT!",
+    "ability":"End of Turn: if you have unspent Energy, 33% chance to HULK OUT!",
     "url":"https:\/\/snap.fan\/cards\/BruceBanner\/",
     "energy":2,
     "power":1,
@@ -1099,10 +1099,10 @@
   },
   {
     "name":"Hela",
-    "ability":"On Reveal: Resurrect all cards you discarded to random locationswith -3 Power.",
+    "ability":"On Reveal: For each different Cost among them, resurrect a card you discarded to a random location.",
     "url":"https:\/\/snap.fan\/cards\/Hela\/",
     "energy":6,
-    "power":7,
+    "power":6,
     "series":"3",
     "released":true
   },
@@ -1120,7 +1120,7 @@
     "ability":"Activate: Discard a card from your hand.",
     "url":"https:\/\/snap.fan\/cards\/Hellcow\/",
     "energy":4,
-    "power":7,
+    "power":6,
     "series":"3",
     "released":true
   },
@@ -1551,7 +1551,7 @@
     "name":"Loki",
     "ability":"On Reveal: Replace your deck with your opponent's starting deck. Give those cards -1 Cost.",
     "url":"https:\/\/snap.fan\/cards\/Loki\/",
-    "energy":2,
+    "energy":1,
     "power":2,
     "series":"4",
     "released":true
@@ -2607,7 +2607,7 @@
     "energy":3,
     "power":10,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Stature",
@@ -2713,7 +2713,7 @@
     "ability":"On Reveal: Discard an odd-costted card from your hand.",
     "url":"https:\/\/snap.fan\/cards\/SwordMaster\/",
     "energy":3,
-    "power":7,
+    "power":6,
     "series":"1",
     "released":true
   },
@@ -2749,7 +2749,7 @@
     "ability":"At the start of the game, draw Thanos and shuffle the six Infinity Stones into your deck.",
     "url":"https:\/\/snap.fan\/cards\/Thanos\/",
     "energy":6,
-    "power":10,
+    "power":12,
     "series":"5",
     "released":true
   },
@@ -3046,7 +3046,7 @@
     "ability":"When this is discarded or destroyed, regenerate it with +2 Power at a random location.",
     "url":"https:\/\/snap.fan\/cards\/Wolverine\/",
     "energy":2,
-    "power":2,
+    "power":3,
     "series":"1",
     "released":true
   },
