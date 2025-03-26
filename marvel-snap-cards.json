@@ -870,7 +870,7 @@
     "energy":2,
     "power":3,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Forge",
@@ -1008,7 +1008,7 @@
     "released":false
   },
   {
-    "name":"Gorr",
+    "name":"Gorr the God Butcher ",
     "ability":"Ongoing: +2 Power for EACH On Reveal card in play.",
     "url":"https:\/\/snap.fan\/cards\/Gorr\/",
     "energy":6,
@@ -1440,13 +1440,13 @@
     "released":true
   },
   {
-    "name":"Konshu",
+    "name":"Khonshu",
     "ability":"When discarded, returns in its next phase. On Reveal: Resurrect a card you discarded to another location with its Power set to 5.",
-    "url":"https:\/\/snap.fan\/cards\/Konshu\/",
+    "url":"https:\/\/snap.fan\/cards\/Khonshu\/",
     "energy":6,
     "power":5,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Korg",
@@ -2769,7 +2769,7 @@
     "energy":2,
     "power":5,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"The Hood",
