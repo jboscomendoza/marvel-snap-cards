@@ -456,7 +456,7 @@
     "energy":4,
     "power":3,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Captain Marvel",
@@ -493,6 +493,15 @@
     "power":0,
     "series":"3",
     "released":true
+  },
+  {
+    "name":"Clea",
+    "ability":"After this card permanently gains Power, add a Flames Of The Faltine to your hand. (if in hand or in play).",
+    "url":"https:\/\/snap.fan\/cards\/Clea\/",
+    "energy":1,
+    "power":1,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Cloak",
@@ -738,6 +747,15 @@
     "released":true
   },
   {
+    "name":"Dormmamu",
+    "ability":"Game Start: Begin a Summoning Ritual. (Add the first step to hand.)",
+    "url":"https:\/\/snap.fan\/cards\/Dormmamu\/",
+    "energy":7,
+    "power":10,
+    "series":"5",
+    "released":false
+  },
+  {
     "name":"Dracula",
     "ability":"At the end of the game, discard a card from your hand to gain its Power.",
     "url":"https:\/\/snap.fan\/cards\/Dracula\/",
@@ -793,10 +811,10 @@
   },
   {
     "name":"Elixir",
-    "ability":"Activate: The next time one of your cards is destroyed this turn, revive it here.",
+    "ability":"On Reveal: One of your cards destroyed last turn gets revived here.",
     "url":"https:\/\/snap.fan\/cards\/Elixir\/",
-    "energy":1,
-    "power":1,
+    "energy":2,
+    "power":3,
     "series":"5",
     "released":false
   },
@@ -987,7 +1005,7 @@
     "energy":2,
     "power":1,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Goose",
@@ -1208,16 +1226,16 @@
   {
     "name":"Hydra Bob",
     "ability":"End of Turn: This moves if a player Snapped.",
-    "url":"https:\/\/snap.fan\/cards\/HydraStomper\/",
+    "url":"https:\/\/snap.fan\/cards\/HydraBob\/",
     "energy":3,
-    "power":1,
+    "power":2,
     "series":"5",
     "released":false
   },
   {
     "name":"Hydra Stomper",
-    "ability":"Ongoing: +1 Power for each card you moved this game.",
-    "url":"https:\/\/snap.fan\/cards\/HydraBob\/",
+    "ability":"Ongoing: +1 Power for each time one of your cards moved this game.",
+    "url":"https:\/\/snap.fan\/cards\/HydraStomper\/",
     "energy":1,
     "power":4,
     "series":"5",
@@ -1234,7 +1252,7 @@
   },
   {
     "name":"infinity Ultron",
-    "ability":"On Reveal: Add 2 Ultron Infinity Stones to your hand.",
+    "ability":"On Reveal: Add 2 of Ultron's Stones to your hand.",
     "url":"https:\/\/snap.fan\/cards\/InfinityUltron\/",
     "energy":5,
     "power":6,
@@ -1369,7 +1387,7 @@
   },
   {
     "name":"Kahhori",
-    "ability":"On Reveal: For each card in your hand, give a friendly card +1 Power.",
+    "ability":"On Reveal: Each card in your hand gives one of your cards in play +1 Power.",
     "url":"https:\/\/snap.fan\/cards\/Kahhori\/",
     "energy":4,
     "power":6,
@@ -1710,6 +1728,15 @@
     "released":true
   },
   {
+    "name":"Merlin",
+    "ability":"At the start of each turn, add a Wizardly Incantation to your hand.",
+    "url":"https:\/\/snap.fan\/cards\/Merlin\/",
+    "energy":2,
+    "power":3,
+    "series":"5",
+    "released":false
+  },
+  {
     "name":"Miek",
     "ability":"When you discard a card, this gains +1 Power and can move next turn.",
     "url":"https:\/\/snap.fan\/cards\/Miek\/",
@@ -1845,6 +1872,15 @@
     "released":true
   },
   {
+    "name":"Morgan le Fay",
+    "ability":"On Reveal: Return all your discarded and destroyed cards to hand with +3 Power.",
+    "url":"https:\/\/snap.fan\/cards\/MorganLeFay\/",
+    "energy":4,
+    "power":5,
+    "series":"5",
+    "released":false
+  },
+  {
     "name":"Morph",
     "ability":"On Reveal: Become a copy of a card in your opponent's hand.",
     "url":"https:\/\/snap.fan\/cards\/Morph\/",
@@ -1960,6 +1996,15 @@
     "power":2,
     "series":"0",
     "released":true
+  },
+  {
+    "name":"Nightmare",
+    "ability":"On Reveal: Replace the text of each card in your hand with that of a random card that costs the same amount.",
+    "url":"https:\/\/snap.fan\/cards\/Nightmare\/",
+    "energy":2,
+    "power":2,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Nimrod",
@@ -2641,7 +2686,7 @@
     "ability":"Gains +2 Power from merging. End of Turn: Merge one of your created cards into this.",
     "url":"https:\/\/snap.fan\/cards\/StrangeSupreme\/",
     "energy":2,
-    "power":0,
+    "power":2,
     "series":"5",
     "released":false
   },
@@ -2682,7 +2727,7 @@
     "released":true
   },
   {
-    "name":"surge",
+    "name":"Surge",
     "ability":"On Reveal: Give the top card of your deck -1 Cost and +1 Power. After you play it, repeat this ability.",
     "url":"https:\/\/snap.fan\/cards\/Surge\/",
     "energy":2,
@@ -2752,6 +2797,15 @@
     "power":12,
     "series":"5",
     "released":true
+  },
+  {
+    "name":"The Ancient One",
+    "ability":"On Reveal: Add a Tao Mandala to your hand.",
+    "url":"https:\/\/snap.fan\/cards\/TheAncientOne\/",
+    "energy":3,
+    "power":5,
+    "series":"5",
+    "released":false
   },
   {
     "name":"The Collector",
