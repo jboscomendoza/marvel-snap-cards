@@ -181,7 +181,7 @@
   },
   {
     "name":"Ara\u00f1a",
-    "ability":"Activate: Give the next card you play +1 Power and move it to the right.",
+    "ability":"Activate: After you play your next card, give it +1 Power and move it to the right.",
     "url":"https:\/\/snap.fan\/cards\/Arana\/",
     "energy":1,
     "power":2,
@@ -283,7 +283,7 @@
     "ability":"After you play a card, this gains +1 Power.",
     "url":"https:\/\/snap.fan\/cards\/Bishop\/",
     "energy":3,
-    "power":1,
+    "power":2,
     "series":"1",
     "released":true
   },
@@ -453,8 +453,8 @@
     "name":"Captain Carter",
     "ability":"Ongoing: Add this card's Power to your back-row cards here. (can't add to itself)",
     "url":"https:\/\/snap.fan\/cards\/CaptainCarter\/",
-    "energy":4,
-    "power":3,
+    "energy":3,
+    "power":2,
     "series":"5",
     "released":true
   },
@@ -688,7 +688,7 @@
     "ability":"Ongoing: +2 Power for each card in your hand.",
     "url":"https:\/\/snap.fan\/cards\/DevilDinosaur\/",
     "energy":5,
-    "power":3,
+    "power":4,
     "series":"1",
     "released":true
   },
@@ -816,7 +816,7 @@
     "energy":2,
     "power":3,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Elsa Bloodstone",
@@ -1224,6 +1224,15 @@
     "released":true
   },
   {
+    "name":"Human Torch First Steps",
+    "ability":"End of Turn: +1 Power. Once per game, if your side here is full, double this card’s Power instead.",
+    "url":"https:\/\/snap.fan\/cards\/HumanTorchFirstSteps\/",
+    "energy":3,
+    "power":2,
+    "series":"5",
+    "released":true
+  },
+  {
     "name":"Hydra Bob",
     "ability":"End of Turn: This moves if a player Snapped.",
     "url":"https:\/\/snap.fan\/cards\/HydraBob\/",
@@ -1236,8 +1245,17 @@
     "name":"Hydra Stomper",
     "ability":"Ongoing: +1 Power for each time one of your cards moved this game.",
     "url":"https:\/\/snap.fan\/cards\/HydraStomper\/",
-    "energy":1,
-    "power":4,
+    "energy":3,
+    "power":2,
+    "series":"5",
+    "released":true
+  },
+  {
+    "name":"H.E.R.B.I.E.",
+    "ability":"Each turn this is in play, swap to a new Activate ability until one is used.",
+    "url":"https:\/\/snap.fan\/cards\/Herbie\/",
+    "energy":2,
+    "power":3,
     "series":"5",
     "released":true
   },
@@ -1251,11 +1269,11 @@
     "released":true
   },
   {
-    "name":"infinity Ultron",
+    "name":"Infinity Ultron",
     "ability":"On Reveal: Add 2 of Ultron's Stones to your hand.",
     "url":"https:\/\/snap.fan\/cards\/InfinityUltron\/",
     "energy":5,
-    "power":6,
+    "power":8,
     "series":"5",
     "released":false
   },
@@ -1267,6 +1285,15 @@
     "power":3,
     "series":"3",
     "released":true
+  },
+    {
+    "name":"Invisible Woman First Steps",
+    "ability":"Activate: This turn, your End of Turn abilities happen twice.",
+    "url":"https:\/\/snap.fan\/cards\/InvisibleWomanFirstSteps\/",
+    "energy":3,
+    "power":5,
+    "series":"5",
+    "released":false
   },
   {
     "name":"Iron Fist",
@@ -1341,6 +1368,15 @@
     "released":true
   },
   {
+    "name":"Jennifer Kale",
+    "ability":"Activate: Next turn, you get +1 Energy.",
+    "url":"https:\/\/snap.fan\/cards\/JenniferKale\/",
+    "energy":2,
+    "power":3,
+    "series":"4",
+    "released":true
+  },
+  {
     "name":"Jessica Jones",
     "ability":"On Reveal: If you don't play a card at this location next turn, +5 Power.",
     "url":"https:\/\/snap.fan\/cards\/JessicaJones\/",
@@ -1387,12 +1423,12 @@
   },
   {
     "name":"Kahhori",
-    "ability":"On Reveal: Each card in your hand gives one of your cards in play +1 Power.",
+    "ability":"On Reveal: Each card in your hand gives one of your other cards in play +1 Power.",
     "url":"https:\/\/snap.fan\/cards\/Kahhori\/",
     "energy":4,
     "power":6,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Kang",
@@ -1606,7 +1642,7 @@
     "ability":"On Reveal: Discard your hand.",
     "url":"https:\/\/snap.fan\/cards\/Modok\/",
     "energy":5,
-    "power":8,
+    "power":7,
     "series":"3",
     "released":true
   },
@@ -1729,12 +1765,12 @@
   },
   {
     "name":"Merlin",
-    "ability":"At the start of each turn, add a Wizardly Incantation to your hand.",
+    "ability":"At the start of each turn, add an Incantation to your hand.",
     "url":"https:\/\/snap.fan\/cards\/Merlin\/",
     "energy":2,
     "power":3,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Miek",
@@ -1774,11 +1810,11 @@
   },
   {
     "name":"Mister Fantastic",
-    "ability":"Ongoing: Adjacent locations have +2 Power.",
-    "url":"https:\/\/snap.fan\/cards\/MrFantastic\/",
-    "energy":3,
+    "ability":"End of Turn: Give a card in your hand -1 Cost or +2 Power.",
+    "url":"https:\/\/snap.fan\/cards\/MrFantasticFirstSteps\/",
+    "energy":2,
     "power":2,
-    "series":"0",
+    "series":"5",
     "released":true
   },
   {
@@ -1876,9 +1912,9 @@
     "ability":"On Reveal: Return all your discarded and destroyed cards to hand with +3 Power.",
     "url":"https:\/\/snap.fan\/cards\/MorganLeFay\/",
     "energy":4,
-    "power":5,
+    "power":7,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Morph",
@@ -1980,6 +2016,15 @@
     "released":true
   },
   {
+    "name":"Nicholas Scratch",
+    "ability":"After you play a skill, +1 Power.",
+    "url":"https:\/\/snap.fan\/cards\/NicholasScratch\/",
+    "energy":1,
+    "power":2,
+    "series":"4",
+    "released":true
+  },
+  {
     "name":"Nico Minoru",
     "ability":"On Reveal: After you play your next card, cast a spell. (The spellchanges each turn.)",
     "url":"https:\/\/snap.fan\/cards\/NicoMinoru\/",
@@ -1999,12 +2044,12 @@
   },
   {
     "name":"Nightmare",
-    "ability":"On Reveal: Replace the text of each card in your hand with that of a random card that costs the same amount.",
+    "ability":"On Reveal: Replace the text of each card in your hand with text from a random card of the same Cost.",
     "url":"https:\/\/snap.fan\/cards\/Nightmare\/",
-    "energy":2,
-    "power":2,
+    "energy":3,
+    "power":-1,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Nimrod",
@@ -2083,7 +2128,7 @@
     "ability":"Ongoing: Your cards with no abilities have +2 Power.",
     "url":"https:\/\/snap.fan\/cards\/Patriot\/",
     "energy":3,
-    "power":1,
+    "power":2,
     "series":"3",
     "released":true
   },
@@ -2101,7 +2146,7 @@
     "ability":"On Reveal: Give each card in your deck -1 Cost or +2 Power.",
     "url":"https:\/\/snap.fan\/cards\/Phastos\/",
     "energy":3,
-    "power":3,
+    "power":4,
     "series":"4",
     "released":true
   },
@@ -2218,7 +2263,7 @@
     "ability":"The first time this moves, add a card from your hand to the old location.",
     "url":"https:\/\/snap.fan\/cards\/Redwing\/",
     "energy":3,
-    "power":3,
+    "power":5,
     "series":"5",
     "released":true
   },
@@ -2260,10 +2305,10 @@
   },
   {
     "name":"Rhino",
-    "ability":"On Reveal: Ruin this location. (remove its ability)",
+    "ability":"On Reveal: Add a Rock to your side of this location.",
     "url":"https:\/\/snap.fan\/cards\/Rhino\/",
     "energy":3,
-    "power":3,
+    "power":6,
     "series":"2",
     "released":true
   },
@@ -2281,7 +2326,7 @@
     "ability":"You can move this once. After your opponent plays a card here, steal 1 Power from it.",
     "url":"https:\/\/snap.fan\/cards\/RocketAndGroot\/",
     "energy":3,
-    "power":3,
+    "power":2,
     "series":"5",
     "released":true
   },
@@ -2335,7 +2380,7 @@
     "ability":"Game Start: Add Cap's Shield to a random location. Ongoing: You can move Cap's Shield.",
     "url":"https:\/\/snap.fan\/cards\/SamWilson\/",
     "energy":2,
-    "power":3,
+    "power":2,
     "series":"5",
     "released":true
   },
@@ -2407,7 +2452,7 @@
     "ability":"When an enemy card moves, steal 2 power from it. (once per turn)",
     "url":"https:\/\/snap.fan\/cards\/Scream\/",
     "energy":2,
-    "power":3,
+    "power":1,
     "series":"5",
     "released":true
   },
@@ -2686,9 +2731,9 @@
     "ability":"Gains +2 Power from merging. End of Turn: Merge one of your created cards into this.",
     "url":"https:\/\/snap.fan\/cards\/StrangeSupreme\/",
     "energy":2,
-    "power":2,
+    "power":1,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Strong Guy",
@@ -2800,12 +2845,12 @@
   },
   {
     "name":"The Ancient One",
-    "ability":"On Reveal: Add a Tao Mandala to your hand.",
+    "ability":"On Reveal: Add Tao Mandala to your hand.",
     "url":"https:\/\/snap.fan\/cards\/TheAncientOne\/",
     "energy":3,
     "power":5,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"The Collector",
@@ -2821,7 +2866,7 @@
     "ability":"On Reveal: Discard the lowest-Power card from your hand. Remove that card's Power from this.",
     "url":"https:\/\/snap.fan\/cards\/GhostTheFirstRider\/",
     "energy":2,
-    "power":5,
+    "power":6,
     "series":"5",
     "released":true
   },
@@ -2862,6 +2907,15 @@
     "released":true
   },
   {
+    "name":"The Thing First Steps",
+    "ability":"End of Turn: +2 Power. Once per game, if your side here is full, destroy an enemy card here with less Power.",
+    "url":"https:\/\/snap.fan\/cards\/TheThingFirstSteps\/",
+    "energy":5,
+    "power":6,
+    "series":"5",
+    "released":false
+  },
+  {
     "name":"Thena",
     "ability":"End of turn: +3 Power if you played (exactly) 2 cards.",
     "url":"https:\/\/snap.fan\/cards\/Thena\/",
@@ -2889,11 +2943,20 @@
     "released":true
   },
   {
+    "name":"Toxie Doxie",
+    "ability":"On Reveal: Give 2 characters in your hand +2 Power. You can't play them next turn.",
+    "url":"https:\/\/snap.fan\/cards\/ToxieDoxie\/",
+    "energy":2,
+    "power":3,
+    "series":"4",
+    "released":true
+  },
+  {
     "name":"Toxin",
     "ability":"On Reveal: Return your other cards here to your hand. +2 Power for each returned.",
     "url":"https:\/\/snap.fan\/cards\/Toxin\/",
     "energy":2,
-    "power":1,
+    "power":2,
     "series":"5",
     "released":true
   },
