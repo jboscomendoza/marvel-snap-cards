@@ -13,7 +13,7 @@
     "ability":"On Reveal: If the last card you played has an On Reveal, copy its text. (if it's in play)",
     "url":"https:\/\/snap.fan\/cards\/AbsorbingMan\/",
     "energy":4,
-    "power":4,
+    "power":5,
     "series":"3",
     "released":true
   },
@@ -897,7 +897,7 @@
     "energy":3,
     "power":4,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Eson",
@@ -973,7 +973,7 @@
   },
   {
     "name":"Galacta",
-    "ability":"Each turn, the first card you play at another location reveals with +3 Power.",
+    "ability":"Each turn, the first card you play another location reveals with +2 Power.",
     "url":"https:\/\/snap.fan\/cards\/Galacta\/",
     "energy":4,
     "power":6,
@@ -1224,6 +1224,15 @@
     "released":true
   },
   {
+    "name":"Hellion",
+    "ability":"On Reveal: Next turn, you can move cards to this location.",
+    "url":"https:\/\/snap.fan\/cards\/Hellion\/",
+    "energy":5,
+    "power":8,
+    "series":"4",
+    "released":true
+  },
+  {
     "name":"Hercules",
     "ability":"The first time another one of your cards moves here each turn, move it to another location.",
     "url":"https:\/\/snap.fan\/cards\/Hercules\/",
@@ -1405,7 +1414,7 @@
   },
   {
     "name":"Ironheart",
-    "ability":"On Reveal: Give 3 of your other cards +2 Power.",
+    "ability":"On Reveal: Give 2 of your other cards +3 Power.",
     "url":"https:\/\/snap.fan\/cards\/Ironheart\/",
     "energy":3,
     "power":0,
@@ -1693,10 +1702,10 @@
   },
   {
     "name":"Lockjaw",
-    "ability":"After you play a card here, swap it with a card in your deck.(once per turn)",
+    "ability":"Activate: After you play your next card, swap it with a card in your deck.",
     "url":"https:\/\/snap.fan\/cards\/Lockjaw\/",
-    "energy":4,
-    "power":5,
+    "energy":2,
+    "power":2,
     "series":"3",
     "released":true
   },
@@ -1872,6 +1881,15 @@
     "released":true
   },
   {
+    "name":"Mercury",
+    "ability":"You can move this once. Ongoing: Enemy cards here can't move.",
+    "url":"https:\/\/snap.fan\/cards\/Mercury\/",
+    "energy":2,
+    "power":2,
+    "series":"4",
+    "released":true
+  },
+  {
     "name":"Merlin",
     "ability":"At the start of each turn, add an Incantation to your hand.",
     "url":"https:\/\/snap.fan\/cards\/Merlin\/",
@@ -1912,7 +1930,7 @@
     "ability":"On Reveal: Repeat the On Reveal abilities of your other cards here, then destroy them.",
     "url":"https:\/\/snap.fan\/cards\/Misery\/",
     "energy":4,
-    "power":8,
+    "power":9,
     "series":"5",
     "released":true
   },
@@ -2332,7 +2350,7 @@
   },
   {
     "name":"Professor X",
-    "ability":"Ongoing: Moving is the only way to add or remove a card from here.",
+    "ability":"Ongoing: Moving is the only way to add or remove a character from here.",
     "url":"https:\/\/snap.fan\/cards\/ProfessorX\/",
     "energy":5,
     "power":2,
@@ -2416,7 +2434,7 @@
     "ability":"On Reveal: Afflict the lowest-Power enemy card here with -2 Power and remove its text.",
     "url":"https:\/\/snap.fan\/cards\/RedGuardian\/",
     "energy":3,
-    "power":3,
+    "power":2,
     "series":"5",
     "released":true
   },
@@ -2460,8 +2478,8 @@
     "name":"Rhino",
     "ability":"On Reveal: Add a Rock to your side of this location.",
     "url":"https:\/\/snap.fan\/cards\/Rhino\/",
-    "energy":3,
-    "power":6,
+    "energy":2,
+    "power":5,
     "series":"2",
     "released":true
   },
@@ -3034,7 +3052,7 @@
   },
   {
     "name":"Thanos",
-    "ability":"At the start of the game, draw Thanos and shuffle the six Infinity Stones into your deck.",
+    "ability":"Game Start: Shuffle the six Infinity Stones into your deck.",
     "url":"https:\/\/snap.fan\/cards\/Thanos\/",
     "energy":6,
     "power":12,
@@ -3378,7 +3396,7 @@
     "ability":"On Reveal: +2 Power for each other card you have here.",
     "url":"https:\/\/snap.fan\/cards\/Wolfsbane\/",
     "energy":3,
-    "power":1,
+    "power":2,
     "series":"0",
     "released":true
   },
@@ -3407,7 +3425,7 @@
     "energy":2,
     "power":3,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"X-23",
