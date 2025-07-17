@@ -99,6 +99,15 @@
     "released":true
   },
   {
+    "name":"Air-Walker",
+    "ability":"When this is destroyed, replace it with a 4-Cost card from your hand or deck.",
+    "url":"https:\/\/snap.fan\/cards\/AirWalker\/",
+    "energy":3,
+    "power":3,
+    "series":"Unknown",
+    "released":false
+  },
+  {
     "name":"Ajax",
     "ability":"Ongoing: +1 Power for each card in play afflicted with negative Power.",
     "url":"https:\/\/snap.fan\/cards\/Ajax\/",
@@ -259,6 +268,15 @@
     "power":1,
     "series":"3",
     "released":true
+  },
+  {
+    "name":"Bastion",
+    "ability":"On Reveal: Add copies of your other cards here to your hand. Set their Costs to 2 and Power to 3.",
+    "url":"https:\/\/snap.fan\/cards\/Bastion\/",
+    "energy":4,
+    "power":5,
+    "series":"Unknown",
+    "released":false
   },
   {
     "name":"Beast",
@@ -513,6 +531,15 @@
     "released":true
   },
   {
+    "name":"Cobra",
+    "ability":"Activate: Destroy an enemy created card here.",
+    "url":"https:\/\/snap.fan\/cards\/Cobra\/",
+    "energy":2,
+    "power":3,
+    "series":"4",
+    "released":true
+  },
+  {
     "name":"Colleen Wing",
     "ability":"On Reveal: Discard the card that costs least from your hand.",
     "url":"https:\/\/snap.fan\/cards\/ColleenWing\/",
@@ -547,6 +574,15 @@
     "power":5,
     "series":"4",
     "released":true
+  },
+  {
+    "name":"Cosmic Ghost Rider",
+    "ability":"On Reveal: Remove the text from front-row enemy cards here.",
+    "url":"https:\/\/snap.fan\/cards\/CosmicGhostRider\/",
+    "energy":5,
+    "power":7,
+    "series":"Unknown",
+    "released":false
   },
   {
     "name":"Cosmo",
@@ -610,6 +646,15 @@
     "power":4,
     "series":"4",
     "released":true
+  },
+  {
+    "name":"Danger",
+    "ability":"Activate: Destroy an enemy card here with less Power.",
+    "url":"https:\/\/snap.fan\/cards\/Danger\/",
+    "energy":5,
+    "power":6,
+    "series":"Unknown",
+    "released":false
   },
   {
     "name":"Daredevil",
@@ -873,6 +918,15 @@
     "released":true
   },
   {
+    "name":"Fantasticar",
+    "ability":"Activate: Give your End of Turn cards +2 Power.",
+    "url":"https:\/\/snap.fan\/cards\/Fantasticar\/",
+    "energy":4,
+    "power":7,
+    "series":"5",
+    "released":true
+  },
+  {
     "name":"Fenris Wolf",
     "ability":"Activate: Resurrect the highest-Power discarded or destroyed enemy card to your side of this location.",
     "url":"https:\/\/snap.fan\/cards\/FenrisWolf\/",
@@ -889,6 +943,15 @@
     "power":3,
     "series":"5",
     "released":true
+  },
+  {
+    "name":"Firelord",
+    "ability":"On Reveal: Revive one of your discarded or destroyed 3-Cost cards here.",
+    "url":"https:\/\/snap.fan\/cards\/Firelord\/",
+    "energy":4,
+    "power":6,
+    "series":"Unknown",
+    "released":false
   },
   {
     "name":"Forge",
@@ -925,6 +988,15 @@
     "power":6,
     "series":"5",
     "released":true
+  },
+  {
+    "name":"Galactus First Steps",
+    "ability":"My Herald is the next character I see you play. End of Turn: +2 Power if you're winning my Herald's location. (if in hand or in play)",
+    "url":"https:\/\/snap.fan\/cards\/GalactusFirstSteps\/",
+    "energy":6,
+    "power":12,
+    "series":"Unknown",
+    "released":false
   },
   {
     "name":"Gambit",
@@ -1068,6 +1140,15 @@
     "energy":4,
     "power":6,
     "series":"3",
+    "released":true
+  },
+  {
+    "name":"H.E.R.B.I.E.",
+    "ability":"Each turn this is in play, swap to a new Activate ability until one is used.",
+    "url":"https:\/\/snap.fan\/cards\/Herbie\/",
+    "energy":2,
+    "power":3,
+    "series":"5",
     "released":true
   },
   {
@@ -1251,15 +1332,6 @@
     "released":true
   },
   {
-    "name":"H.E.R.B.I.E.",
-    "ability":"Each turn this is in play, swap to a new Activate ability until one is used.",
-    "url":"https:\/\/snap.fan\/cards\/Herbie\/",
-    "energy":2,
-    "power":3,
-    "series":"5",
-    "released":true
-  },
-  {
     "name":"Iceman",
     "ability":"On Reveal: Give a card in your opponent's hand +1 Cost.(maximum 6)",
     "url":"https:\/\/snap.fan\/cards\/Iceman\/",
@@ -1386,6 +1458,15 @@
     "released":true
   },
   {
+    "name":"Jim Hammond Human Torch",
+    "ability":"At the start of each turn, +1 Power for each bonus Energy you have.",
+    "url":"https:\/\/snap.fan\/cards\/JimHammond\/",
+    "energy":1,
+    "power":2,
+    "series":"Unknown",
+    "released":false
+  },
+  {
     "name":"Joaquin Torres Falcon II",
     "ability":"Ongoing: The On Reveal abilities of your 1-Cost cards here happen twice.",
     "url":"https:\/\/snap.fan\/cards\/JoaquinTorres\/",
@@ -1393,6 +1474,15 @@
     "power":2,
     "series":"5",
     "released":true
+  },
+  {
+    "name":"Jocasta",
+    "ability":"Activate: Immediately Activate your other cards here. (without using up their Activate abilities)",
+    "url":"https:\/\/snap.fan\/cards\/Jocasta\/",
+    "energy":3,
+    "power":3,
+    "series":"Unknown",
+    "released":false
   },
   {
     "name":"Jubilee",
@@ -1440,8 +1530,17 @@
     "released":true
   },
   {
+    "name":"Kid Omega",
+    "ability":"Activate: Destroy the next card you play this turn to gain its Power.",
+    "url":"https:\/\/snap.fan\/cards\/KidOmega\/",
+    "energy":2,
+    "power":1,
+    "series":"5",
+    "released":true
+  },
+  {
     "name":"Killmonger",
-    "ability":"On Reveal: Destroy ALL1-Cost cards.",
+    "ability":"On Reveal: Destroy ALL 1-Cost cards.",
     "url":"https:\/\/snap.fan\/cards\/Killmonger\/",
     "energy":3,
     "power":3,
@@ -1654,6 +1753,15 @@
     "power":1,
     "series":"5",
     "released":true
+  },
+  {
+    "name":"Mad Thinker",
+    "ability":"At the start of each turn (after drawing), +2 Power if your hand is full.",
+    "url":"https:\/\/snap.fan\/cards\/MadThinker\/",
+    "energy":1,
+    "power":1,
+    "series":"Unknown",
+    "released":false
   },
   {
     "name":"Magik",
@@ -1872,8 +1980,26 @@
     "released":true
   },
   {
+    "name":"Moira X",
+    "ability":"When this is destroyed, get a copy of your opening hand.",
+    "url":"https:\/\/snap.fan\/cards\/MoiraX\/",
+    "energy":1,
+    "power":2,
+    "series":"Unknown",
+    "released":false
+  },
+  {
+    "name":"Mole Man",
+    "ability":"On Reveal: Banish the top card of your deck. Add 2 Rocks to your hand. Set their Power to the banished card’s Cost.",
+    "url":"https:\/\/snap.fan\/cards\/MoleMan\/",
+    "energy":3,
+    "power":3,
+    "series":"Unknown",
+    "released":false
+  },
+  {
     "name":"Moon Girl",
-    "ability":"On Reveal: Duplicateyour hand.",
+    "ability":"On Reveal: Copy your hand.",
     "url":"https:\/\/snap.fan\/cards\/MoonGirl\/",
     "energy":4,
     "power":5,
@@ -2079,6 +2205,15 @@
     "released":true
   },
   {
+    "name":"Nova Frankie Ray",
+    "ability":"After the next time you play a 6-Cost card, double this card's Power.",
+    "url":"https:\/\/snap.fan\/cards\/FrankieRaye\/",
+    "energy":2,
+    "power":3,
+    "series":"Unknown",
+    "released":false
+  },
+  {
     "name":"Odin",
     "ability":"On Reveal: Repeat the On Reveal abilities of your other cards here.",
     "url":"https:\/\/snap.fan\/cards\/Odin\/",
@@ -2104,6 +2239,15 @@
     "power":5,
     "series":"3",
     "released":true
+  },
+  {
+    "name":"Omega Sentinel",
+    "ability":"Activate: Afflict the highest-Power enemy card with -7 Power..",
+    "url":"https:\/\/snap.fan\/cards\/KarimaShapandar\/",
+    "energy":4,
+    "power":3,
+    "series":"Unknown",
+    "released":false
   },
   {
     "name":"Onslaught",
@@ -2284,6 +2428,15 @@
     "power":10,
     "series":"5",
     "released":true
+  },
+  {
+    "name":"Red Shift",
+    "ability":"On Reveal: Discard the leftmost card in your hand to add a random card with the same Cost to your hand.",
+    "url":"https:\/\/snap.fan\/cards\/RedShift\/",
+    "energy":2,
+    "power":3,
+    "series":"Unknown",
+    "released":false
   },
   {
     "name":"Red Skull",
@@ -2566,7 +2719,7 @@
   },
   {
     "name":"Silk",
-    "ability":"After ANY card is played here, this moves to another location.",
+    "ability":"After ANY card is played here, move this to another location.",
     "url":"https:\/\/snap.fan\/cards\/Silk\/",
     "energy":2,
     "power":3,
@@ -2601,6 +2754,15 @@
     "released":true
   },
   {
+    "name":"Silver Surfer First Steps",
+    "ability":"End of Turn: If you're winning this location with an On Reveal card, copy its text.",
+    "url":"https:\/\/snap.fan\/cards\/SilverSurferFirstSteps\/",
+    "energy":3,
+    "power":4,
+    "series":"Unknown",
+    "released":false
+  },
+  {
     "name":"Skaar",
     "ability":"Costs 2 less for each of your cards that has 10 or more Power.",
     "url":"https:\/\/snap.fan\/cards\/Skaar\/",
@@ -2617,6 +2779,15 @@
     "power":2,
     "series":"3",
     "released":true
+  },
+  {
+    "name":"Sparky",
+    "ability":"Activate: Give your card that last moved +2 Power and move it back to its previous location.",
+    "url":"https:\/\/snap.fan\/cards\/Sparky\/",
+    "energy":2,
+    "power":3,
+    "series":"Unknown",
+    "released":false
   },
   {
     "name":"Spectrum",
@@ -2638,10 +2809,10 @@
   },
   {
     "name":"Spider-Ham",
-    "ability":"On Reveal: Transform the leftmost card in your opponent's hand into a Pig, keeping its Power and Cost.",
+    "ability":"Activate: Replace the text of a random character in your opponent's hand with oink!",
     "url":"https:\/\/snap.fan\/cards\/SpiderHam\/",
     "energy":1,
-    "power":1,
+    "power":2,
     "series":"3",
     "released":true
   },
@@ -2700,6 +2871,15 @@
     "released":true
   },
   {
+    "name":"Stardust",
+    "ability":"Ongoing: Cards can’t be added to locations except by playing or moving them.",
+    "url":"https:\/\/snap.fan\/cards\/Stardust\/",
+    "energy":4,
+    "power":7,
+    "series":"Unknown",
+    "released":false
+  },
+  {
     "name":"Stature",
     "ability":"Costs 1 if your opponent discarded a card this game.",
     "url":"https:\/\/snap.fan\/cards\/Stature\/",
@@ -2752,6 +2932,15 @@
     "power":1,
     "series":"2",
     "released":true
+  },
+  {
+    "name":"Super-Adaptoid",
+    "ability":"On Reveal: Steal the text from an enemy Activate card here.",
+    "url":"https:\/\/snap.fan\/cards\/SuperAdaptoid\/",
+    "energy":3,
+    "power":5,
+    "series":"Unknown",
+    "released":false
   },
   {
     "name":"Super-Skrull",
@@ -2826,6 +3015,15 @@
     "released":true
   },
   {
+    "name":"Terrax the Tamer",
+    "ability":"On Reveal: For each location, shuffle a Rock into the losing player's deck.",
+    "url":"https:\/\/snap.fan\/cards\/Terrax\/",
+    "energy":3,
+    "power":3,
+    "series":"Unknown",
+    "released":false
+  },
+  {
     "name":"Thaddeus Ross",
     "ability":"End of Turn: If your opponent has unspent Energy, draw a card with 10 or more Power.",
     "url":"https:\/\/snap.fan\/cards\/ThaddeusRoss\/",
@@ -2860,6 +3058,15 @@
     "power":2,
     "series":"2",
     "released":true
+  },
+  {
+    "name":"The Fallen One",
+    "ability":"On Reveal: Set your Max Energy equal to this card's Power.",
+    "url":"https:\/\/snap.fan\/cards\/FallenOne\/",
+    "energy":5,
+    "power":5,
+    "series":"Unknown",
+    "released":false
   },
   {
     "name":"The First Ghost Rider",
@@ -3060,6 +3267,15 @@
     "released":true
   },
   {
+    "name":"Viv Vision",
+    "ability":"End of Turn: Give each card in your hand +1 Power if you’re winning here. Otherwise, move this to another location.",
+    "url":"https:\/\/snap.fan\/cards\/Viv\/",
+    "energy":3,
+    "power":3,
+    "series":"Unknown",
+    "released":false
+  },
+  {
     "name":"Vulture",
     "ability":"When this card moves,+6 Power.",
     "url":"https:\/\/snap.fan\/cards\/Vulture\/",
@@ -3076,6 +3292,14 @@
     "power":6,
     "series":"5",
     "released":true
+  },
+  {
+    "name":"Warlock",
+    "ability":"Activate: For each unspent Energy, give a card in your hand -1 Cost.",
+    "url":"https:\/\/snap.fan\/cards\/Warlock\/",
+    "energy":3,
+    "power":4,    "series":"2",
+    "released":false
   },
   {
     "name":"Warpath",
