@@ -148,7 +148,7 @@
     "ability":"On Reveal: Your cards with Power below 0 switch sides. Destroythose that can't.",
     "url":"https:\/\/snap.fan\/cards\/Annihilus\/",
     "energy":5,
-    "power":7,
+    "power":8,
     "series":"4",
     "released":true
   },
@@ -487,7 +487,7 @@
   },
   {
     "name":"Cerebro",
-    "ability":"Ongoing: Your highest-Power cards have +2 Power.",
+    "ability":"Ongoing: Your highest-Power cards have +3 Power.",
     "url":"https:\/\/snap.fan\/cards\/Cerebro\/",
     "energy":3,
     "power":0,
@@ -496,12 +496,12 @@
   },
   {
     "name":"Clea",
-    "ability":"After this card permanently gains Power, add a Flames Of The Faltine to your hand. (if in hand or in play).",
+    "ability":"When this permanently gains Power, add Flames of the Faltine to your hand. (if in hand or in play)",
     "url":"https:\/\/snap.fan\/cards\/Clea\/",
     "energy":1,
     "power":1,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Cloak",
@@ -796,7 +796,7 @@
     "ability":"On Reveal: +1 Max Energy. Ongoing: You can only play1 card a turn.",
     "url":"https:\/\/snap.fan\/cards\/Electro\/",
     "energy":3,
-    "power":3,
+    "power":4,
     "series":"3",
     "released":true
   },
@@ -1101,8 +1101,8 @@
     "name":"Hazmat",
     "ability":"On Reveal: Afflict all other cards with -1 Power.",
     "url":"https:\/\/snap.fan\/cards\/Hazmat\/",
-    "energy":2,
-    "power":2,
+    "energy":3,
+    "power":3,
     "series":"3",
     "released":true
   },
@@ -1144,7 +1144,7 @@
   },
   {
     "name":"Hercules",
-    "ability":"The first time another card moves here each turn, move it to another location.",
+    "ability":"The first time another one of your cards moves here each turn, move it to another location.",
     "url":"https:\/\/snap.fan\/cards\/Hercules\/",
     "energy":3,
     "power":5,
@@ -1275,7 +1275,7 @@
     "energy":5,
     "power":8,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Invisible Woman",
@@ -1678,7 +1678,7 @@
     "ability":"End of Turn: Runs from your hand to a random location. (if possible)",
     "url":"https:\/\/snap.fan\/cards\/Makkari\/",
     "energy":3,
-    "power":4,
+    "power":3,
     "series":"5",
     "released":true
   },
@@ -2184,7 +2184,7 @@
     "energy":3,
     "power":4,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Professor X",
@@ -2404,9 +2404,9 @@
   },
   {
     "name":"Sauron",
-    "ability":"On Reveal: Remove the abilities from all Ongoing cards in yourhand and deck.",
+    "ability":"On Reveal: Remove the abilities from all Ongoing cards in your deck.",
     "url":"https:\/\/snap.fan\/cards\/Sauron\/",
-    "energy":3,
+    "energy":1,
     "power":3,
     "series":"3",
     "released":true
@@ -2458,7 +2458,7 @@
   },
   {
     "name":"Sebastian Shaw",
-    "ability":"When this card permanently gains Power, gain +2 more Power. (wherever this is)",
+    "ability":"When this permanently gains Power, gain +2 more Power. (wherever this is)",
     "url":"https:\/\/snap.fan\/cards\/SebastianShaw\/",
     "energy":3,
     "power":4,
@@ -2721,8 +2721,8 @@
     "name":"Storm",
     "ability":"On Reveal: Flood this location. Next turn is the last turn cards canbe played here.",
     "url":"https:\/\/snap.fan\/cards\/Storm\/",
-    "energy":4,
-    "power":5,
+    "energy":3,
+    "power":2,
     "series":"2",
     "released":true
   },
@@ -2778,7 +2778,7 @@
     "energy":2,
     "power":2,
     "series":"5",
-    "released":false
+    "released":true
   },
   {
     "name":"Surtur",
