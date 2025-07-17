@@ -426,8 +426,8 @@
     "name":"Bullseye",
     "ability":"Activate: Discard all cards that cost 1 or less from your hand. Afflict that many different enemy cards with -2 Power.",
     "url":"https:\/\/snap.fan\/cards\/Bullseye\/",
-    "energy":4,
-    "power":5,
+    "energy":3,
+    "power":2,
     "series":"5",
     "released":true
   },
@@ -787,7 +787,7 @@
     "ability":"End of Turn: Add a DoomBot 2099 to a random location if you played (exactly) 1 card.",
     "url":"https:\/\/snap.fan\/cards\/Doom2099\/",
     "energy":4,
-    "power":3,
+    "power":4,
     "series":"5",
     "released":true
   },
@@ -1120,7 +1120,7 @@
     "ability":"On Reveal: Switch sides.",
     "url":"https:\/\/snap.fan\/cards\/GreenGoblin\/",
     "energy":3,
-    "power":-3,
+    "power":-4,
     "series":"3",
     "released":true
   },
@@ -1849,7 +1849,7 @@
     "ability":"End of Turn: Give 3 of your 1-Cost cards +1 Power.",
     "url":"https:\/\/snap.fan\/cards\/MarvelBoy\/",
     "energy":3,
-    "power":1,
+    "power":2,
     "series":"5",
     "released":true
   },
@@ -1921,7 +1921,7 @@
     "ability":"On Reveal: Copy the card that costs the least from your opponent's hand into your hand. Give it +2 Power.",
     "url":"https:\/\/snap.fan\/cards\/Mirage\/",
     "energy":2,
-    "power":2,
+    "power":3,
     "series":"3",
     "released":true
   },
@@ -2143,7 +2143,7 @@
   },
   {
     "name":"Negasonic Teenage Warhead",
-    "ability":"After an enemy card is played here, destroy it. (once per game)",
+    "ability":"After an enemy character is played here, destroy it. (once per game)",
     "url":"https:\/\/snap.fan\/cards\/NegasonicTeenageWarhead\/",
     "energy":3,
     "power":3,
@@ -3127,7 +3127,7 @@
     "ability":"It's clobberin' time!",
     "url":"https:\/\/snap.fan\/cards\/TheThing\/",
     "energy":4,
-    "power":8,
+    "power":7,
     "series":"Starter",
     "released":true
   },
@@ -3459,7 +3459,7 @@
     "ability":"On Reveal: Give each 4-Cost card in your deck -1 Cost.",
     "url":"https:\/\/snap.fan\/cards\/Zabu\/",
     "energy":1,
-    "power":2,
+    "power":1,
     "series":"3",
     "released":true
   },
